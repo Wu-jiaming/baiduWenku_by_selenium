@@ -1,0 +1,2565 @@
+C语言设计谭浩强第三版的课后习题答案
+1．5请参照本章例题，编写一个C程序，输出以下信息：
+main()
+{
+printf(&quot;     ************      \n&quot;);
+printf(&quot;\n&quot;);
+printf(&quot;     Very Good!  \n&quot;);
+printf(&quot;\n&quot;);
+printf(&quot;     ************\n&quot;);
+}
+1.6编写一个程序，输入a b c三个值，输出其中最大者。
+解：main()
+{int a,b,c,max;
+printf(&quot;请输入三个数a,b,c:\n&quot;);
+
+scanf(&quot;%d,%d,%d&quot;,&amp;a,&amp;b,&amp;c);
+max=a;
+if(maxmax=b;
+if(maxmax=c;
+printf(&quot;最大数为：%d&quot;,max);
+}
+第三章
+3.3 请将下面各数用八进制数和十六进制数表示：
+（1）10  （2）32  （3）75  （4）-617
+（5）-111 （6）2483 （7）-28654 （8）21003
+解：十 八 十六
+（10）=（12）=（a)
+(32)=(40)=20
+(75)=(113)=4b
+(-617)=(176627)=fd97
+-111=177621=ff91
+2483=4663=963
+-28654=110022=9012
+21003=51013=520b
+3.5字符常量与字符串常量有什么区别？
+解：字符常量是一个字符，用单引号括起来。字符串常量是由0个或若干个字符
+而成，用双引号把它们括起来，存储时自动在字符串最后加一个结束符号&#39;\0&#39;.
+3.6写出以下程序的运行结果:
+#include
+void main()
+{
+char c1=&#39;a&#39;,c2=&#39;b&#39;,c3=&#39;c&#39;,c4=&#39;\101&#39;,c5=&#39;\116&#39;;
+printf(&quot;a%c b%c\tc%c\tabc\n&quot;,c1,c2,c3);
+printf(&quot;\t\b%c %c\n&quot;,c4,c5);
+解:程序的运行结果为:
+aabb  cc abc
+A N
+3.7将&quot;China&quot;译成密码.密码规律:用原来的字母后面第4个字母代替原来的字母,
+例如,字母&quot;A&quot;后面第4个字母是&quot;E&quot;,用&quot;E&quot;代替&quot;A&quot;.因此,&quot;China&quot;应译为&quot;Glmre&quot;.
+请编一程序,用赋初值的议程使c1,c2,c3,c4,c5分别变成&#39;G&#39;,&#39;1&#39;,&#39;m&#39;,&#39;r&#39;,&#39;e&#39;,并
+输出.
+main()
+{char c1=&quot;C&quot;,c2=&quot;h&quot;,c3=&quot;i&quot;,c4=&#39;n&#39;,c5=&#39;a&#39;;
+c1+=4;
+c2+=4;
+c3+=4;
+c4+=4;
+c5+=4;
+printf(&quot;密码是%c%c%c%c%c\n&quot;,c1,c2,c3,c4,c5);
+}
+3.8例3.6能否改成如下:
+#include
+void main()
+{
+int c1,c2;(原为 char c1,c2)
+c1=97;
+c2=98;
+printf(&quot;%c%c\n&quot;,c1,c2);
+printf(&quot;%d%d\n&quot;,c1,c2);
+}
+解:可以.因为在可输出的字符范围内,用整型和字符型作用相同.
+3.9求下面算术表达式的值.
+(1)x+a%3*(int)(x+y)%2/4=2.5(x=2.5,a=7,y=4.7)
+(2)(float)(a+b)/2+(int)x%(int)y=3.5(设a=2,b=3,x=3.5,y=2.5)
+3.10写出下面程序的运行结果:
+#include
+void main()
+{
+int i,j,m,n;
+i=8;
+j=10;
+m=++i;
+n=j++;
+printf(&quot;%d,%d,%d,%d\n&quot;,i,j,m,n);
+}
+解:结果:   9,11,9,10
+第4章
+4.4.a=3,b=4,c=5,x=1.2,y=2.4,z=-3.6,u=51274,n=128765,c1=&#39;a&#39;,c2=&#39;b&#39;.想得
+到以下的输出格式和结果,请写出程序要求输出的结果如下:
+a= 3  b= 4  c= 5
+x=1.200000,y=2.400000,z=-3.600000
+x+y= 3.60  y+z=-1.20  z+x=-2.40
+u= 51274  n=   128765
+c1=&#39;a&#39; or 97(ASCII)
+c2=&#39;B&#39; or 98(ASCII)
+解:
+main()
+{
+int a,b,c;
+long int u,n;
+float x,y,z;
+char c1,c2;
+a=3;b=4;c=5;
+x=1.2;y=2.4;z=-3.6;
+u=51274;n=128765;
+c1=&#39;a&#39;;c2=&#39;b&#39;;
+printf(&quot;\n&quot;);
+printf(&quot;a=%2d b=%2d c=%2d\n&quot;,a,b,c);
+printf(&quot;x=%8.6f,y=%8.6f,z=%9.6f\n&quot;,x,y,z);
+printf(&quot;x+y=%5.2f  y=z=%5.2f  z+x=%5.2f\n&quot;,x+y,y+z,z+x);
+printf(
+&quot;u=%6ld  n=%9ld\n&quot;,u,n);
+printf(&quot;c1=&#39;%c&#39; or %d(ASCII)\n&quot;,c1,c2);
+printf(&quot;c2=&#39;%c&#39; or %d(ASCII)\n&quot;,c2,c2);
+}
+4.5请写出下面程序的输出结果.
+结果:
+57
+5  7
+67.856400,-789.123962
+67.856400 ,-789.123962
+67.86,-789.12,67.856400,-789.123962,67.856400,-789.123962
+6.785640e+001,-7.89e+002
+A,65,101,41
+1234567,4553207,d687
+65535,17777,ffff,-1
+COMPUTER,  COM
+4.6用下面的scanf函数输入数据,使a=3,b=7,x=8.5,y=71.82,c1=&#39;A&#39;,c2=&#39;a&#39;,
+问在键盘上如何输入?
+main()
+{
+int a,b;
+float x,y;
+char c1,c2;
+scanf(&quot;a=%d b=%d,&amp;a,&amp;b);
+scanf(&quot; x=%f y=%e&quot;,&amp;x,&amp;y);
+scanf(&quot; c1=%c c2=%c&quot;,&amp;c1,&amp;c2);
+}
+解:可按如下方式在键盘上输入:
+a=3 b=7
+x=8.5 y=71.82
+c1=A c2=a
+说明:在边疆使用一个或多个scnaf函数时,第一个输入行末尾输入的&quot;回车&quot;被第二
+个scanf函数吸收,因此在第二\三个scanf函数的双引号后设一个空格以抵消上行
+入的&quot;回车&quot;.如果没有这个空格,按上面输入数据会出错,读者目前对此只留有一
+初步概念即可,以后再进一步深入理解.
+4.7用下面的scanf函数输入数据使a=10,b=20,c1=&#39;A&#39;,c2=&#39;a&#39;,x=1.5,y=-
+
+3.75,z=57.8,请问
+在键盘上如何输入数据？
+scanf(&quot;%5d%5d%c%c%f%f%*f %f&quot;,&amp;a,&amp;b,&amp;c1,&amp;c2,&amp;y,&amp;z);
+解：
+main()
+{
+int a,b;
+float x,y,z;
+char c1,c2;
+scanf(&quot;%5d%5d%c%c%f%f&quot;,&amp;a,&amp;b,&amp;c1,&amp;c2,&amp;x,&amp;y,&amp;z);
+}
+运行时输入：
+10   20Aa1.5 -3.75 +1.5,67.8
+注解：按%5d格式的要求输入a与b时，要先键入三个空格，而后再打入10与20。%*f
+
+是用来禁止赋值的。在输入时，对应于%*f的地方，随意打入了一个数1.5，该值不
+
+会赋给任何变量。
+4.8设圆半径r=1.5,圆柱高h=3,求圆周长,圆面积,圆球表面积,圆球体积,圆柱体积,
+
+用scanf输入数据,输出计算结果,输出时要求有文字说明,取小数点后两位数字.请编
+
+程.
+解:main()
+{
+float pi,h,r,l,s,sq,vq,vz;
+pi=3.1415926;
+printf(&quot;请输入圆半径r圆柱高h:\n&quot;);
+scanf(&quot;%f,%f&quot;,&amp;r,&amp;h);
+l=2*pi*r;
+s=r*r*pi;
+sq=4*pi*r*r;
+vq=4.0/3.0*pi*r*r*r;
+vz=pi*r*r*h;
+printf(&quot;圆周长为:      =%6.2f\n&quot;,l);
+printf(&quot;圆面积为:      =%6.2f\n&quot;,s);
+printf(&quot;圆球表面积为:  =%6.2f\n&quot;,sq);
+printf(&quot;圆球体积为:    =%6.2f\n&quot;,vz);
+}
+4.9输入一个华氏温度,要求输出摄氏温度,公式为C=5/9(F-32),输出要有文字说明,
+
+取两位小数.
+解: main()
+{
+float c,f;
+printf(&quot;请输入一个华氏温度:\n&quot;);
+scanf(&quot;%f&quot;,&amp;f);
+c=(5.0/9.0)*(f-32);
+printf(&quot;摄氏温度为:%5.2f\n&quot;,c);
+}
+第五章 逻辑运算和判断选取结构
+5.4有三个整数a,b,c,由键盘输入,输出其中最大的数.
+main()
+{
+int a,b,c;
+printf(&quot;请输入三个数:&quot;);
+scanf(&quot;%d,%d,%d&quot;,&amp;a,&amp;b,&amp;c);
+if(a  if(b     printf(&quot;max=%d\n&quot;,c);
+else
+printf(&quot;max=%d\n&quot;,b);
+else if(a     printf(&quot;max=%d\n&quot;,c);
+else
+printf(&quot;max-%d\n&quot;,a);
+}
+方法2:使用条件表达式.
+main()
+{int a,b,c,termp,max;
+printf(&quot;     请输入      A,B,C:    &quot;);
+scanf(&quot;%d,%d,%d&quot;,&amp;a,&amp;b,&amp;c);
+prin
+tf(&quot;A=%d,B=%d,C=%d\n&quot;,a,b,c);
+temp=(a&gt;b)?a:b;
+max=(temp&gt;c)? temp:c;
+printf(&quot;   A,B,C中最大数是%d,&quot;,max);
+}
+5.5 main()
+{int x,y;
+printf(&quot;输入x:&quot;);
+scanf(&quot;%d&quot;,&amp;x);
+if(x&lt;1)
+{y=x;
+printf(&quot;X-%d,Y=X=%d  \n&quot;,x,y);
+}
+else if(x&lt;10)
+{y=2*x-1;
+printf(&quot;  X=%d,  Y=2*X-1=%d\n&quot;,x,y);
+}
+else
+{y=3*x-11;
+printf(&quot;X=5d, Y=3*x-11=%d  \n&quot;,x,y);
+}
+}
+
+（习题5-6:）自己写的已经运行成功!不同的人有不同的算法,这些答案仅供参考!   
+
+void main()
+{
+float s,i;
+char a;
+scanf(&quot;%f&quot;,&amp;s);
+while(s&gt;100||s&lt;0)
+{
+printf(&quot;输入错误!error!&quot;);
+scanf(&quot;%f&quot;,&amp;s);
+}
+i=s/10;
+switch((int)i)
+{
+case 10:
+case 9: a=&#39;A&#39;;break;
+case 8: a=&#39;B&#39;;break;
+case 7: a=&#39;C&#39;;break;
+case 6: a=&#39;D&#39;;break;
+case 5:
+case 4:
+case 2:
+case 1:
+case 0: a=&#39;E&#39;;
+}
+printf(&quot;%c&quot;,a);
+}
+
+5.7给一个不多于5位的正整数，要求：1.求它是几位数2.分别打印出每一位数字3.
+
+按逆序打印出各位数字.例如原数为321,应输出123.
+main()
+{
+long int num;
+int indiv,ten,hundred,housand,tenthousand,place;
+printf(&quot;请输入一个整数(0-99999):&quot;);
+scanf(&quot;%ld&quot;,&amp;num);
+if(num&gt;9999)
+place=5;
+else if(num&gt;999)
+place=4;
+else if(num&gt;99)
+place=3;
+else if(num&gt;9)
+place=2;
+else place=1;
+printf(&quot;place=%d\n&quot;,place);
+printf(&quot;每位数字为:&quot;);
+ten_thousand=num/10000;
+thousand=(num-tenthousand*10000)/1000;
+hundred=(num-tenthousand*10000-thousand*1000)/100;
+ten=(num-tenthousand*10000-thousand*1000-hundred*100)/10;
+indiv=num-tenthousand*10000-thousand*1000-hundred*100-ten*10;
+switch(place)
+{case 5:printf(&quot;%d,%d,%d,%d,%d&quot;,tenthousand,thousand,hundred,ten,indiv);
+printf(&quot;\n反序数字为:&quot;);
+printf(&quot;%d%d%d%d%d\n&quot;,indiv,ten,hundred,thousand,tenthousand);
+break;
+case 4:printf(&quot;%d,%d,%d,%d&quot;,thousand,hundred,ten,indiv);
+printf(&quot;\n反序数字为:&quot;);
+printf(&quot;%d%d%d%d\n&quot;,indiv,ten,hundred,thousand);
+break;
+case 3:printf(&quot;%d,%d,%d\n&quot;,hundred,ten,indiv);
+printf(&quot;\n反序数字为:&quot;);
+printf(&quot;%d%d%d\n&quot;,indiv,ten,hundred);
+case 2:printf(&quot;%d,%d\n&quot;,ten,indiv);
+printf(&quot;\n反序数字为:&quot;);
+printf(&quot;%d%d\n&quot;,indiv,ten);
+case 1:printf(&quot;%d\n&quot;,indiv);
+printf(&quot;\n反序数字为:&quot;);
+printf(&quot;%d\n&quot;,indiv);
+}
+}
+
+5.8
+1.if语句
+
+main()
+{long i;
+float bonus,bon1,bon2,bon4,bon6,bon10;
+bon1=100000*0.1;
+bon2=bon1+100000*0.075;
+bon4=bon2+200000*0.05;
+bon6=bon4+200000*0.03;
+bon10=bon6+400000*0.015;
+scanf(&quot;%ld&quot;,&amp;i);
+if(i&lt;=1e5)bonus=i*0.1;
+else if(i&lt;=2e5)bonus=bon1+(i-100000)*0.075;
+else if(i&lt;=4e5)bonus=bon2+(i-200000)*0.05;
+else if(i&lt;=6e5)bonus=bon4+(i-400000)*0.03;
+else if(i&lt;=1e6)bonus=bon6+(i-600000)*0.015;
+else bonus=bon10+(i-1000000)*0.01;
+printf(&quot;bonus=%10.2f&quot;,bonus);
+}
+
+用switch语句编程序
+main()
+{long i;
+float bonus,bon1,bon2,bon4,bon6,bon10;
+int branch;
+bon1=100000*0.1;
+bon2=bon1+100000*0.075;
+bon4=bon2+200000*0.05;
+bon6=bon4+200000*0.03;
+bon10=bon6+400000*0.015;
+scanf(&quot;%ld&quot;,&amp;i);
+branch=i/100000;
+if(branch&gt;1
+0)branch=10;
+switch(branch)
+{case 0:bonus=i*0.1;break;
+case 1:bonus=bon1+(i-100000)*0.075;break;
+case 2:
+case 3:bonus=bon2+(i-200000)*0.05;break;
+case 4:
+case 5:bonus=bon4+(i-400000)*0.03;break;
+case 6:
+case 7
+case 8:
+case 9:bonus=bon6+(i-600000)*0.015;break;
+case 10:bonus=bon10+(i-1000000)*0.01;
+}
+printf(&quot;bonus=%10.2f&quot;,bonus);
+}     
+
+5.9 输入四个整数,按大小顺序输出.
+main()
+{int t,a,b,c,d;
+printf(&quot;请输入四个数:&quot;);
+scanf(&quot;%d,%d,%d,%d&quot;,&amp;a,&amp;b,&amp;c,&amp;d);
+printf(&quot;\n\n a=%d,b=%d,c=%d,d=%d \n&quot;,a,b,c,d);
+if(a&gt;b)
+{t=a;a=b;b=t;}
+if(a&gt;c)
+{t=a;a=c;c=t;}
+if(a&gt;d)
+{t=a;a=d;d=t;}
+if(b&gt;c)
+{t=b;b=c;c=t;}
+if(b&gt;d)
+{t=b;b=d;d=t;}
+if(c&gt;d)
+{t=c;c=d;d=t;}
+printf(&quot;\n 排序结果如下: \n&quot;);
+printf(&quot;   %d  %d  %d  %d \n&quot;,a,b,c,d);
+}
+5.10塔
+main()
+{
+int h=10;
+float x,y,x0=2,y0=2,d1,d2,d3,d4;
+printf(&quot;请输入一个点(x,y):&quot;);
+scanf(&quot;%f,%f&quot;,&amp;x,&amp;y);
+d1=(x-x0)*(x-x0)+(y-y0)(y-y0);
+d2=(x-x0)*(x-x0)+(y+y0)(y+y0);
+d3=(x+x0)*(x+x0)+(y-y0)*(y-y0);
+d4=(x+x0)*(x+x0)+(y+y0)*(y+y0);
+if(d1&gt;1 &amp;&amp; d2&gt;1 &amp;&amp; d3&gt;1 &amp;&amp; d4&gt;1)
+h=0;
+printf(&quot;该点高度为%d&quot;,h);
+}
+
+第六章 循环语句
+6.1输入两个正数,求最大公约数最小公倍数.
+main()
+{
+int a,b,num1,num2,temp;
+printf(&quot;请输入两个正整数:\n&quot;);
+scanf(&quot;%d,%d&quot;,&amp;num1,&amp;num2);
+if(num1{
+temp=num1;
+num1=num2;
+num2=temp;
+}
+a=num1,b=num2;
+while(b!=0)
+{
+temp=a%b;
+a=b;
+b=temp;
+}
+printf(&quot;它们的最大公约数为:%d\n&quot;,a);
+printf(&quot;它们的最小公倍数为:%d\n&quot;,num1*num2/2);
+}
+6.2输入一行字符,分别统计出其中英文字母,空格,数字和其它字符的个数.
+解:
+#include &lt;     &gt;
+main()
+{
+char c;
+int letters=0,space=0,degit=0,other=0;
+printf(&quot;请输入一行字符:\n&quot;);
+scanf(&quot;%c&quot;,&amp;c);
+while((c=getchar())!=&#39;\n&#39;)
+{
+if(c&gt;=&#39;a&#39;&amp;&amp;c&lt;=&#39;z&#39;||c&gt;&#39;A&#39;&amp;&amp;c&lt;=&#39;Z&#39;)
+letters++;
+else if(c==&#39; &#39;)
+space++;
+else if(c&gt;=&#39;0&#39;&amp;&amp;c&lt;=&#39;9&#39;)
+digit++;
+else
+other++;
+}
+printf(&quot;其中:字母数=%d 空格数=%d 数字数=%d 其它字符数=%
+
+d\n&quot;,letters,space,
+digit,other);
+}
+6.3求s(n)=a+aa+aaa+…+aa…a之值,其中工是一个数字.
+解:
+main()
+{
+int a,n,count=1,sn=0,tn=0;
+printf(&quot;请输入a和n的值:\n&quot;);
+scanf(&quot;%d,%d&quot;,&amp;a,&amp;n);
+printf(&quot;a=%d n=%d \n&quot;,a,n);
+while(count&lt;=n)
+{
+tn=tn+a;
+sn=sn+tn;
+a=a*10;
+++count;
+}
+printf(&quot;a+aa+aaa+…=%d\n&quot;,sn);
+}
+6.4 求1+2!+3!+4!+…+20!.
+main()
+{
+float n,s=0,t=1;
+for(n=1;n&lt;=20;n++)
+{
+t=t*n;
+s=s+t;
+}
+printf(&quot;1!+2!+…+20!=%e\n&quot;,s);
+}
+6.5 main()
+{
+int N1=100,N2=50,N3=10;
+float k;
+float s1=0,s2=0,s3=0;
+for(k=1;k&lt;=N1;k++)
+{
+s1=s1+k;
+}
+for(k=1;k&lt;=N2;k++)
+{
+s2=s2+k*k;
+}
+for(k=1;k&lt;=N3;k++)
+{
+s3=s3+1/k;
+}
+printf(&quot;总和=%8.2f\n&quot;,s1+s2+s3);
+}
+6.6水仙开花
+main()
+{
+int i,j,k,n;
+printf(&quot; &#39;水仙花&#39;数是:&quot;);
+for(n=100;n&lt;1000;n++)
+{
+i=n/100;
+j=n/10-i*10;
+k=n%10;
+if(i*100+j*10+k==i*i*i+j*j*j+k*k*k)
+{
+printf(&quot;%d&quot;,n);
+}
+}
+printf(&quot;\n&quot;);
+}
+6.7完数
+main()
+#include M 1000
+main()
+{
+int k0
+,k1,k2,k3,k4,k5,k6,k7,k8,k9;
+int i,j,n,s;
+for(j=2;j&lt;=M;j++)
+{
+n=0;
+s=j;
+for(i=1;i {
+if((j%i)==0)
+{
+if((j%i)==0)
+{
+n++;
+s=s-i;
+switch(n)
+{
+case 1:
+k0=i;
+break;
+case 2:
+k1=i;
+break;
+case 3:
+k2=i;
+break;
+case 4:
+k3=i;
+break;
+case 5:
+k4=i;
+break;
+case 6:
+k5=i;
+break;
+case 7:
+k6=i;
+break;
+case 8:
+k7=i;
+break;
+case 9:
+k8=i;
+break;
+case 10:
+k9=i;
+break;
+}
+}
+}
+if(s==0)
+{
+printf(&quot;%d是一个‘完数’，它的因子是&quot;,j);
+if(n&gt;1)
+printf(&quot;%d,%d&quot;,k0,k1);
+if(n&gt;2)
+printf(&quot;,%d&quot;,k2);
+if(n&gt;3)
+printf(&quot;,%d&quot;,k3);
+if(n&gt;4)
+printf(&quot;,%d&quot;,k4);
+if(n&gt;5)
+printf(&quot;,%d&quot;,k5);
+if(n&gt;6)
+printf(&quot;,%d&quot;,k6);
+if(n&gt;7)
+printf(&quot;,%d&quot;,k7);
+if(n&gt;8)
+printf(&quot;,%d&quot;,k8);
+if(n&gt;9)
+printf(&quot;,%d&quot;,k9);
+printf(&quot;\n&quot;);
+}
+}
+方法二:此题用数组方法更为简单.
+main()
+{
+static int k[10];
+int i,j,n,s;
+for(j=2;j&lt;=1000;j++)
+{
+n=-1;
+s=j;
+for(i=1;i{
+if((j%i)==0)
+{
+n++;
+s=s-i;
+k[n]=i;
+}
+}
+if(s==0)
+{
+printf(&quot;%d是一个完数,它的因子是:&quot;,j);
+for(i=0;iprintf(&quot;%d,&quot;,k[i]);
+printf(&quot;%d\n&quot;,k[n]);
+}
+}
+6.8 有一个分数序列:2/1,3/2,5/3,8/5……求出这个数列的前20项之和.
+解: main()
+{
+int n,t,number=20;
+float a=2,b=1,s=0;
+for(n=1;n&lt;=number;n++)
+{
+s=s+a/b;
+t=a,a=a+b,b=t;
+}
+printf(&quot;总和=%9.6f\n&quot;,s);
+}
+6.9球反弹问题
+main()
+{
+float sn=100.0,hn=sn/2;
+int n;
+for(n=2;n&lt;=10;n++)
+{
+sn=sn+2*hn;
+hn=hn/2;
+}
+printf(&quot;第10次落地时共经过%f米 \n&quot;,sn);
+printf(&quot;第10次反弹%f米.\n&quot;,hn);
+}
+6.10猴子吃桃
+main()
+{
+int day,x1,x2;
+day=9;
+x2=1;
+while(day&gt;0)
+{
+x1=(x2+1)*2;
+x2=x1;
+day--;
+}
+printf(&quot;桃子总数=%d\n&quot;,x1);
+}
+
+
+
+6.12
+#include&quot;math.h&quot;
+main()
+{float x,x0,f,f1;
+x=1.5;
+do
+{x0=x;
+f=((2*x0-4)*x0+3)*x0-6;
+f1=(6*x0-8)*x0+3;
+x=x0-f/f1;
+}
+while(fabs(x-x0)&gt;=1e-5);
+printf(&quot;x=%6.2f\n&quot;,x);
+}
+
+
+
+6.13
+#include&quot;math.h&quot;
+main()
+{float x0,x1,x2,fx0,fx1,fx2;
+do
+{scanf(&quot;%f,%f&quot;,&amp;x1,&amp;x2);
+fx1=x1*((2*x1-4)*x1+3)-6;
+fx2=x2*((2*x2-4)*x2+3)-6;
+}
+while(fx1*fx2&gt;0);
+do
+{x0=(x1+x2)/2;
+fx0=x0*((2*x0-4)*x0+3)-6;
+if((fx0*fx1)&lt;0)
+{x2=x0;
+fx2=fx0;
+}
+else
+{x1=x0;
+fx1=fx0;
+}
+}
+while(fabs(fx0)&gt;=1e-5);
+printf(&quot;x0=%6.2f\n&quot;,x0);
+}
+6.14打印图案
+
+main()
+{int i,j,k;
+for(i=0;i&lt;=3;i++)
+{for(j=0;j&lt;=2-i;j++)
+printf(&quot; &quot;);
+for(k=0;k&lt;=2*i;k++)
+printf(&quot;*&quot;);
+printf(&quot;\n&quot;);
+}
+for(i=0;i&lt;=2;i++)
+{for(j=0;j&lt;=i;j++)
+printf(&quot; &quot;);
+for(k=0;k&lt;=4-2*i;k++)
+printf(&quot;*&quot;);
+printf(&quot;\n&quot;);
+}
+}
+6.15乒乓比赛
+main()
+{
+char i,j,k;
+for(i=&#39;x&#39;;i&lt;=&#39;z&#39;;i++)
+for(j=&#39;x&#39;;j&lt;=&#39;z&#39;;j++)
+{
+if(i!=j)
+for(k=&#39;x&#39;;k&lt;=&#39;z&#39;;k++)
+{
+if(i!=k&amp;&amp;j!=k)
+{if(i!=&#39;x&#39; &amp;&amp; k!=&#39;x&#39; &amp;&amp; k! =&#39;z&#39;)
+printf(&quot;顺序为:\na-%c\tb--%c\tc--%c\n&quot;,i,j,k);
+}
+}
+}
+}
+
+C语言设计谭浩强第三版的课后习题
+答案7-8(2008-10-21 17:15:29)
+
+标签：杂谈  
+分类：淘金
+
+
+C语言设计谭浩强第三版的课后习题答案
+
+7.1用筛选法求100之内的素数.
+
+#include
+#define N 101
+main()
+{int i,j,line,a[N];
+for(i=2;ifor(i=2;ifor(j=i+1;j  {if(a[i]!=0 &amp;&amp; a[j]!=0)
+if(a[j]%a[i]==0)
+a[j]=0;
+printf(&quot;\n&quot;);
+for(i=2,line=0;i{  if(a[i]!=0)
+{printf(&quot;%5d&quot;,a[i]);
+line++;
+if(line==10)
+{printf(&quot;\n&quot;);
+line=0;}
+}
+}
+7.2用选择法对10个数排序.
+
+#define N 10
+main()
+{ int i,j,min,temp,a[N];
+
+printf(&quot;请输入十个数:\n&quot;);
+for (i=0;i{   printf(&quot;a[%d]=&quot;,i);
+scanf(&quot;%d&quot;,&amp;a[i]);
+}
+printf(&quot;\n&quot;);
+for(i=0;i  printf(&quot;%5d&quot;,a[i]);
+printf(&quot;\n&quot;);
+
+for (i=0;i{  min=i;
+for(j=i+1;j     if(a[min]&gt;a[j]) min=j;
+temp=a[i];
+a[i]=a[min];
+a[min]=temp;
+}
+
+printf(&quot;\n排序结果如下:\n&quot;);
+for(i=0;iprintf(&quot;%5d&quot;,a[i]);
+}
+
+7.3对角线和:
+
+main()
+{
+float a[3][3],sum=0;
+int i,j;
+printf(&quot;请输入矩阵元素:\n&quot;);
+for(i=0;i&lt;3;i++)
+for(j=0;j&lt;3;j++)
+scanf(&quot;%f&quot;,&amp;a[i][j]);
+for(i=0;i&lt;3;i++)
+sum=sum+a[i][i];
+printf(&quot;对角元素之和=6.2f&quot;,sum);
+}
+7.4插入数据到数组
+
+main()
+{int a[11]={1,4,6,9,13,16,19,28,40,100};
+int temp1,temp2,number,end,i,j;
+printf(&quot;初始数组如下:&quot;);
+for (i=0;i&lt;10;i++)
+printf(&quot;%5d&quot;,a[i]);
+printf(&quot;\n&quot;);
+printf(&quot;输入插入数据:&quot;);
+scanf(&quot;%d&quot;,&amp;number);
+end=a[9];
+if(number&gt;end)
+a[10]=number;
+else
+{for(i=0;i&lt;10;i++)
+{   if(a[i]&gt;number)
+{temp1=a[i];
+a[i]=number;
+for(j=i+1;j&lt;11;j++)
+{temp2=a[j];
+a[j]=temp1;
+temp1=temp2;
+}
+break;
+}
+}
+}
+for(i=0;j&lt;11;i++)
+printf(&quot;a%6d&quot;,a[i]);
+}
+7.5将一个数组逆序存放。
+
+#define N 5
+main()
+{ int a[N]={8,6,5,4,1},i,temp;
+printf(&quot;\n 初始数组:\n&quot;);
+for(i=0;iprintf(&quot;%4d&quot;,a[i]);
+for(i=0;i{  temp=a[i];
+a[i]=a[N-i-1];
+a[N-i-1]=temp;
+}
+printf(&quot;\n 交换后的数组:\n&quot;);
+for(i=0;i   printf(&quot;%4d&quot;,a[i]);
+}
+7.6杨辉三角
+
+#define N 11
+main()
+{ int i,j,a[N][N];
+for(i=1;i  {a[i][i]=1;
+a[i][1]=1;
+}
+for(i=3;i    for(j=2;j&lt;=i-1;j++)
+a[i][j]=a[i01][j-1]+a[i-1][j];
+for(i=1;i   {  for(j=1;j&lt;=i;j++)
+printf(&quot;%6d&quot;,a[i][j];
+printf(&quot;\n&quot;);
+}
+printf(&quot;\n&quot;);
+}
+7.8鞍点
+
+#define N 10
+#define M 10
+main()
+{ int i,j,k,m,n,flag1,flag2,a[N][M],max,maxi,maxj;
+printf(&quot;\n输入行数n:&quot;);
+scanf(&quot;%d&quot;,&amp;n);
+printf(&quot;\n输入列数m:&quot;);
+scanf(&quot;%d&quot;,&amp;m);
+
+for(i=0;i {  printf(&quot;第%d行?\n&quot;,i);
+for(j=0;j   scanf(&quot;%d&quot;,&amp;a[i][j];
+}
+for(i=0;i {  for(j=0;j      printf(&quot;%5d&quot;,a[i][j]);
+pritf(&quot;\n&quot;);
+}
+flag2=0;
+for(i=0;i {  max=a[i][0];
+for(j=0;j if(a[i][j]&gt;max)
+{  max=a[i][j];
+maxj=j;
+}
+for (k=0,flag1=1;k   if(max&gt;a[k][max])
+flag1=0;
+if(flag1)
+{ printf(&quot;\n第%d行,第%d列的%d是鞍点\n&quot;,i,maxj,max);
+flag2=1;
+}
+}
+if(!flag2)
+printf(&quot;\n 矩阵中无鞍点!  \n&quot;);
+}
+
+
+7.9变量说明:top,bott:查找区间两端点的下标;loca:查找成功与否的开关变量.
+
+#in
+clude
+#define N 15
+main()
+{ int i,j,number,top,bott,min,loca,a[N],flag;
+char c;
+printf(&quot;输入15个数(a[i]&gt;[i-1])\n);
+scanf(&quot;%d&quot;,&amp;a[0]);
+i=1;
+while(i  {  scanf(&quot;%d&quot;,&amp;a[i]);
+if(a[i]&gt;=a[i-1])
+i++;
+esle
+{printf(&quot;请重输入a[i]&quot;);
+printf(&quot;必须大于%d\n&quot;,a[i-1]);
+}
+}
+printf(&quot;\n&quot;);
+for(i=0;i      printf(&quot;%4d&quot;,a[i]);
+printf(&quot;\n&quot;);
+
+flag=1;
+while(flag)
+{
+printf(&quot;请输入查找数据:&quot;);
+scanf(&quot;%d&quot;,&amp;number);
+loca=0;
+top=0;
+bott=N-1;
+if((numbera[N-1]))
+loca=-1;
+while((loca==0)&amp;&amp;(top&lt;=bott))
+{ min=(bott+top)/2;
+if(number==a[min])
+{ loca=min;
+printf(&quot;%d位于表中第%d个数\n&quot;,number,loca+1);
+}
+else if(number     bott=min-1;
+else
+top=min+1;
+}
+if(loca==0||loca==-1)
+printf(&quot;%d不在表中\n&quot;,number);
+printf(&quot;是否继续查找?Y/N!\n&quot;);
+c=getchar();
+if(c==&#39;N&#39;||c==&#39;n&#39;)
+flag=0;
+}
+}
+
+
+7.10
+main()
+{ int i,j,uppn,lown,dign,span,othn;
+char text[3][80];
+uppn=lown=dign=span=othn=0;
+for(i=0;i&lt;3;i++)
+{  printf(&quot;\n请输入第%d行:\n&quot;,i);
+gets(text[i]);
+for(j=0;j&lt;80 &amp;&amp; text[i][j]!=&#39;\0&#39;;j++)
+{if(text[i][j]&gt;=&#39;A&#39; &amp;&amp; text[i][j]&lt;=&#39;Z&#39;)
+uppn+=1;
+else if(text[i][j]&gt;=&#39;a&#39; &amp;&amp; text[i][j]&lt;=&#39;z&#39;)
+lown+=1;
+else if(text[i][j]&gt;=&#39;1&#39; &amp;&amp; text[i][j]&lt;=&#39;9&#39;)
+dign+=1;
+else if(text[i][j]=&#39; &#39;)
+span+=1;
+else
+othn+=1;
+}
+}
+for(i=0;i&lt;3;i++)
+printf(&quot;%s=n&quot;,text[i]);
+printf(&quot;大写字母数:%d\n&quot;,uppn);
+printf(&quot;小写字母数:%d\n&quot;,lown);
+printf(&quot;数字个数:%d\n&quot;,dign);
+printf(&quot;空格个数:%d\n&quot;,span);
+printf(&quot;其它字符:%d\n&quot;,othn);
+}
+
+
+
+
+7.11
+main()
+{static char a[5]={&#39;*&#39;,&#39;*&#39;,&#39;*&#39;,&#39;*&#39;,&#39;*&#39;};
+int i,j,k;
+char space=&#39; &#39;;
+for(i=0;i&lt;=5;i++)
+{printf(&quot;\n&quot;);
+for(j=1;j&lt;=3*i;j++)
+printf(&quot;%lc&quot;,space);
+for(k=0;k&lt;=5;k++)
+printf(&quot;%3c&quot;,a[k];
+}
+}
+7.12
+#include
+main()
+{int i,n;
+char ch[80],tran[80];
+printf(&quot;请输入字符:&quot;);
+gets(ch);
+printf(&quot;\n密码是%c&quot;,ch);
+i=0;
+while(ch[i]!=&#39;\0&#39;)
+{if((ch[i]&gt;=&#39;A&#39;)&amp;&amp;(ch[i]&lt;=&#39;Z&#39;))
+tran[i]=26+64-ch[i]+1+64;
+else if((ch[i]&gt;=&#39;a&#39;)&amp;&amp;(ch[i]&lt;=&#39;z&#39;))
+tran[i]=26+96-ch[i]+1+96;
+else
+tran[i]=ch[i];
+i++;
+}
+n=i;
+printf(&quot;\n原文是:&quot;);
+for(i=0;iputchar(tran[i]);
+}
+
+7.13
+main()
+{
+char s1[80],s2[40];
+int i=0,j=0;
+printf(&quot;\n请输入字符串1:&quot;);
+scanf(&quot;%s&quot;,s1);
+printf(&quot;\n请输入字符串2:&quot;);
+scanf(&quot;%s&quot;,s2);
+while(s1[i]!=&#39;\0&#39;)
+i++;
+while(s2[j]!=&#39;\0&#39;)
+s1[i++]=s2[j++];
+s1[i]=&#39;\0&#39;;
+printf(&quot;\n连接后字符串为:%s&quot;,s1);
+}
+
+
+
+
+7.14
+#include
+main()
+{int i,resu;
+char s1[100],s2[100];
+printf(&quot;请输入字符串1:\n&quot;);
+gets(s1);
+printf(&quot;\n 请输入字符串2:\n&quot;);
+gets(s2);
+i=0;
+while((s1[i]==s2[i]) &amp;&amp; (s1[i]!=&#39;\0&#39;))i++;
+if(s1[i]==&#39;\0&#39; &amp;&amp; s2[i]==&#39;\0&#39;)resu=0;
+else
+resu=s1[i]-s2[i];
+printf(&quot; %s与%s比较结果是%d&quot;,s1,s2,resu);
+}
+
+7.15
+#include
+main()
+{
+char from[80],to[80];
+int i;
+printf(&quot;请输
+入字符串&quot;);
+scanf(&quot;%s&quot;,from);
+for(i=0;i&lt;=strlen(from);i++)
+to[i]=from[i];
+printf(&quot;复制字符串为:%s\n&quot;,to);
+}
+
+
+
+
+第八章 函数
+8.1(最小公倍数=u*v/最大公约数.)
+hcf(u,v)
+int u,v;
+(int a,b,t,r;
+if(u&gt;v)
+{t=u;u=v;v=t;}
+a=u;b=v;
+while((r=b%a)!=0)
+{b=a;a=r;}
+return(a);
+}
+
+lcd(u,v,h)
+int u,v,h;
+{int u,v,h,l;
+scanf(&quot;%d,%d&quot;,&amp;u,&amp;v);
+h=hcf(u,v);
+printf(&quot;H.C.F=%d\n&quot;,h);
+l=lcd(u,v,h);
+printf(&quot;L.C.d=%d\n&quot;,l);
+}
+
+{return(u*v/h);}
+main()
+{int u,v,h,l;
+scanf(&quot;%d,%d&quot;,&amp;u,&amp;v);
+h=hcf(u,v);
+printf(&quot;H.C.F=%d\n&quot;,h);
+l=lcd(u,v,h);
+printf(&quot;L.C.D=%d\n&quot;,l);
+}
+
+
+
+
+
+
+8.2求方程根
+#include
+float x1,x2,disc,p,q;
+
+greater_than_zero(a,b)
+float a,b;
+{
+x1=(-b+sqrt(disc))/(2*a);
+x2=(-b-sqrt(disc))/(2*a);
+}
+
+equal_to_zero(a,b)
+float a,b;
+{x1=x2=(-b)/(2*a);}
+
+smaller_than_zero(a,b)
+float a,b;
+{p=-b/(2*a);
+q=sqrt(disc)/(2*a);
+}
+main()
+{
+float a,b,c;
+printf(&quot;\n输入方程的系数a,b,c:\n&quot;);
+scanf(&quot;%f,%f,%f&quot;,&amp;a,&amp;b,&amp;c);
+printf(&quot;\n 方程是：%5.2f*x*x+%5.2f*x+%5.2f=0\n&quot;,a,b,c);
+disc=b*b-4*a*c;
+printf(&quot;方程的解是：\n&quot;);
+if(disc&gt;0)
+{great_than_zero(a,b);
+printf(&quot;X1=%5.2f\tX2=%5.2f\n\n&quot;,x1,x2);
+}
+else if(disc==0)
+{
+zero(a,b);
+printf(&quot;X1=%5.2f\tX2=%5.2f\n\n&quot;,x1,x2);
+}
+else
+{
+small_than_zero(a,b,c);
+printf(&quot;X1=%5.2f+%5.2fi\tX2=%5.2f-%2.2fi\n&quot;,p,q,p,q);
+}
+}
+
+8.3素数
+
+#include&quot;math.h&quot;
+main()
+{int number;
+scanf(&quot;%d&quot;,&amp;number);
+if(prime(number))
+printf(&quot;yes&quot;);
+else
+printf(&quot;no&quot;);
+}
+int prime(number)
+int number;
+{int flag=1,n;
+for(n=2;n   if(number%n==0)
+flag=0;
+return(flag);
+}
+
+
+
+
+
+
+8.4
+#define N 3
+int array[N][N];
+convert(array)
+int array[3][3];
+{ int i,j,t;
+for(i=0;i for(j=i+1;j { t=array[i][j];
+array[i][j]=array[j][i];
+array[j][i]=t;
+}
+}
+main()
+{
+int i,j;
+printf(&quot;输入数组元素:\n&quot;);
+for(i=0;i for(j=0;j   scanf(&quot;%d&quot;,&amp;array[i][j];
+printf(&quot;\n数组是:\n&quot;);
+for(i=0;i { for(j=0;j   printf(&quot;%5d&quot;,array[i][j]);
+printf(&quot;\n&quot;);
+}
+
+convert(array);
+printf(&quot;转置数组是:\n&quot;);
+for(i=0;i { for(j=0;j   printf(&quot;%5d&quot;,array[i][j]);
+printf(&quot;\n&quot;);
+}
+}
+
+
+
+
+
+
+8.5
+main()
+{
+char str[100];
+printf(&quot;输入字符串:\n&quot;);
+scanf(&quot;%s&quot;,str);
+inverse(str);
+printf(&quot;转换后的字符串是: %s\n&quot;,str);
+}
+
+inverse(str)
+char str[];
+{
+char t;
+int i,j;
+for(i=0,j=strlen(str);i {
+t=str[i];
+str[i]=str[i-1];
+str[i-1]=t;
+}
+}
+
+
+
+
+
+
+8.6
+char concatenate(string1,string2,string);
+char string1[],string2[],string[];
+{
+int i,j;
+for(i=0;string1[i]!=&#39;\0&#39;;i++)
+string[i]=string1[i];
+for(j=0;string2[j]!=&#39;\0&#39;;j++)
+string[i+j]=string2[j];
+string[i+j]=&#39;\0&#39;;
+}
+main()
+{
+char s1[100],s2[100],s[100];
+printf(&quot;\n输入字符串1：\n&quot;);
+scanf(&quot;%s&quot;,s1);
+printf(&quot;输入字符串2:\n&quot;);
+scanf(&quot;%s&quot;,s2);
+concatenate(s1,s2,s);
+printf(&quot;连接后的字符串：%s\n&quot;,s);
+}
+
+
+
+
+8.8
+main()
+{
+char str[80]
+;
+printf(&quot;请输入含有四个数字的字符串:\n&quot;);
+scanf(&quot;%s&quot;,str);
+insert(str);
+}
+
+insert(str)
+char str[];
+{
+int i;
+for(i=strlen(str);i&gt;0;i--)
+{ str[2*i]=str[i];
+str[2*i-1]=&#39; &#39;;
+}
+printf(&quot;\n 结果是:\n    %s&quot;,str);
+}
+
+
+
+
+
+
+8.9
+#include&quot;math.h&quot;
+int alph,digit,space,others;
+main()
+{char text[80];
+gets(text);
+alph=0,digit=0,space=0,others=0;
+count(text);
+printf(&quot;\nalph=%d,digit=%d,space=%d,others=%d\n&quot;,alph,digit,space,others);
+}
+count(str)
+char str[];
+{int i;
+for(i=0;str[i]!=&#39;\0&#39;;i++)
+if((str[i]&gt;=&#39;a&#39;&amp;&amp;str[i]&lt;=&#39;z&#39;)||(str[i]&gt;=&#39;A&#39;&amp;&amp;str[i]&lt;=&#39;Z&#39;))
+alph++;
+else if(str[i]&gt;=&#39;0&#39;&amp;&amp;str[i]&lt;=&#39;9&#39;)
+digit++;
+else if(strcmp(str[i],&#39; &#39;)==0)
+space++;
+else
+others++;
+}
+
+
+
+
+
+8.10
+int alphabetic(c);
+char c;
+{
+if((c&gt;=&#39;a&#39; &amp;&amp; c&lt;=&#39;z&#39;||(c&gt;=&#39;A&#39; &amp;&amp; c&lt;=&#39;Z&#39;))
+return(1);
+else
+return(0);
+}
+
+
+int longest (string)
+char string[];
+{
+int len=0,i,length=0,flag=1,place,point;
+for(i=0;i&lt;=strlen(string);i++)
+if(alphabctic(string[i]))
+if(flag)
+{
+point=i;
+flag=0;
+}
+else
+len++;
+else
+{ flag=1;
+if len&gt;length)
+{length=len;
+place=point;
+len=0;
+}
+}
+return(place);
+}
+main()
+{
+int i;
+char line[100];
+
+printf(&quot;输入一行文本\n&quot;);
+gets(line);
+printf(&quot;\n最长的单词是:&quot;);
+for(i=longest(line);alphabctic(line[i]);i++)
+printf(&quot;%c&quot;,line[i];
+printf(&quot;\n&quot;);
+}
+
+
+
+
+
+
+8.11
+
+#include
+
+
+#define N 10
+
+char str[N];
+main()
+{
+int i,flag;
+for(flag=1;flag==1;)
+{
+printf(&quot;\n输入字符串,长度为10:\n&quot;);
+scanf(&quot;%s&quot;,&amp;str);
+if(strlen(str)&gt;N)
+printf(&quot;超过长度,请重输!&quot;);
+else
+flag=0;
+}
+sort(str);
+printf(&quot;\n 排序结果:&quot;);
+for(i=0;i  printf(&quot;%c&quot;,str[i]);
+}
+
+sort(str)
+char str[N];
+{
+int i,j;
+char t;
+for(j=1;j for(i=0;(i  if(str[i]&gt;str[i+1])
+{ t=str[i];
+str[i]=str[i+1];
+str[i+1]=t;
+}
+}
+
+8.12
+#include
+
+#include
+float solut(a,b,c,d)
+float a,b,c,d;
+{float x=1,x0,f,f1;
+do
+{x0=x;
+f=((a*x0+b)*x0+c)*x0+d;
+f1=(3*a*x0+2*b)*x0+c;
+x=x0-f/f1;
+}
+while(fabs(x-x0)&gt;=1e-5);
+return(x);
+}
+main()
+{float a,b,c,d;
+scanf(&quot;%f,%f,%f,%f&quot;,&amp;a,&amp;b,&amp;c,&amp;d);
+printf(&quot;x=%10.7f\n&quot;,solut(a,b,c,d));
+}
+
+8.13
+#include
+main()
+{int x,n;
+float p();
+scanf(&quot;%d,%d&quot;,&amp;n,&amp;x);
+printf(&quot;P%d(%d)=%10.2f\n&quot;,n,x,p(n,x));
+}
+float p(tn,tx)
+int tn,tx;
+{if(tn==0)
+return(1);
+else if(tn==1)
+return(tx);
+else
+return(((2*tn-1)*tx*p((tn-1),tx)-(tn-1)*p((tn-2),tx))/tn);
+}
+
+8.14
+#include &quot;stdio.h&quot;
+
+#define N 10
+#define M 5
+float score[N][M];
+float a_stu[N],a_cor[M];
+main()
+{int i,j,r,c;
+float h;
+float s_diff();
+float highest();
+r=0;
+c=1;
+input_stu();
+avr_stu();
+avr_cor();
+printf(&quot;\n  number  class  1  2  3  4  5  avr&quot;);
+for(i=0;i   {printf(&quot;\nNO%2d&quot;,i+1);
+for(j=0;j      printf(&quot;%8.2f&quot;,score[i][j]);
+printf(&quot;%8.2f&quot;,a_stu[i]);
+}
+printf(&quot;\nclassavr&quot;);
+for(j=0;j   printf(&quot;%8.2f&quot;,a_cor[j]);
+h=highes
+t(&amp;r,&amp;c);
+printf(&quot;\n\n%8.2f    %d    %d\n&quot;,h,r,c);
+printf(&quot;\n   %8.2f\n&quot;,s_diff());
+}
+input_stu()
+{int i,j;
+float x;
+for(i=0;i   {for(j=0;j      {scanf(&quot;%f&quot;,&amp;x);
+score[i][j]=x;
+}
+}
+}
+avr_stu()
+{int i,j;
+float s;
+for(i=0;i   {for(j=0,s=0;j      s+=score[i][j];
+a_stu[i]=s/5.0;
+}
+}
+avr_cor()
+{int i,j;
+float s;
+for(j=0;j   {for(i=0,s=0;i      s+=score[i][j];
+a_cor[j]=s/(float)N;
+}
+}
+float highest(r,c)
+int *r,*c;
+{float high;
+int i,j;
+high=score[0][0];
+for(i=0;i   for(j=0;j     if(score[i][j]&gt;high)
+{high=score[i][j];
+*r=i+1;
+*c=j+1;
+}
+return(high);
+}
+float s_diff()
+{int i,j;
+float sumx=0.0,sumxn=0.0;
+for(i=0;i   {sumx+=a_stu[i]*a_stu[i];
+sumxn+=a_stu[i];
+}
+return(sumx/N-(sumxn/N)*(sumxn/N));
+}
+
+8.15
+
+#include
+#define N 10
+void input_e(num,name)
+int num[];
+char name[N][8];
+{int i;
+for(i=0;i   {scanf(&quot;%d&quot;,&amp;num[i]);
+gets(name[i]);
+}
+}
+void sort(num,name)
+int num[];
+char name[N][8];
+{int i,j,min,temp1;
+char temp2[8];
+for(i=0;i   {min=i;
+for(j=i;j      if(num[min]&gt;num[j])min=j;
+temp1=num[i];
+num[i]=num[min];
+num[min]=temp1;
+strcpy(temp2,name[i]);
+strcpy(name[i],name[min]);
+strcpy(name[min],temp2);
+}
+for(i=0;i   printf(&quot;\n%5d%10s&quot;,num[i],name[i]);
+}
+void search(n,num,name)
+int n,num[];
+char name[N][8];
+{int top,bott,min,loca;
+loca=0;
+top=0;
+bott=N-1;
+if((nnum[N-1]))
+loca=-1;
+while((loca==0)&amp;&amp;(top&lt;=bott))
+{min=(bott+top)/2;
+if(n==num[min])
+{loca=min;
+printf(&quot;number=%d,name=%s\n&quot;,n,name[loca]);
+}
+else if(n      bott=min-1;
+else
+top=min+1;
+}
+if(loca==0||loca==-1)
+printf(&quot;number=%d is not in table\n&quot;,n);
+}
+main()
+{int num[N],number,flag,c,n;
+char name[N][8];
+input_e(num,name);
+sort(num,name);
+for(flag=1;flag;)
+{scanf(&quot;%d&quot;,&amp;number);
+search(number,num,name);
+printf(&quot;continue?Y/N!&quot;);
+c=getchar();
+if(c==&#39;N&#39;||c==&#39;n&#39;)
+flag=0;
+}
+}
+
+
+8.16
+#include
+#define MAX 1000
+main()
+{ int c,i,flag,flag1;
+char t[MAX];
+
+i=0;
+flag=0;
+flag1=1;
+printf(&quot;\n输入十六进制数:&quot;);
+while((c=getchar())!=&#39;\0&#39;&amp;&amp;i { if c&gt;=&#39;0&#39; &amp;&amp; c&lt;=&#39;9&#39;||c&gt;=&#39;a&#39;&amp;&amp;c&lt;=&#39;f&#39;||c&gt;=&#39;A&#39;&amp;&amp;c&lt;=&#39;F&#39;)
+{flag=1;
+t[i++]=c;
+}
+else if(flag)
+{
+t[i]=&#39;\0&#39;;
+printf(&quot;\n 十进制数%d\n&quot;,htoi(t));
+printf(&quot;继续吗?&quot;);
+c=getchar();
+if(c==&#39;N&#39;||c==&#39;n&#39;)
+flag1=0;
+else
+{flag=0;
+i=0;
+printf(&quot;\n 输入十六进制数:&quot;);
+}
+}
+}
+}
+htoi(s)
+char s[];
+{ int i,n;
+n=0;
+for(i=0;s[i]!=&#39;\0&#39;;i++)
+{if(s[i]&gt;=&#39;0&#39;&amp;&amp;s[i]&lt;=&#39;9&#39;)
+n=n*16+s[i]-&#39;0&#39;;
+if(s[i]&gt;=&#39;a&#39;&amp;&amp;s[i]&lt;=&#39;f&#39;)
+n=n*16+s[i]-&#39;a&#39;+10;
+if(s[i]&gt;=&#39;A&#39;&amp;&amp;s[i]&lt;=&#39;F&#39;)
+n=n*16+s[i]-&#39;A&#39;+10;
+}
+return(n);
+}
+
+
+
+
+
+
+8.17
+#include
+
+void counvert(n)
+int n;
+{ int i;
+if((i=n/10)!=0)
+convert(i);
+putchar(n%10+&#39;0&#39;);
+}
+
+main()
+{ int number;
+printf(&quot;\n 输入整数:&quot;);
+scanf(&quot;%d&quot;,&amp;
+number);
+printf(&quot;\n 输出是: &quot;);
+if(number&lt;0)
+{ putchar(&#39;-&#39;);
+number=-number;
+}
+convert(number);
+}
+
+
+
+
+
+
+8.18
+main()
+{
+int year,month,day;
+int days;
+printf(&quot;\n 请输入日期(年,月,日)\n&quot;);
+scanf(&quot;%d,%d,%d&quot;,&amp;year,&amp;month,&amp;day);
+printf(&quot;\n %d年%d月%d日&quot;,year,month,day);
+days=sum_day(month,day);
+if(leap(year)&amp;&amp;month&gt;=3)
+days=days+1;
+printf(&quot;是该年的%d天.\n&quot;,days);
+}
+
+static int day_tab[13]={0,31,28,31,30,31,30,31,31,30,31,30,31}
+
+int(sum_day(month,day)
+int month,day;
+{
+int i;
+for(i=1;i    day+=day_tab[i];
+return(day);
+}
+
+int leap(year)
+int year;
+{
+int leap;
+leap=year%4==0&amp;&amp;year%100!=0||year%400==0;
+return(leap);
+
+
+
+
+
+第九章 编译预处理
+9.1
+#define SWAP(a,b) t=b;b=a;a=t
+main()
+{
+int a,b,t;
+printf(&quot;请输入两个整数 a,b:&quot;);
+scanf(&quot;%d,%d&quot;,&amp;a,&amp;b);
+SWAP(a,b);
+printf(&quot;交换结果为:a=%d,b=%d\n&quot;,a,b);
+} 
+
+
+
+
+9.2
+#define SURPLUS(a,b) ((a)%(b))
+main()
+{
+int a,b;
+printf(&quot; 请输入两个整数 a,b:&quot;);
+scanf(&quot;%d,%d&quot;,&amp;a,&amp;b);
+printf(&quot;a,b相除的余数为:%d\n&quot;,SURPLUS(a,b));
+}
+
+
+
+
+9.3
+#include
+#defin S(a,b,c) ((a+b+c)/2)
+#define AREA(a,b,c) (sqrt(S(a,b,c)*(S(a,b,c)-a)*(S(a,b,c)-b)*(s(a,b,c)-
+
+c)))
+main()
+{
+float a,b,c;
+printf(&quot;请输入三角形的三条边:&quot;);
+scanf(&quot;%f,%f,%f&quot;,&amp;a,&amp;b,&amp;c);
+if(a+b&gt;c &amp;&amp; a+c&gt;b &amp;&amp; b+c&gt;a)
+printf(&quot;其面积为:%8.2f.\n&quot;,AREA(a,b,c));
+else
+printf(&quot;不能构成三角形!&quot;);
+}
+
+
+
+
+
+
+9.4
+#define LEAP_YEAR(y) (y%4==0) &amp;&amp; (y%100!=0)||(y%400==0)
+main()
+{
+int year;
+printf(&quot;\n请输入某一年:&quot;);
+scanf(&quot;%d&quot;,&amp;year);
+if(LEAP_YEAR(year))
+printf(&quot;%d  是闰年.\n&quot;,year);
+else
+printf(&quot;%d  不是闰年.\n&quot;,year);
+}
+
+
+
+
+
+
+9.5解:展开后:
+printf(&quot;＆#118alue=%format\t&quot;,x);
+printf(&quot;＆#118alue=%format\t&quot;,x);putchar(&#39;\n&#39;);
+printf(&quot;＆#118alue=%format\t&quot;);printf(&quot;＆#118alue=%format\t&quot;,x2);putchar(&#39;\n&#39;);
+输出结果:
+＆#118alue=5.000000ormat ＆#118alue=5.000000ormat
+＆#118alue=3.000000ormat ＆#118alue=8.000000ormat
+
+
+
+
+9.8
+main()
+{
+int a,b,c;
+printf(&quot;请输入三个整数:&quot;);
+scanf(&quot;%d,%d,%d&quot;,&amp;a,&amp;b,&amp;c);
+printf(&quot;三个之中最大值为:%d\n&quot;,max(a,b,c));
+}
+
+max(x,y,z)
+int x,y,z;
+{
+int t;
+t=(x&gt;y? x:y);
+return(t&gt;z? t:z);
+}
+
+
+
+
+
+
+9.10
+#include
+#define MAX 80
+#define CHANGE 1
+main()
+{
+char str[MAX];
+int i;
+printf(&quot;请输入文本行:\n&quot;);
+scanf(&quot;%s&quot;,str);
+#if(CHANGE)
+{
+for (i=0;i  {
+if(str[i]!=&#39;\0&#39;
+if(str[i]&gt;=&#39;a&#39; &amp;&amp; str[i]&lt;&#39;z&#39; || str[i]&gt;=&#39;A&#39;&amp;&amp;str[i]&lt;&#39;Z&#39;)
+str[i]+=1;
+else if(str[i]==&#39;z&#39; || str[i]==&#39;Z&#39;)
+str[i]-=25;
+}
+}
+#endif
+printf(&quot;输出电码为:\n%s&quot;,str);
+}
+
+第十章  指针
+10.1
+main()
+{int n1,n2,n3;
+int *p1,*p2,*p3;
+scanf(&quot;%d,%d,%d&quot;,&amp;n1,&amp;n2,&amp;n3);
+p1=&amp;n1;
+p2=&amp;n2;
+p3=&amp;n3;
+if(n1&gt;n2)swap(p1,p2);
+if(n1&gt;n3)swap(p1,p3);
+if(n2&gt;n3)swap(p2,p3);
+printf(&quot;%d,%d,%d\n&quot;,n1,n2,n3);
+
+}
+swap(p1,p2)
+int *p1,*p2;
+{int p;
+p=*p1;*p1=*p2;*p2=p;
+}
+
+10.2
+main()
+{char *str1[20],*str2[20],*str3[20];
+char swap();
+scanf(&quot;%s&quot;,str1);
+scanf(&quot;%s&quot;,str2);
+scanf(&quot;%s&quot;,str3);
+if(strcmp(str1,str2)&gt;0)swap(str1,str2);
+if(strcmp(str1,str3)&gt;0)swap(str1,str3);
+if(strcmp(str2,str3)&gt;0)swap(str2,str3);
+printf(&quot;%s\n%s\n%s\n&quot;,str1,str2,str3);
+}
+char swap(p1,p2)
+char *p1,*p2;
+{char *p[20];
+strcpy(p,p1);
+strcpy(p1,p2);
+strcpy(p2,p);
+}
+
+10.3
+main()
+{int number[10];
+input(number);
+max_min_＆#118alue(number);
+output(number);
+}
+input(number)
+int number[10];
+{int i;
+for(i=0;i&lt;10;i++)
+scanf(&quot;%d&quot;,&amp;number[i]);
+}
+max_min_＆#118alue(number)
+int number[10];
+{int *max,*min;
+int *p,*end;
+end=number+10;
+max=min=number;
+for(p=number+1;p   if(*p&gt;*max)max=p;
+else if(*p&lt;*min)min=p;
+*p=number[0];
+number[0]=*min;
+*min=*p;
+*p=number[9];
+number[9]=*max;
+*max=*p;
+return;
+}
+output(number)
+int number[10];
+{int *p;
+for(p=number;p   printf(&quot;%d,&quot;,*p);
+printf(&quot;%d\n&quot;,*p);
+}
+
+10.4
+main()
+{int number[20],n,m,i;
+scanf(&quot;%d&quot;,&amp;n);
+scanf(&quot;%d&quot;,&amp;m);
+for(i=0;i   scanf(&quot;%d&quot;,&amp;number[i]);
+move(number,n,m);
+for(i=0;i   printf(&quot;%8d&quot;,number[i]);
+}
+move(array,n,m)
+int array[20],n,m;
+{int *p,end;
+end=*(array+n-1);
+for(p=array+n-1;p&gt;array;p--)
+*p=*(p-1);
+*array=end;
+m--;
+if(m&gt;0)move(array,n,m);
+}
+
+10.5
+#define nmax 50
+main()
+{int i,k,m,n,num[nmax],*p;
+scanf(&quot;%d&quot;,&amp;n);
+p=num;
+for(i=0;i   *(p+i)=i+1;
+i=k=m=0;
+while(m   {if(*(p+i)!=0)k++;
+if(k==3)
+{*(p+i)=0;
+k=0;
+m++;
+}
+i++;
+if(i==n)i=0;
+}
+while(*p==0)p++;
+printf(&quot;%d&quot;,*p);
+}
+
+10.6
+main()
+{int len;
+char *str[20];
+scanf(&quot;%s&quot;,str);
+len=length(str);
+printf(&quot;\nlen=%d\n&quot;,len);
+}
+length(p)
+char *p;
+{int n=0;
+while(*p!=&#39;\0&#39;)
+{n++;p++;}
+return(n);
+}
+
+10.7
+main()
+{int m;
+char *str1[20],*str2[20];
+scanf(&quot;%s&quot;,str1);
+scanf(&quot;%d&quot;,&amp;m);
+if(strlen(str1)   printf(&quot;error&quot;);
+else
+{copystr(str1,str2,m);
+printf(&quot;%s&quot;,str2);
+}
+}
+copystr(p1,p2,m)
+char *p1,*p2;
+int m;
+{int n=0;
+while(n   {n++;p1++;}
+while(*p1!=&#39;\0&#39;)
+{*p2=*p1;
+p1++;
+p2++;
+}
+*p2=&#39;\0&#39;;
+}
+
+10.8
+#include&quot;stdio.h&quot;
+main()
+{int cle=0,sle=0,di=0,wsp=0,ot=0,i;
+char *p,s[20];
+for(i=0;i&lt;20;i++)s[i]=0;
+i=0;
+while((s[i]=getchar())!=&#39;\n&#39;)i++;
+p=s;
+while(*p!=&#39;\n&#39;)
+{if(*p&gt;=&#39;a&#39;&amp;&amp;*p&lt;=&#39;z&#39;)
+++sle;
+else if(*p&gt;=&#39;A&#39;&amp;&amp;*p&lt;=&#39;Z&#39;)
+++cle;
+else if(*p==&#39; &#39;)
+++wsp;
+else if(*p&gt;=&#39;0&#39;&amp;&amp;*p&lt;=&#39;9&#39;)
+++di;
+else
+++ot;
+p++;
+}
+printf(&quot;sle=%d,cle=%d,wsp=%d,di=%d,ot=%d\n&quot;,sle,cle,wsp,di,ot);
+}
+
+10.9
+main()
+{int a[3][3],*p,i;
+for(i=0;i&lt;3;i++)
+scanf(&quot;%d,%d,%d&quot;,a[i][0],a[i][1],a[i][2]);
+p=a;
+move(p);
+for(i=0;i&lt;3;i++)
+printf(&quot;%d  %d  %d\n&quot;,a[i][0],a[i][1],a[i][2]);
+}
+move(pointer)
+int *pointer;
+{int i,j,t;
+for(i=0;i&lt;2;i++)
+for(j=i+1;j&lt;3;j++)
+{t=*(pointer+3*i+j);
+*(pointe
+r+3*i+j)=*(pointer+3*j+i);
+*(pointer+3*j+i)=t;
+}
+}
+
+10.10
+main()
+{int a[5][5],*p,i,j;
+for(i=0;i&lt;5;i++)
+for(j=0;j&lt;5;j++)
+scanf(&quot;%d&quot;,&amp;a[i][j]);
+p=a;
+change(p);
+for(i=0;i&lt;5;i++)
+{printf(&quot;\n&quot;);
+for(j=0;j&lt;5;j++)
+printf(&quot;%8d&quot;,a[i][j]);
+}
+}
+change(p)
+int *p;
+{int i,j,change;
+int *pmax,*pmin;
+pmax=p;
+pmin=p;
+for(i=0;i&lt;5;i++)
+for(j=0;j&lt;5;j++)
+{if(*pmax&lt;*(p+5*i+j))pmax=p+5*i+j;
+if(*pmin&gt;*(p+5*i+j))pmin=p+5*i+j;
+}
+change=*(p+12);
+*(p+12)=*pmax;
+*pmax=change;
+change=*p;
+*p=*pmin;
+*pmin=change;
+pmin=p+1;
+for(i=0;i&lt;5;i++)
+for(j=0;j&lt;5;j++)
+if(((p+5*i+j)!=p)&amp;&amp;(*pmin&gt;*(p+5*i+j)))pmin=p+5*i+j;
+change=*(p+4);
+*(p+4)=*pmin;
+*pmin=change;
+pmin=p+1;
+for(i=0;i&lt;5;i++)
+for(j=0;j&lt;5;j++)
+if(((p+5*i+j)!=(p+4))&amp;&amp;((p+5*i+j)!=p)&amp;&amp;(*pmin&gt;*(p+5*i+j)))
+pmin=p+5*i+j;
+change=*(p+20);
+*(p+20)=*pmin;
+*pmin=change;
+pmin=p+1;
+for(i=0;i&lt;5;i++)
+for(j=0;j&lt;5;j++)
+if(((p+5*i+j)!=p)&amp;&amp;((p+5*i+j)!=(p+4))&amp;&amp;((p+5*i+j)!=(p+20))
+&amp;&amp;(*pmin&gt;*(p+5*i+j)))pmin=p+5*i+j;
+change=*(p+24);
+*(p+24)=*pmin;
+*pmin=change;
+}
+
+10.11
+main()
+{int i;
+char *p,str[10][10];
+for(i=0;i&lt;10;i++)
+scanf(&quot;%s&quot;,str[i]);
+p=str;
+sort(p);
+for(i=0;i&lt;10;i++)
+printf(&quot;%s\n&quot;,str[i]);
+}
+sort(p)
+char *p;
+{int i,j;
+char s[10],*smax,*smin;
+for(i=0;i&lt;10;i++)
+{smax=p+10*i;
+for(j=i+1;j&lt;10;j++)
+{smin=p+10*j;
+if(strcmp(smax,smin)&gt;0)
+{strcpy(s,smin);
+strcpy(smin,smax);
+strcpy(smax,s);
+}
+}
+}
+}
+
+10.12
+#define MAX 20
+main()
+{int i;
+char *pstr[10],str[10][MAX];
+for(i=0;i&lt;10;i++)
+pstr[i]=str[i];
+for(i=0;i&lt;10;i++)
+scanf(&quot;%s&quot;,pstr[i]);
+sort(pstr);
+for(i=0;i&lt;10;i++)
+printf(&quot;%s\n&quot;,pstr[i]);
+}
+sort(pstr)
+char *pstr[10];
+{int i,j;
+char *p;
+for(i=0;i&lt;10;i++)
+{for(j=i+1;j&lt;10;j++)
+{if(strcmp(*(pstr+i),*(pstr+j))&gt;0)
+{p=*(pstr+i);
+*(pstr+i)=*(pstr+j);
+*(pstr+j)=p;
+}
+}
+}
+}
+
+10.13
+#include&quot;math.h&quot;
+main()
+{int n=20;
+float a,b,a1,b1,a2,b2,c,(*p)(),jiff();
+scanf(&quot;%f,%f&quot;,&amp;a,&amp;b);
+scanf(&quot;%f,%f&quot;,&amp;a1,&amp;b1);
+scanf(&quot;%f,%f&quot;,&amp;a2,&amp;b2);
+p=sin;
+c=jiff(a,b,n,p);
+printf(&quot;sin=%f\n&quot;,c);
+p=cos;
+c=jiff(a1,b1,n,p);
+printf(&quot;cos=%f\n&quot;,c);
+p=exp;
+c=jiff(a2,b2,n,p);
+printf(&quot;exp=%f\n&quot;,c);
+}
+float jiff(a,b,n,p)
+float a,b,(*p)();
+int n;
+{int i;
+float x,f,h,area;
+h=(b-a)/n;
+x=a;
+area=0;
+for(i=1;i&lt;=n;i++)
+{x=x+h;
+area=area+(*p)(x)*h;
+}
+return(area);
+}
+
+10.14
+main()
+{int i,n,num[20];
+char *p;
+scanf(&quot;%d&quot;,&amp;n);
+for(i=0;i   scanf(&quot;%d&quot;,&amp;num[i]);
+p=num;
+sort(p,n);
+for(i=0;i   printf(&quot;%8d&quot;,num[i]);
+}
+sort(p,m)
+char *p;
+int m;
+{int i;
+char change,*p1,*p2;
+for(i=0;i   {p1=p+i;
+p2=p+(m-1-i);
+change=*p1;
+*p1=*p2;
+*p2=change;
+}
+}
+
+10.15
+main()
+{int i,j,*pnum,num[4];
+float score[4][5],aver[4],*psco,*pave;
+
+char course[5][10],*pcou;
+pcou=course[0];
+for(i=0;i&lt;5;i++)
+scanf(&quot;%s&quot;,pcou+10*i);
+printf(&quot;number&quot;);
+for(i=0;i&lt;5;i++)
+printf(&quot;,%s&quot;,pcou+10*i);
+printf(&quot;\n&quot;);
+psco=score;
+pnum=num;
+for(i=0;i&lt;4;i++)
+{scanf(&quot;%d&quot;,pnum+i);
+for(j=0;j&lt;5;j++)
+scanf(&quot;,%f&quot;,psco+5*i+j);
+}
+pave=aver;
+printf(&quot;\n&quot;);
+avsco(psco,pave);
+avcour1(pcou,psco);
+printf(&quot;\n&quot;);
+fali2(pcou,pnum,psco,pave);
+printf(&quot;\n&quot;);
+good(pcou,pnum,psco,pave);
+}
+avsco(psco,pave)
+float *psco,*pave;
+{int i,j;
+float sum,average;
+for(i=0;i&lt;4;i++)
+{sum=0;
+for(j=0;j&lt;5;j+)
+sum+=(*(psco+5*i+j));
+average=sum/5;
+*(pave+i)=average;
+}
+}
+avcour1(pcou,psco)
+char *pcou;
+float *psco;
+{int i;
+float sum,average1;
+sum=0;
+for(i=0;i&lt;4;i++)
+sum+=(*(psco+5*i))
+average1=sum/4;
+printf(&quot;%s      %5.2f\n&quot;,pcou,average1);
+}
+fali2(pcou,pnum,psco,pave)
+char *pcou;
+int *pnum;
+float *psco,*pave;
+{int i,j,k,label;
+printf(&quot;\nnumber\n&quot;);
+for(i=0;i&lt;5;i++)
+printf(&quot;%-8s&quot;,pcou+10*i);
+printf(&quot;\naverage\n&quot;);
+for(i=0;i&lt;4;i++)
+{label=0;
+for(j=0;j&lt;5;j++)
+if(*(psco+5*i+j)&lt;60.0)label++;
+if(label&gt;=2)
+{printf(&quot;%-8d&quot;,*(pnum+i));
+for(k=0;k&lt;5;k++)printf(&quot;%-8.2f&quot;,*(psco+5*i+k));
+printf(&quot;%-8.2f&quot;,*(pave+i));
+}
+}
+}
+good(pcou,pnum,psco,pave)
+char *pcou;
+int *pnum;
+float *psco,*pave;
+{int i,j,k,label;
+printf(&quot;number&quot;);
+for(i=0;i&lt;5;i++)
+printf(&quot;%-8s&quot;,pcou+10*i);
+printf(&quot;average&quot;);
+for(i=0;i&lt;4;i++)
+{label=0;
+for(j=0;j&lt;5;j++)
+if(*(psco+5*i+j)&gt;=85.0)label++;
+if((label&gt;=5)||(*(pave+i)&gt;=90))
+{printf(&quot;%-8d&quot;,*(pnum+i));
+for(k=0;k&lt;5;k++)
+printf(&quot;%-8.2f&quot;,*(psco+5*i+k));
+printf(&quot;%-8.2f&quot;,*(pave+i));
+}
+}
+}
+
+10.16
+#include&quot;stdio.h&quot;
+main()
+{char str[50],*pstr;
+int i,j,k,m,e10,digit,ndigit,a[10],*pa;
+gets(str);
+pstr=str;
+pa=a;
+ndigit=0;
+i=j=0;
+while(*(pstr+i)!=&#39;\0&#39;)
+{if((*(pstr+i)&gt;=&#39;0&#39;)&amp;&amp;(*(pstr+i)&lt;=&#39;9&#39;))
+j++;
+else
+{if(j&gt;0)
+{digit=*(pstr+i-1)-48;
+k=1;
+while(k            {e10=1;
+for(m=1;m&lt;=k;m++)
+e10=e10*10;
+digit+=(*(pstr+i-1-k)-48)*e10;
+k++;
+}
+*pa=digit;
+ndigit++;
+pa++;
+j=0;
+}
+}
+i++;
+}
+if(j&gt;0)
+{digit=*(pstr+i-1)-48;
+k=1;
+while(k      {e10=1;
+for(m=1;m&lt;=k;m++)
+e10=e10*10;
+digit+=(*(pstr+i-1-k)-48)*e10;
+k++;
+}
+*pa=digit;
+ndigit++;
+j=0;
+}   
+printf(&quot;ndigit=%d\n&quot;,ndigit);
+j=0;
+pa=a;
+for(j=0;j   printf(&quot;%d&quot;,*(pa+j));
+}
+
+10.17
+main()
+{int m;
+char str1[20],str2[20],*p1,*p2;
+scanf(&quot;%s&quot;,str1);
+scanf(&quot;%s&quot;,str2);
+p1=str1;
+p2=str2;
+m=strcmp(p1,p2);
+printf(&quot;%d\n&quot;,m);
+}
+strcmp(p1,p2)
+char *p1,*p2;
+{int i=0;
+while(*(p1+i)==*(p2+i))
+if(*(p+i++)==&#39;\0&#39;)return(0);
+return(*
+(p1+i)-*(p2+i));
+}
+
+10.18
+main()
+{static char *mname[13]={&quot;illeagl&quot;,&quot;January&quot;,&quot;February&quot;,&quot;March&quot;,
+&quot;April&quot;,&quot;May&quot;,&quot;June&quot;,&quot;July&quot;,&quot;August&quot;,&quot;September&quot;,&quot;October&quot;,
+&quot;November&quot;,&quot;December&quot;};
+int n;
+scanf(&quot;%d&quot;,&amp;n);
+if((n&gt;=1)&amp;&amp;(n&lt;=12))
+printf(&quot;%s\n&quot;,*(mname+n));
+else
+printf(&quot;error&quot;);
+}
+
+10.20
+main()
+{int i;
+char **p,*pstr[5],str[5][10];
+for(i=0;i&lt;5;i++)
+pstr[i]=str[i];
+for(i=0;i&lt;5;i++)
+scanf(&quot;%s&quot;,pstr[i]);
+p=pstr;
+sort(p);
+for(i=0;i&lt;5;i++)
+printf(&quot;%s\n&quot;,pstr[i]);
+}
+sort(p)
+char **P;
+{int i,j;
+char *pchange;
+for(i=0;i&lt;5;i++)
+{for(j=i+1;j&lt;5;j++)
+{if(strcmp(*(p+i),*(p+j))&gt;0)
+{pchange=*(p+i);
+*(p+i)=*(p+j);
+*(p+j)=pchange;
+}
+}
+}
+}
+
+10.21
+main()
+{int i,n,digit[20],**p,*pstr[20];
+scanf(&quot;%d&quot;,&amp;n);
+for(i=0;i   pstr[i]=&amp;digit[i];
+for(i=0;i   scanf(&quot;%d&quot;,pstr[i]);
+p=pstr;
+sort(p,n);
+for(i=0;i   printf(&quot;%d   &quot;,*pstr[i]);
+}
+sort(p,n)
+int **p,n;
+{int i,j,*pchange;
+for(i=0;i   {for(j=i+1;j      {if(**(p+i)&gt;**(p+j))
+{pchange=*(p+i);
+*(p+i)=*(p+j);
+*(p+j)=pchange;
+}
+}
+}
+}
+
+第十一章  结构体与共用体
+11.1
+struct
+{int year;
+int month;
+int day;
+}date;
+main()
+{int days;
+scanf(&quot;%d,%d,%d&quot;,&amp;date.year,&amp;date.month,&amp;date.day);
+switch(date.month)
+{case 1:days=date.day;break;
+case 2:days=date.day+31;break;
+case 3:days=date.day+59;break;
+case 4:days=date.day+90;break;
+case 5:days=date.day+120;break;
+case 6:days=date.day+151;break;
+case 7:days=date.day+181;break;
+case 8:days=date.day+212;break;
+case 9:days=date.day+243;break;
+case 10:days=date.day+273;break;
+case 11:days=date.day+304;break;
+case 12:days=date.day+334;break;
+}
+if((date.year%4==0&amp;&amp;date.year%100!=0||date.year%400==0)
+&amp;&amp;date.month&gt;=3)
+days+=1;
+printf(&quot;days=%d\n&quot;,days);
+}
+
+11.2
+struct dt
+{int year;
+int month;
+int day;
+}date;
+main()
+{
+scanf(&quot;%d,%d,%d&quot;,&amp;date.year,&amp;date.month,&amp;date.day);
+printf(&quot;\n%d\n&quot;,days(date.year,date.month,date.day));
+}
+days(year,month,day)
+int year,month,day;
+{int daysum=0,i;
+static int daytab[13]={0,31,28,31,30,31,30,31,31,30,31,30,31}
+for(i=1;i   daysum+=daytab[i];
+daysum+=day;
+if((year%4==0&amp;&amp;year%100!=0||year%400==0)&amp;&amp;month&gt;=3)
+daysum+=1;
+return(daysum);
+}
+
+11.3
+11.4
+#define N 5
+struct student
+{char num[6];
+char name[8];
+int score[4];
+}stu[N];
+main()
+{
+input(stu);
+print(stu);
+}
+input(stu)
+struct student stu[];
+{int i,j;
+for(i=0;i   {printf(&quot;number&quot;);
+scanf(&quot;%s&quot;,stu[i].num);
+printf(&quot;name&quot;);
+scanf(&quot;%s&quot;,stu[i].name);
+for(j=0;j&lt;3;j++)
+{printf(&quot;\nscore\n&quot;);
+scanf(&quot;%d&quot;,&amp;stu[i].score[j]);
+}
+printf(&quot;\n&quot;);
+}
+}
+print(stu)
+struct student stu[];
+{int i,j;
+printf(&quot;\nnumber   name  score1  score2  score3  \n&quot;);
+for(i=0;i   {printf(&quot;%8s%10s&quot;,stu[i].nu
+m,stu[i].name);
+for(j=0;j&lt;3;j++)
+printf(&quot;%7d&quot;,stu[i].score[j]);
+printf(&quot;\n&quot;);
+}
+}
+
+11.5
+struct student
+{char num[6];
+char name[8];
+int score[4];
+float avr;
+}stu[5];
+main()
+{int i,j,max,maxi,sum;
+float average;
+for(i=0;i&lt;5;i++)
+{printf(&quot;number&quot;);
+scanf(&quot;%s&quot;,stu[i].num);
+printf(&quot;name&quot;);
+scanf(&quot;%s&quot;,stu[i].name);
+for(j=0;j&lt;3;j++)
+{printf(&quot;\nscore\n&quot;);
+scanf(&quot;%d&quot;,&amp;stu[i].score[j]);
+}
+}
+average=0;
+max=0;
+maxi=0;
+for(i=0;i&lt;5;i++)
+{sum=0;
+for(j=0;j&lt;3;j++)
+sum+=stu[i].score[j];
+stu[i].avr=sum/3.0;
+average+=stu[i].avr;
+if(sum&gt;max)
+{max=sum;
+maxi=i;
+}
+}
+average/=5;
+printf(&quot;number   name  score1  score2  score3  average\n&quot;);
+for(i=0;i&lt;5;i++)
+{printf(&quot;%8s%10s&quot;,stu[i].num,stu[i].name);
+for(j=0;j&lt;3;j++)
+printf(&quot;%7d&quot;,stu[i].score[j]);
+printf(&quot;%6.2f\n&quot;,stu[i].avr);
+}
+printf(&quot;average=%5.2f\n&quot;,average);
+printf(&quot;The best student is %s,sum=%d\n&quot;,stu[maxi].name,max);
+}

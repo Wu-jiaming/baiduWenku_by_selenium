@@ -1,0 +1,2135 @@
+﻿<!DOCTYPE html>
+<!--STATUS OKdfs-->
+<html class="expanded screen-max"><head><style id="wk-style-11">.reader-txt-layer a.keyword {color:#19a97b;text-decoration:none;}.reader-txt-layer a.keyword:hover {text-decoration:none;border-bottom: 15px solid#19a97b;}.reader-txt-layer span.keyword-span-wrap {color:#19a97b;}.reader-txt-layer span.keyword-span-wrap:hover {text-decoration:none;cursor:pointer;border-bottom: 15px solid#19a97b;}</style><style id="reader-render-style">.reader-word-s1-0{ font-size:353px;} .reader-word-s1-0,.reader-word-s1-2,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-18,.reader-word-s1-20,.reader-word-s1-22,.reader-word-s1-23,.reader-word-s1-25,.reader-word-s1-26,.reader-word-s1-27,.reader-word-s1-1{ font-weight:600;} .reader-word-s1-9,.reader-word-s1-2{ letter-spacing:1.7999999999999998px;} .reader-word-s1-0,.reader-word-s1-1,.reader-word-s1-2,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-10,.reader-word-s1-11,.reader-word-s1-12,.reader-word-s1-13,.reader-word-s1-14,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-17,.reader-word-s1-18,.reader-word-s1-19,.reader-word-s1-20,.reader-word-s1-21,.reader-word-s1-22,.reader-word-s1-23,.reader-word-s1-24,.reader-word-s1-25,.reader-word-s1-26,.reader-word-s1-27,.reader-word-s1-3{ color:#000000;} .reader-word-s1-6,.reader-word-s1-22,.reader-word-s1-25,.reader-word-s1-27,.reader-word-s1-4{ font-family:'Times New Roman Bold','87a3b767a26925c52cc5bf320020001','Times New Roman Bold';} .reader-word-s1-6,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-18,.reader-word-s1-20,.reader-word-s1-22,.reader-word-s1-23,.reader-word-s1-25,.reader-word-s1-26,.reader-word-s1-27,.reader-word-s1-5{ font-size:144px;} .reader-word-s1-22,.reader-word-s1-25,.reader-word-s1-27,.reader-word-s1-6{ font-size:144px;} .reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-10,.reader-word-s1-11,.reader-word-s1-13,.reader-word-s1-14,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-17,.reader-word-s1-18,.reader-word-s1-20,.reader-word-s1-21,.reader-word-s1-22,.reader-word-s1-23,.reader-word-s1-24,.reader-word-s1-25,.reader-word-s1-26,.reader-word-s1-27,.reader-word-s1-7{ font-size:144px;} .reader-word-s1-9,.reader-word-s1-18,.reader-word-s1-26,.reader-word-s1-8{ font-family:'宋体','87a3b767a26925c52cc5bf320030001','宋体';} .reader-word-s1-9{ letter-spacing:1.7999999999999998px;} .reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-18,.reader-word-s1-26,.reader-word-s1-10{ font-family:'宋体','87a3b767a26925c52cc5bf320030001','宋体';} .reader-word-s1-14,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-21,.reader-word-s1-11{ font-family:'Times New Roman','87a3b767a26925c52cc5bf320040001','Times New Roman';} .reader-word-s1-11,.reader-word-s1-14,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-19,.reader-word-s1-21,.reader-word-s1-12{ font-family:'Times New Roman','87a3b767a26925c52cc5bf320040001','Times New Roman';} .reader-word-s1-13{ letter-spacing:-2.04px;} .reader-word-s1-14{ letter-spacing:-0.65px;} .reader-word-s1-15{ letter-spacing:-0.5700000000000001px;} .reader-word-s1-16{ letter-spacing:-1.7100000000000002px;} .reader-word-s1-17{ letter-spacing:-0.1px;} .reader-word-s1-18{ letter-spacing:1.79px;} .reader-word-s1-19{ font-size:169px;} .reader-word-s1-20{ letter-spacing:0.54px;} .reader-word-s1-21{ letter-spacing:1.4000000000000001px;} .reader-word-s1-22{ letter-spacing:0.53px;} .reader-word-s1-22,.reader-word-s1-23{ letter-spacing:0.53px;} .reader-word-s1-27,.reader-word-s1-24{ letter-spacing:0.14px;} .reader-word-s1-25{ letter-spacing:-0.21999999999999997px;} .reader-word-s1-26{ letter-spacing:0.81px;} .reader-word-s1-27{ letter-spacing:0.14px;} #pageNo-1 .reader-parent{visibility:visible;}</style><style id="wk-style-9">.reader-txt-layer a.keycard {color:#000;text-decoration:none;border-bottom: 15px solid #19a979;}</style><style id="reader-other-style"></style><style id="reader-font-style"></style>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="shortcut icon" href="https://www.baidu.com/cache/icon/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="any" href="https://www.baidu.com/cache/icon/favicon.svg">
+
+
+
+<title>外贸销售合同_百度文库</title>
+
+<script>
+    // 性能优化：打点标识title
+    window.viewTime = {
+        t: new Date().getTime()
+    };
+    // 性能优化：打点标识title end
+    window.alogObjectConfig = {
+        sample: '0.2',
+ 
+        product: '112',
+        page: '112_5',
+        monkey_page: 'wenku-view',
+        speed_page: '',
+        speed: {
+            sample: '0.1'
+        },
+ 
+        monkey: {
+            sample: '0.1'
+        },
+ 
+        exception: { 
+            sample: '0.1'
+        },
+ 
+        feature: {
+            sample: '0.1'
+        },
+ 
+        cus: {
+            sample: '0.1'
+        },
+ 
+        csp: {
+            sample: '0.2',
+            'default-src': [
+                {match: '*bae.baidu.com', target: 'Accept,Warn'},
+                {match: '*.baidu.com,*.bdstatic.com,*.baidustatic.com,*.baiduimg.com,*.bdimg.com,localhost,*.hao123.com,*.hao123img.com', target: 'Accept'},
+                {match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},
+                {match: '*', target: 'Accept,Warn'}
+            ]
+        }
+    };
+    void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+    void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+
+
+<script type="text/javascript">
+    var PLAYER_LOAD_START = (new Date()).getTime();
+</script>
+<noscript>
+<style type="text/css">
+        .no-script {
+            background-color: #ffffe1;
+            color: #333;
+            font-size: 14px;
+            line-height: 20px;
+            padding: 10px 0 10px 121px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #f1f1f1;
+        }
+        .no-script>a {
+                text-align: center;
+                width: 100%;
+                text-decoration: underline;
+                color: #333;
+            }
+        }
+    </style>
+<div class="no-script">
+您的浏览器Javascript被禁用，需开启后体验完整功能，<a style=""
+            target="_blank" class="link-to-enable-js"
+            href="https://zhidao.baidu.com/question/936155671052828612.html?fr=iks&word=%E4%AF%C0%C0%C6%F7%BF%AA%C6%F4Javascript&ie=gbk">
+请单击此处查询如何开启</a>
+<img style="display: none;" src="https://wkctj.baidu.com/click.gif?pid=1&bid=1&fr=4&act_id=101711">
+</div>
+</noscript><script>
+            (function(){
+                var root = document.documentElement,
+                        screenClassName = +screen.width > 1024 ? 'max' : 'min';
+                root.className += ' screen-' + screenClassName;
+            })();
+        </script>
+<script>
+            // 事业部seo监控
+            window.seoMonitorConf = {
+                mode: 'wenku_pc'
+            };
+            var seoSrc = 'https://edu-wenku.bdimg.com/v1/usergrowth/seo.online.js?t=' + new Date().getTime();
+            var script = document.createElement('script');
+            script.src = seoSrc;
+            setTimeout(function () {
+                try {
+                    document.body.appendChild(script);
+                    setTimeout(function () {
+                        document.body.removeChild(script);
+                    }, 1000);
+                }
+                catch (e) {
+
+                }
+            }, 2000);
+            // 事业部seo监控 end
+        </script>
+
+
+
+<meta name="description" content="在线互动式文档分享平台，在这里，您可以和千万网友分享自己手中的文档，全文阅读其他用户的文档，同时，也可以利用分享文档获取的积分下载文档 ">
+
+<script type="text/javascript">!function(n){var t={},i={};i._data=t,i.get=function(n){return t[n]},i.set=function(n,i){if("string"==typeof n)t[n]=i;else for(var r in n)n.hasOwnProperty(r)&&(t[r]=n[r])},n.__fisData=i}(window);</script>
+<link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/core_v3_3e93ff8.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pkg_wkcommon_base_1162205.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/cashiercommon_b924d8a.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/viewcommon_c764a80.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/htmlview_8a00500.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/top_ads_banner_abd3b1d.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/newhtmlview_58ba389.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/wangmeng_d4b1a13.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/page_tag_0d4c972.css"><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pkg_wkcommon_htmlReader_6b30039.css"><script> alog('speed.set', 'ht', +new Date); </script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/store_32a0d1e.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/index_1f1565b.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/doc_header_qrcode_431fcd5.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pkg_wkcommon_htmlReader_d9b10b3.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/payCheck_61061dc.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/viewSideDown_9f34452.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/main_f4c0a92.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/async_widget_e8d6637.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/hijack_5dabab1.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/conf_bd82ddc.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/BigPipe_1626517.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/lazyload_ff4c82f.js"></script><link rel="stylesheet" type="text/css" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/87a3b767a26925c52cc5bf32.css"><link rel="stylesheet" href="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/share_style0_16.css"></head>
+
+
+
+<body class="newTools"><div id="BAIDU_DUP_fp_wrapper" style="position: absolute; left: -1px; bottom: -1px; z-index: 0; width: 0px; height: 0px; overflow: hidden; visibility: hidden; display: none;"><iframe id="BAIDU_DUP_fp_iframe" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/o.htm" style="width: 0px; height: 0px; visibility: hidden; display: none;"></iframe></div><div id="WkDialogDownDoc" style="display: none;" class="hide"><div class="dialog-ad dialog-ad-miti">   <div class="dialog-ad-hd"><span class="dialog-ad-logo"></span><h4 class="dialog-ad-title" style="font-size:px"></h4><a target="_blank" href="https://wenku.baidu.com/miti" class="dialog-ad-more log-xsend" data-logxsend="[1, 100448]">免费安装&gt;&gt;</a></div><div class="dialog-container">   <div class="close-btn"></div>   <div class="dialog-left-greenbar"></div>   <div class="dialog-top">       <p class="doc-title">外贸销售合同</p>       <p class="doc-size">(30.5K)</p>   </div>   <div class="dialog-inner">       <p class="ticket-num-msg msg1"></p>       <p class="ticket-detail-msg msg2"></p>       <div class="wealth-5-container hide">           <a href="javascript:;" class="wealth-5-btn-use-down-load-ticket btn-gray btn-m">使用下载券下载</a>           <a href="javascript:;" class="wealth-5-btn-use-free btn-green btn-m"><i class="btn-ico"></i><span>免下载券下载</span></a>       </div><div class="ticket-no-wealth-container hide">   <div class="ticket-btn-container ticket-btn-container-vip"><a href="javascript:;" class="btn-green btn-m ticket-exchange-btn">兑换后下载</a> <a href="javascript:;" class="btn-gray btn-m ticket-user-free-download-btn">免下载券下载</a></div>   <div class="clear"></div>   <div class="ticket-raido-container hidden">       <div class="ticket-raido-bg">                <span class="ticket-radio-tips">您共有<i>100</i>积分，可兑换：</span>                <ul>                    <li class="disable"><span class="sel-option" data-value="3"></span>3下载券</li>                    <li class="disable"><span class="sel-option" data-value="5"></span>5下载券</li>                    <li class="disable"><span class="sel-option" data-value="10"></span>10下载券</li>                    <li class="disable"><span class="sel-option" data-value="30"></span>30下载券</li>                    <li class="disable"><span class="sel-option" data-value="50"></span>50下载券</li>                    <li class="other"><span class="sel-option"></span><input placeholder="其他" class="other-input" type="text">下载券</li>                </ul>                <div class="ticket-tips">                   <div class="ticket-tips-item w6 ticket-num">兑换后获得：<em></em>下载券                       <span class="ticket_gift_tips">+赠3下载券</span>                   </div>                   <div class="ticket-tips-item w4">共消耗：<em class="ticket-wealth"></em>积分</div>                   <div class="tikcet-tips-notice w4">下载券有效期：<em>30天</em></div>                </div>       </div>       <a class="btn-green btn-l ticket-exchange-download-btn ticket-exchange-download-btn-disable" href="javascript:;">兑换并下载</a>   </div></div><div class="vip-getback hide">       <a href="javascript:;" class="ui-bz-btn-senior btn-vip-ticket-download"><b class="ui-bz-btn-p-16 ui-bz-btc">花费下载券下载</b></a>　       <a href="###" class="ui-bz-btn"><b class="ui-bz-btn-p-16 ui-bz-btc">续费VIP<i>/赠5次下载特权</i></b></a></div><div class="user-dialog-download-btn-center hide"><a class="dialog-down-load-btn btn-green btn-l" href="javascript:void(0);">续费VIP</a><a class="btn-orange btn-l ml24" href="https://wenku.baidu.com/user/mydocs?check_new_user_gift=1"><b class="gift-icon"></b>领取新手礼包</a></div><div class="dialog-down-load-btn-center"><a class="dialog-down-load-btn btn-green btn-l" href="javascript:void(0);">续费VIP</a></div><div class="vcode-box vcode-disable"><input class="vcode-ipt" type="text"><img src=""><span class="vcode-change">换一换</span><b class="vcode-right"></b><p class="error-tip"><b class="vcode-error"></b><span>请输入正确的验证码！</span></p></div><div class="download-btn-others"><a href="https://wenku.baidu.com/cashier/browse/dispatch?doc_id=71b26b3eae45b307e87101f69e3143323968f5a8" target="_blank" class="download-btn-tip">续费3月即送下载特权</a></div></div><div class="dialog-bottom"><p id="bottom-btn" class="bottom-btn">使用下载券下载</p><p id="price10-bottom-btn" class="price10-bottom-btn hide" style="text-decoration: none;">由于文档价格较高，建议您使用<span style="text-decoration: underline; color: #139f72;">下载特权</span>下载</p><p class="bottom-msg">因本次下载而产生的财富将由百度文库以一定方式转交版权人</p></div></div></div></div><iframe class="dialog-container-iframe" allowtransparency="true" src="" scrolling="no" frameborder="0"></iframe>
+
+
+
+
+
+<script>
+(function(Data) {
+
+		var smallFlowContent = [];
+					smallFlowContent.push('xll_search_download' + '=' + '1');
+					smallFlowContent.push('xll_view_newviewtpl' + '=' + '0');
+					smallFlowContent.push('viewPageChangeOnePPT' + '=' + '1');
+					smallFlowContent.push('viewPageChangeOneXreader' + '=' + '1');
+				
+		Data.set('smallFlowContent', smallFlowContent);
+
+}(window.__fisData));
+</script>
+
+<script>
+	(function(Data) {
+		var WkInfo = Data.get("WkInfo") || {};
+		var isLogin="1";WkInfo.PageInfo={isLogin:!!isLogin,copyright:"1",tpl:"wk_info",docTypeList:[["none",""],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["pdf","pdf\u6587\u6863"],["txt","txt\u6587\u6863"],["wps","Word\uff08\u91d1\u5c71\uff09"],["et","Excel\uff08\u91d1\u5c71\uff09"],["dps","PPT\uff08\u91d1\u5c71\uff09"],["vsd","Visio\u7ed8\u56fe"],["rtf","rtf\u6587\u6863"],["pot","PPT\u6a21\u677f"],["pps","PPT\u653e\u6620"],["epub","ePub\u6587\u6863"]]};
+;
+				var isCreater="",isLimit="",isNoUsername="1",isAdmin="";WkInfo.UserInfo={wealth:"0",payed:!1,userName:"文库新人",userGradeNum:"1",isCreater:!!isCreater,isLimit:!!isLimit,isNoUsername:!!isNoUsername,isAdmin:!!isAdmin},WkInfo.errMsg={0:"\u63d0\u4ea4\u6210\u529f",1:"\u7cfb\u7edf\u9519\u8bef",2:"\u7528\u6237\u672a\u767b\u9646",5:"\u64cd\u4f5c\u9891\u7387\u592a\u5feb",11:"\u63d0\u4ea4\u53c2\u6570\u975e\u6cd5"};
+;
+				Data.set("WkInfo",WkInfo);
+	}(window.__fisData));
+</script>
+
+<div class="wk-other-new-cntent">
+<div class="user-bar user-bar-new">
+<ul class="inner">
+<li><a href="https://www.baidu.com/" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;bdindex&quot;,{&quot;login&quot;:1}]}" alog-action="userbar.loginbdhome">百度首页</a></li>
+<li class="mn-lk-w member-icon" id="user-bar-uname">
+<a id="userNameCon" href="https://wenku.baidu.com/user/mydocs" target="_blank" class="uname mn-lk user-my-name log-xsend user-bar-home-link" data-logxsend="[1, 100795]"><span class="text-dec-under">文库新人</span><span id="wk-user-icon-home"><span class="iconfont ic-not-vip"></span></span></a>
+<div class="mn-tip user-my-name-tip" style=" width:72px; left: 50%;margin-left: -36px;">
+<div class="mn-tip-inner">
+<ul class="mn mn-tip-shadow clearfix">
+<li><a href="https://wenku.baidu.com/user/mydocs" target="_blank" id="user-bar-my-home">个人中心</a></li>
+<li><a href="https://wenku.baidu.com/user/task?fr=status" target="_blank" alog-action="userbar.mytask">我的任务</a></li>
+<li><a href="http://msg.baidu.com/" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;msg&quot;]}" target="_blank" alog-action="userbar.mymsg">我的私信</a></li>
+<li><a href="https://wenku.baidu.com/wenkuverify?from=3" target="_blank" class="log-xsend org-home" data-logxsend="[1, 100135]">申请认证</a></li>
+<li><a href="http://passport.baidu.com/?logout&amp;aid=7&amp;u=https%3A//wenku.baidu.com/view/71b26b3eae45b307e87101f69e3143323968f5a8.html" id="logout" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;logout&quot;]}">退出账号</a></li>
+</ul>
+<i class="mn-tip-icon"></i>
+</div>
+</div>
+</li>
+<li style="position: relative;"><a href="https://wenku.baidu.com/cashier/browse/dispatch?dqStatCode=topnav_joinvip&amp;from_doc=71b26b3eae45b307e87101f69e3143323968f5a8" target="_blank" title="百度文库VIP" style="height: auto;" id="my-wkHome-vip-tips" class="log-xsend" data-logxsend="[1, 101547, {'index':0}]"><span class="wk-color-vip-red">加入文库VIP</span></a><div class="vip-tips-hover-div clearfix"><div class="vip-tips-hover-div-content"><ul><li class="xztq-r">赠送免券下载特权</li><li class="mfzx-r">10W篇文档免费专享</li><li class="eightCount-r">部分付费文档8折起</li><li class="fuli-r">每天抽奖多种福利</li></ul><a target="_blank" class="log-xsend vip-tips-hover-gotocashier ljkt-btn-red" href="https://wenku.baidu.com/cashier/browse/dispatch?dqStatCode=topnav_joinvip" data-logxsend="[1, 101547, {'index':0}]">立即开通</a></div></div></li>
+<li class="user-my-class-new" id="user-my-class"><a href="https://wenku.baidu.com/user/mymessage" class="my-notice">消息<span class="my-notice" title="消息" alog-action="userbar.mynotice"></span></a></li>
+<li id="mywenku" class="mn-lk-w user-my-wenku"><a href="javascript:void(0);" class="mn-lk logSend">更多</a>
+<div class="mn-tip user-my-wenku-tip" style=" width:93px; right: -8px;">
+<div class="mn-tip-inner">
+<ul class="mn clearfix mn-tip-shadow">
+<li><a class="help-feedback" title="意见反馈">意见反馈</a></li>
+<li><a href="https://wenku.baidu.com/apps?fr=1011" target="_blank" alog-action="userbar.loginapp" title="下载客户端">下载客户端</a></li>
+<li><a href="http://passport.baidu.com/center" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;userinfo&quot;]}" target="_blank" alog-action="userbar.mysetting">百度帐号设置</a></li>
+<li><a href="###" id="btn-fillin-username" class="bt">设置用户名</a></li></ul>
+<i class="mn-tip-icon"></i>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="s_tab" alog-group="switch.productline">
+<a data-href="http://www.baidu.com" href="http://www.baidu.com/s?wd=word&amp;fr=wenku" class="logSend " data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;webpage&quot;}]}" wdfield="wd" onmousedown="setHeadUrl(this)">网页</a>
+<a data-href="http://news.baidu.com" href="http://news.baidu.com/ns?word=word&amp;tn=news&amp;cl=2&amp;rn=20&amp;ct=1&amp;fr=wenku" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;, &quot;toptablink&quot;,{&quot;to&quot;:&quot;news&quot;}]}" wdfield="word" onmousedown="setHeadUrl(this)">新闻</a>
+<a data-href="http://tieba.baidu.com" href="http://tieba.baidu.com/f?kw=word&amp;fr=wenku" class="logSend " data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;tieba&quot;}]}" wdfield="kw" onmousedown="setHeadUrl(this)">贴吧</a>
+<a data-href="http://zhidao.baidu.com" href="http://zhidao.baidu.com/q?word=word&amp;ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;lm=0&amp;fr=wenku" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;zhidao&quot;}]}" wdfield="word" onmousedown="setHeadUrl(this)">知道</a>
+<a data-href="http://music.baidu.com" href="http://music.baidu.com/search?&amp;fr=wenku&amp;key=word" class="logSend " data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;music&quot;}]}" wdfield="key" onmousedown="setHeadUrl(this)">音乐</a>
+<a data-href="http://image.baidu.com" href="http://image.baidu.com/i?ct=201326592&amp;cl=2&amp;nc=1&amp;lm=-1&amp;st=-1&amp;tn=baiduimage&amp;istype=2&amp;fm=&amp;pv=&amp;z=0&amp;word=word&amp;fr=wenku" class="logSend " data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;image&quot;}]}" wdfield="word" onmousedown="setHeadUrl(this)">图片</a>
+<a data-href="http://v.baidu.com" href="http://v.baidu.com/v?fr=wenku&amp;ct=301989888&amp;s=25&amp;word=word" class="logSend " data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;video&quot;}]}" wdfield="word" onmousedown="setHeadUrl(this)">视频</a>
+<a data-href="http://map.baidu.com" href="http://map.baidu.com/?newmap=1&amp;ie=utf-8&amp;s=s&amp;wd=word&amp;fr=wenku" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;toptablink&quot;,{&quot;to&quot;:&quot;map&quot;}]}" wdfield="wd" onmousedown="setHeadUrl(this)">地图</a>
+<b>文库</b>
+<b class="wk-right-line">|</b>
+</div>
+</div>
+<div id="vip-cms-doc-list" style="display:none;">
+<p class="pop-msg-text">文库君已有近万本图书，还会不断收罗精品免费内容双手奉上，请及时续费哦！</p>                                                                
+<div class="pop-msg-new-book"> 
+<div class="pop-msg-book-recmd"> 
+<div class="pop-msg-recmd-link">
+<a href="https://wenku.baidu.com/vip/list/104" target="_blank">经济管理</a>&nbsp;&nbsp;&nbsp;
+<a href="https://wenku.baidu.com/vip/list/101" target="_blank">职场励志</a>
+</div>
+<span>两大类热门资源免费畅读</span>
+</div>
+<a href="https://wenku.baidu.com/trade/browse/cashier?type=2&amp;fr=zhaohui" class="pop-msg-charge-btn">
+</a> 
+<div class="under-btn-tips">续费一年阅读会员，立省24元！</div>
+</div>
+</div>
+
+<div id="doc" class="page" style="width: auto;">
+<div id="hd">
+
+<style type="text/css">
+/*
+    @require wkview:widget/down_doc/down_doc.less
+    @require wkview:widget/api_share/api_share.less
+    @require wkview:widget/ui/panel/panel.less
+*/
+</style>
+<script type="text/javascript">
+    (function (Data) {
+        Data.set('isHitVipDocLimited', +'');
+        var WkInfo = Data.get('WkInfo') || {};
+        // RD文库阅读页异步操作重构
+        WkInfo.Urls = {
+            'submitPriceUpdate': '\/doc\/submit\/priceUpdate' || '/submit', // 修改标价
+            'submitClassUpdate': '\/doc\/submit\/classUpdate' || '/submit', // 修改分类
+            'submitValue': '\/doc\/submit\/value' || '/submit', // 评分
+            'submitDownload': '\/user\/submit\/download' || '/submit', // 下载
+            'submitCollect': '\/user\/submit\/collect' || '/submit', // 收藏
+            'interfaceGetFoldSon': '\/user\/interface\/getFoldSon' || '/roomasync', // 获取文件夹结构
+            'interfaceGetViewFoldInfo': '\/user\/interface\/getViewFoldInfo' || '/roomasync', // 外链的文件夹结构
+            'submitFoldCreate': '\/user\/submit\/foldCreate' || '/roomasync', // 文件夹创建
+            'submitDocMove': '\/user\/submit\/docMove' || '/roomasync', // 移动
+            'submitBookmark': '\/user\/submit\/bookmark' || '/submit', // 书签
+            'interfaceGetRepeatDown': '\/user\/interface\/getRepeatDown' || '/async'//重复文档检查
+        };
+        WkInfo.DocInfo = {
+            'player': 'html',
+            'creater': '%CF%C4%CC%EC%CE%B4%D6%C17', // 贡献者
+            'commentStar': '', // 文档已评论的星级
+            'isPayDocAndCommented': '0', // 文档是否已经评论（付费文档）
+            'title': '外贸销售合同', // 文档标题
+            'docId': '71b26b3eae45b307e87101f69e3143323968f5a8', // 文档格式
+            'docType': 'doc', // 文档格式
+            'docTypeNum': '1', // 文档格式号
+            'flag': '0',
+            'cats': '4-203-75-0' || '0-0-0-0', // 文档分类
+            'cid1': '4', // 文档分类
+            'cid2': '203', // 文档分类
+            'cid3': '75', // 文档分类
+            'cid4': '0', // 文档分类
+            'price': '2', // 文档价格
+            'size': '31232', // 文档价格
+            'rateNum': '0', // 文档评分
+            'totalPageNum': '1', // 文档评分
+            'catal': '0',
+            'relateDoc': '0',
+            'otherLikeDoc': '0',
+            'relateAlblum': '0',
+            'sameSeriesDoc': '4',
+            'isInRoom': '0',
+            'freeDoc': '',
+            'freeMoney': '',
+            'readerType': '',
+            'payPrice': +'0', // 文档价格
+            'isPaymentDoc': +'0', // 是否为付费文档
+            'freepagenum': +'', // 免费阅读页数
+            'ispaied': +'', // 是否已经购买
+            'writername': '', // 付费文档作者名称
+            'isdownloaded': +'', // 是否允许下载
+            'isPrivate': !!'', // 是否为私有文档
+            'vip_free_buy': +'0',
+            'is_vip_free_doc': +'0',
+            'is_only_vip_doc': +'',
+            'vip_price': + '',
+            'vip_type': +'0',
+            // tianzheng 教育会员 明哲让我加的
+            'is_edu_doc': +'',
+            'edu_vip_type': +'0',
+            'jiaoyu_vip_type': +'0',
+            'docTicket':+'1',
+            'JOINVIP_URL': '/vip/privilege',
+            'is_discount_doc': +'0',
+            'isInRoomButDeletedByCreater':!!'', // 
+            'goodsPayStatus': 'notPaymentDoc',
+            'price_supported_devices_info': '',
+            'confirm_price': +'',
+            'wk2yd': '0',
+            'docDesc': '',
+            'hasImage': '' || 0,
+            // 机构文档第二篇打折，必须数据
+            'org_discount_status':+'-1',
+            'org_discount_price':'',
+            'org_title':'',
+            'org_engName': '' || '',
+            'isOrgDoc': '0' || 0,
+            'is_exam_link': '0',
+            'professionalDoc': '', // 专业文档
+            'isRepeatDown': +'', // 付费文档是否已下载
+            'readerVersion': (function () {
+                var version = '3';
+                if (version != 1 && version != 2 && version != 3) {
+                    version = 1;
+                }
+                return version;
+            })(),
+
+            // 行业报告定制
+            'hangyebaogao_customized': +'' || 0
+        };
+
+        WkInfo.PaceInfo = {
+            'rate': '30'
+        };
+        if (WkInfo.VipInfo) {
+            WkInfo.VipInfo.flag = '0';
+            WkInfo.VipInfo.professionalDocDownloadTicket = '';
+        }
+        else {
+            WkInfo.VipInfo = {
+                'flag': '0', // 专业会员
+                'professionalDocDownloadTicket': '' // 专业特权
+            }
+        }
+        if (WkInfo.UserInfo) {
+            WkInfo.UserInfo.smallFlowProfessionalDoc = '0' // 专业文档小流量
+        }
+        else {
+            WkInfo.UserInfo = {
+                'smallFlowProfessionalDoc': '0' // 专业文档小流量
+            }
+        }
+        WkInfo.docType = {
+            '0': '',
+            '1': 'doc',
+            '2': 'xls',
+            '3': 'ppt',
+            '4': 'docx',
+            '5': 'xlsx',
+            '6': 'pptx',
+            '7': 'pdf',
+            '8': 'txt',
+            '9': 'wps',
+            '10': 'et',
+            '11': 'dps',
+            '12': 'vsd',
+            '13': 'rtf',
+            '14': 'pot',
+            '15': 'pps',
+            '16': 'epub'
+        };
+
+        // 协同推荐数据，暂时供下载后推荐使用
+        WkInfo.otherLikeDocRec = [];
+
+        
+        // 判断是否使用Bcs请求的地址
+        WkInfo.htmlBcs = +'1';
+        // htmlBcs迁移请求地址
+        WkInfo.htmlUrls = '{\x22ttf\x22:[{\x22pageIndex\x22:1,\x22param\x22:\x22&md5sum=a41fb0b3e9f6d258a4d6717df80370e5&range=0-&sign=27a7b7f150\x22}],\x22json\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjbos.bdimg.com\\\/v1\\\/docconvert9565\\\/\\\/wk\\\/a41fb0b3e9f6d258a4d6717df80370e5\\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Tue%2C%2007%20Aug%202018%2010%3A27%3A11%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-06-23T02%3A27%3A11Z%2F3600%2Fhost%2F50fcb36d2adfae03e5cba9028f572240fc5f3dc8cd5ca741719d70572fc4cc10&x-bce-range=0-&token=d36b07b34e53a4fc4dcc39af2e0fed9937b5a06a548c7f3a28ae53594226d4b2&expire=2018-06-23T03:27:11Z\x22}],\x22png\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjbos.bdimg.com\\\/v1\\\/docconvert9565\\\/\\\/wk\\\/a41fb0b3e9f6d258a4d6717df80370e5\\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Tue%2C%2007%20Aug%202018%2010%3A27%3A11%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-06-23T02%3A27%3A11Z%2F3600%2Fhost%2F018c282660ff1c514e1bb828a79a943b0c5d6d906cea6bef69ae9d4e4f3a015b&x-bce-range=0-&token=dcb3fea3708f31dd4161b81ee1034c68b8f0e6481ffa9adb3963b9da03049877&expire=2018-06-23T03:27:11Z\x22}]}';
+        WkInfo.verify_user_info ='';
+        WkInfo.isUgcTest = Boolean('');
+        WkInfo.isRealName = +('1' + '0' + '0');
+
+        Data.set('WkInfo', WkInfo);
+        +'2264860134' && Data.set('userFlowGroup', +'1');
+        Data.set('mitidialogtitle', '');
+        Data.set('mitidialogfontsize', '');
+        Data.set('isDialogCashier', '');
+    })(window.__fisData);
+</script>
+<div class="header-wrap">
+
+<div class="box top-search-box  " style="width: 1200px;">
+<div class="media media-new-150">
+
+<a href="https://wenku.baidu.com/?fr=logo" alog-action="wk.logo"><img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/logo-wk-135-44_0113321.jpg" alt="百度文库_文档分享平台" width="135" height="44"></a>
+</div>
+<span id="h-hide" style="display: none;"></span>
+<div class="content" id="adbg">
+<div class="s_nav s_nav-new">
+</div>
+
+</div>
+<a class="page-banner page-banner-new log-xsend default-data" id="banurl" data-logxsend="[1, 101282, {index: 4}]" href="https://wenku.baidu.com/org/zone?zoneid=5" target="_blank" style="background: rgba(0, 0, 0, 0) url(&quot;//gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/doc/pic/item/a8773912b31bb05142d6c1003f7adab44aede02c.jpg&quot;) no-repeat scroll right center;"></a>
+<span class="ad-icon">广告</span>
+</div>
+<div class="nav-wrap mb10">
+<div class="ui-nav">
+<div class="inner clearfix">
+<ul class="clearfix main-nav" alog-group="general.nav">
+<li id="nav-index"><a href="https://wenku.baidu.com/?fr=nav">首页</a></li>
+<li id="zone-menu"><a href="javascript:void(0);">分类</a><b class="d-ic"></b></li>
+<li id="jingpin-menu">
+<a href="javascript:void(0);">精品内容</a>
+<b class="verify-d-ic"></b>
+<div class="drop-sub-nav" id="drop-sub-nav">
+<a target="_blank" href="https://wenku.baidu.com/edu" class="log-xsend" data-logxsend="[1, 101246]">教育文库</a>
+<a target="_blank" class="log-xsend" data-logxsend="[1, 101214]" href="https://wenku.baidu.com/video/browse/category">文库视频</a>
+<a target="_blank" href="https://tiku.baidu.com/" data-logxsend="[1, 100761]" class="log-xsend">百度题库</a>
+<a target="_blank" class="log-xsend" data-logxsend="[1, 100799]" href="https://wenku.baidu.com/jingpin">精品文库</a>
+<a target="_blank" href="https://wenku.baidu.com/org/zone?zoneid=2" class="log-xsend" data-logxsend="[1, 101247]">学术专区</a>
+<a target="_blank" href="https://wenku.baidu.com/org/browse/meeting" class="log-xsend" data-logxsend="[1, 101248]">会议中心</a>
+</div>
+</li>
+<li id="nav-edu">
+<a href="https://wenku.baidu.com/wenkuverify?from=1" target="_blank" class="log-xsend" data-logxsend="[1, 101253]">名师招募<span class="ui-bz-hot-ic" style="position: absolute; top: 2px;"></span></a>
+</li>
+<li class="" id="jghz-menu">
+<a href="javascript:void(0);" style="cursor:default;">机构合作</a>
+<b class="verify-d-ic"></b>
+<div class="drop-sub-nav" id="jghz-drop-sub-nav">
+<a target="_blank" href="https://wenku.baidu.com/org/index">机构认证</a>
+<a target="_blank" href="https://eduai.baidu.com/intro">教育云平台</a>
+<a target="_blank" href="https://jiaoyu.baidu.com/topic/bsplatform/tob_doc?fr=home">品牌推广</a>
+<a target="_blank" href="https://jiaoyu.baidu.com/topic/bsplatform/technical_cooperation" data-logxsend="[1, 100841]" class="log-xsend">技术服务</a>
+<a target="_blank" href="https://jiaoyu.baidu.com/topic/bsplatform/agentrecruitment" data-logxsend="[1, 100958]" class="log-xsend">代理招募</a>
+</div>
+</li>
+<li class="last" id="channel-menu">
+<a href="javascript:void(0);" style="cursor:default;">频道专区</a>
+<b class="verify-d-ic"></b>
+<div class="drop-sub-nav" id="channel-drop-sub-nav">
+<a target="_blank" href="https://wenku.baidu.com/activity/browse/huiju?ch=huiju" data-logxsend="[1, 101542,{page: &quot;huiju&quot;}]" class="log-xsend">企业服务</a>
+<a target="_blank" href="https://wenku.baidu.com/activity/browse/fitmentsubject?ch=yezhifengfitment" data-logxsend="[1, 101542,{page: &quot;yezhifengfitment&quot;}]" class="log-xsend">环保家装</a>
+<a target="_blank" href="https://wenku.baidu.com/activity/browse/vipsubject?ch=yjconstructor" data-logxsend="[1, 101542,{page: &quot;yjconstructor&quot;}]" class="log-xsend">一级建造师</a>
+<a target="_blank" href="https://wenku.baidu.com/activity/browse/studysubject?ch=neworiamerica" data-logxsend="[1, 101542,{page: &quot;neworiamerica&quot;}]" class="log-xsend">美国留学</a>
+<a target="_blank" href="https://wenku.baidu.com/portal/browse/exam/new_feicui_itpeixun" data-logxsend="[1, 101542,{page: &quot;new_feicui_itpeixun&quot;}]" class="log-xsend">IT培训</a>
+<a target="_blank" href="https://wenku.baidu.com/portal/browse/exam/new_jiazhuang" data-logxsend="[1, 101542,{page: &quot;new_jiazhuang&quot;}]" class="log-xsend">全屋定制</a>
+<a target="_blank" href="https://wenku.baidu.com/portal/browse/exam/new_yasi" data-logxsend="[1, 101542,{page: &quot;new_yasi&quot;}]" class="log-xsend">雅思考试</a>
+<a target="_blank" href="https://wenku.baidu.com/portal/browse/exam/SFPE" data-logxsend="[1, 101542,{page: &quot;SFPE&quot;}]" class="log-xsend">注册消防师</a>
+<a target="_blank" href="https://wenku.baidu.com/portal/browse/exam/new_feicui_chenyangshuiqi" data-logxsend="[1, 101542,{page: &quot;new_feicui_chenyangshuiqi&quot;}]" class="log-xsend">装修涂料</a>
+</div>
+</li>
+</ul>
+<ul class="main-nav side-nav clearfix">
+<li class="knowledge-link">
+<a target="_blank" href="https://wenku.baidu.com/user/browse/knowledgecenter" data-logxsend="[1, 101574]" class="log-xsend"><b class="n-ic knowledge-ic"></b>云知识</a>
+</li>
+<li><a href="https://wenku.baidu.com/user/browse/vip/" target="_blank" class=" wkmember-li-top"><b class="n-ic wkmember-ic iconfont"></b><b class="havenew-ic" style=""></b>文库VIP&nbsp;&nbsp;</a>
+<b class="verify-d-ic"></b>
+<div class="drop-sub-nav member-sub-nav" id="drop-sub-nav">
+<a target="_blank" href="https://wenku.baidu.com/user/browse/jiaoyuvipzone" data-logxsend="[1, 101157]" class="jiaoyu-vip log-xsend">百度教育VIP<span class="ui-bz-new-ic"></span></a>
+<a target="_blank" href="https://wenku.baidu.com/user/browse/newvipfreedoczone" data-logxsend="[1, 100831]" class="log-xsend">VIP免费专区</a>
+<a target="_blank" href="https://wenku.baidu.com/user/browse/annualvip" data-logxsend="[1, 100592]" class="log-xsend">VIP福利专区</a>
+<a target="_blank" href="https://wenku.baidu.com/duihuan">兑换VIP</a>
+</div>
+</li>
+<li class="last"><a href="https://wenku.baidu.com/user/mydocs?fr=nav" id="nav-myWenku" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;usercenter&quot;,{&quot;refer&quot;:&quot;navigator&quot;}]}"><b class="n-ic mywk-ic"></b>个人中心</a>
+<b class="verify-d-ic" id="mark-arrow"></b>
+<div class="drop-sub-nav" id="reward-task">
+<a target="_blank" href="https://wenku.baidu.com/task/browse/rewardlist">悬赏任务</a>
+<a target="_blank" href="https://wenku.baidu.com/task/browse/daily">每日任务</a>
+<a class="" target="_blank" href="https://wenku.baidu.com/wenkuverify?from=2">专业认证</a>
+</div>
+</li>
+</ul>
+<div class="cate hide" id="wk-all-cate">
+<dl>
+	<dt>
+		<b class="t-tag cg"></b>
+		<a href="https://wenku.baidu.com/portal/browse/zoneedu" target="_blank">教育频道<b class="li-aw n-ic"></b></a>
+	</dt>
+	<dd>
+											<a href="http://youke.baidu.com/youke/eduplan/list/8_s0_g0_v87" target="_blank" class="log-xsend" data-logxsend="[1, 100647, {&quot;index&quot;:&quot;1&quot;}]">小学
+                        </a>
+									<a href="http://youke.baidu.com/youke/eduplan/list/9_s0_g0_v0" target="_blank" class="log-xsend" data-logxsend="[1, 100647, {&quot;index&quot;:&quot;2&quot;}]">初中
+                        </a>
+									<a href="http://youke.baidu.com/youke/eduplan/list/31_s0_g0_v0" target="_blank" class="log-xsend" data-logxsend="[1, 100647, {&quot;index&quot;:&quot;3&quot;}]">高中
+                        </a>
+									<a href="http://gaokao.baidu.com/?&amp;channel=pc6" target="_blank" class="log-xsend" data-logxsend="[1, 100647, {&quot;index&quot;:&quot;4&quot;}]">高考题库
+                        </a>
+					</dd>
+</dl>
+<dl>
+	<dt>
+		<b class="t-tag cc"></b>
+		<a href="https://wenku.baidu.com/pro/index" target="_blank">专业资料<b class="li-aw n-ic"></b></a>
+	</dt>
+	<dd>
+											<a href="https://wenku.baidu.com/list/175?l=4.3.6" target="_blank">人文社科</a>
+									<a href="https://wenku.baidu.com/list/63" target="_blank">IT/计算机</a>
+									<a href="https://wenku.baidu.com/list/230" target="_blank">工程科技</a>
+					</dd>
+</dl>
+<dl class="home-left-third">
+	<dt>
+		<b class="t-tag cg"></b>
+		<a href="https://wenku.baidu.com/form/index" target="_blank">实用文档<b class="li-aw n-ic"></b></a>
+	</dt>
+	<dd>
+											<a href="https://wenku.baidu.com/list/71" target="_blank">求职/职场</a>
+									<a href="https://wenku.baidu.com/list/77" target="_blank">总结/汇报</a>
+									<a href="https://wenku.baidu.com/list/73" target="_blank">党团工作</a>
+					</dd>
+</dl><dl class="tob-home-left"><dt><b class="t-tag cg"></b><a href="https://wenku.baidu.com/pgc/browse/exam" target="_blank">资格考试<b class="li-aw n-ic"></b></a></dt><dd><a href="https://wenku.baidu.com/portal/browse/exam/new_feicui_itpeixun" style="position:relative;" target="_blank">IT培训<span class="ui-bz-new-ic" style="position: absolute;top: -11px;right: -20px;"></span></a><a href="https://wenku.baidu.com/portal/browse/exam/new_tuofu" style="position:relative;" target="_blank">托福考试 <span class="ui-bz-hot-ic" style="position: absolute;top: -11px;right: -20px;"></span></a><a href="https://wenku.baidu.com/portal/browse/exam/new_yasi" style="position:relative;" target="_blank">雅思考试 <span class="ui-bz-no-ic" style="position: absolute;top: -11px;right: -20px;"></span></a></dd></dl><dl class="tob-home-left last"><dt><b class="t-tag cg"></b><a href="https://wenku.baidu.com/life/index" target="_blank">生活/商务<b class="li-aw n-ic"></b></a></dt><dd><a href="https://wenku.baidu.com/portal/browse/exam/new_jiazhuang" style="position:relative;" target="_blank">全屋定制 <span class="ui-bz-hot-ic" style="position: absolute;top: -11px;right: -20px;"></span></a><a href="https://wenku.baidu.com/activity/browse/huiju?ch=huiju" style="position:relative;" target="_blank">企业服务<span class="ui-bz-new-ic" style="position: absolute;top: -11px;right: -20px;"></span></a><a href="https://wenku.baidu.com/portal/browse/exam/new_feicui_chenyangshuiqi" style="position:relative;" target="_blank">装修涂料 <span class="ui-bz-hot-ic" style="position: absolute;top: -11px;right: -20px;"></span></a></dd></dl>
+<script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/jquery-1515482576427.js"></script>
+<script>
+    // 资格考试，生活休闲xpage配置
+    // 渲染方法
+    function render(resData) {
+        var optData = {
+            'content': '',
+            'optarr': []
+        };
+        for (var i = 0; i < resData.length; i++) {
+            // 容器的class,最后一个加last去除底部虚线
+            var elClass = ((i + 1) === resData.length) ? 'tob-home-left last' : 'tob-home-left';
+            // 定义容器
+            var content = '<dl class="'
+            + elClass
+            + '"><dt><b class="t-tag cg"></b><a href="'
+            + resData[i].url
+            + '" target="_blank">'
+            + resData[i].title
+            + '<b class="li-aw n-ic"></b></a></dt><dd></dd></dl>';
+            optData['content'] = optData['content'] + content;
+            // 定义内容
+            var optStr = '';
+            var data = resData[i].options;
+            for (var j = 0; j < data.length; j++) {
+                optStr = optStr + '<a href="'
+                + data[j].url
+                + '" style="position:relative;" target="_blank">'
+                + data[j].title
+                + '<span class="ui-bz-'
+                + data[j].type
+                + '-ic" style="position: absolute;top: -11px;right: -20px;"></span></a>'
+            }
+            optData['optarr'].push(optStr);
+        }
+        // 插入容器
+        $('.home-left-third').after(optData['content']);
+        // 插入内容
+        $('.tob-home-left').each(function (i, el) {
+            $(this).find('dd').html(optData['optarr'][i]);
+        });
+    }
+    // xpage获取数据
+    $.ajax({
+        url: '/xpage/form/getform?id=tob_home_left',
+        success: function (data) {
+            if (data.status.code === 0) {
+                var model =  data.data.form_data && data.data.form_data.model;
+                if (model && model.length > 0) {
+                    render(model);
+                }
+            }
+        },
+        error: function () {
+        }
+    });
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="bd">
+<div class="bd-wrap" style="min-width: 1200px;">
+<div class="body body-v3" style="width: 1200px;">
+
+<div class="crubms-wrap">
+<div id="page-curmbs" class="crumbs ui-crumbs mb10">
+<ul alog-group="general.curmbs">
+<li><a href="https://wenku.baidu.com/?fr=crumbs" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;crumb1&quot;]}">百度文库</a></li>
+<li><a href="https://wenku.baidu.com/form/index" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;crumb2&quot;]}">实用文档</a></li>
+<li><a href="https://wenku.baidu.com/list/203" class="logSend" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;crumb3&quot;]}">表格/模板</a></li>
+<li class="current logSend"><a href="https://wenku.baidu.com/list/75" data-logsend="{&quot;send&quot;:[&quot;general&quot;,&quot;crumb4&quot;]}">合同协议</a></li>
+</ul>
+</div>
+</div>
+
+
+<div class="main">
+
+
+<script>
+    if (typeof PDC !== 'undefined') {
+        PDC.view_start();
+    }
+</script>
+<div class="mod doc-main " id="doc-main" style="width: 964px;">
+<b class="top"><b class="tl"></b><b class="tr"></b></b>
+<div class="inner">
+
+ <div id="doc-header-test" class="hd doc-header no-doc-desc">
+<div class="top-ads-banner-wrap">
+<a href="javascript:;" class="top-ads-container top-ads-banner-goto-cashier log-xsend" data-logxsend="[1, 100017]" data-href="/cashier/browse/dispatch?dqStatCode=31_8_9_10&amp;from_doc=">
+<p class="left-image vip-icon"></p>
+<div class="right-info">
+<p class="right-first-para">加入文库VIP</p>
+<p class="right-second-para">获取下载特权 &gt;</p>
+</div>
+</a>
+</div><h1 class="reader_ab_test with-top-banner">
+<b class="ic ic-doc"></b><span id="doc-tittle-0">外<wbr>贸<wbr>销<wbr>售<wbr>合<wbr>同<wbr></span>
+</h1>
+<p class="doc-value" style="overflow: visible;">
+<span class="author">
+<span class="ic ic-user"></span>
+<a target="_blank" class="user log-xsend " data-logxsend="[1,100593]" href="https://wenku.baidu.com/u/%E5%A4%8F%E5%A4%A9%E6%9C%AA%E8%87%B37?from=wenku">夏天未至7
+</a>
+<i>|</i><em class="date">2017-08-25</em>
+</span>
+<i>|</i>
+<span id="doc-info-0"><b class="bannerScore"></b><span class="high-quality">5.0分</span><span>(高于<span class="high-quality">99</span>%的文档)</span><i>|</i><span class="ic ic-read-num"></span>2437<i>|</i><span class="ic ic-down-num"></span>102</span>
+<a id="docReport-0" title="举报违规文档" class="report" href="###" data-has-report="0"><i>|</i>
+<b class="ic ic-report mr5"></b>
+<span>举报</span>
+</a>
+<div class="qrHover">&nbsp;&nbsp;&nbsp;<div class="wrap"><div class="qrcode"><canvas width="90" height="90" style="display: none;"></canvas><img style="display: block;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAADy0lEQVR4nO2WSY7kMAwE6/+f9lwagxm3mIwkZddGAj6UzCUzZAn1eDweR/U5h8qJalb1dH01k0SkjehvPAP6VtBOXAGxCtjR6+iueEzmDmjSfztock04V8eOXGUi09TNVevmdTOgHW/EQ/C+D1pBq0AkQKLZq/VKf7I5A/r4UNCZ+epD+kbvCLTK7AH9bqBJOCY7UemrcilUt29WM6AHdL3vy4Pu3KEKfJajzLxi38YzoG8BfVwQK+FRTrZ27kc3W9U/Iwb0TYGvDiWcmIxqVU0HMNFHwG+8vga0im2gKQA1YAcYpUFtNtXv1FY/OOmnUtQR+LWgK8drh8nqZmT6SF+nv9JPNf2sDWgnBrToX9FJ9FNNx7H4H10RoeBRqBmsbLOJPlJb2Qz0gVWKMnEDepFDm2TGs5rdfR3dzuwOaPnBuE0GdO43WO8L3yUmy1X9KtcMye1syoAW65eD7jyZIQeQ6ueYVDNJkNlO/wGd1KjZTn8MumuAHC8ndmw2eac8Zp5OawNavRvQ7wY6M6AGOPDohqrZu/qq2kqgjzIrGtB5WKCzQQSsqnMEk/UImhPVzaCb818eFTqgm6CzxqpBx6QyQvpWjnznSlK50ZzT2oC+FfTOa4Ecr8pRVPWJSXzEK96ghgF9K+iooRqQmc7eRSYzsySH6HRh0b6BzgE9oL8BNBmgcohQapr07/RTa+QjgjwGtFrbDpoeHWWqY5rMUTlUI/V4Qc6AJhraOfJtcdCuY6v6dY64s3GkL+k/oE0vSpf0RsWQ68B5VDgbV9GpgGTvyMezfAb0zaCzIJDU8YrEYKGwL9FFcjsfzYA2cgd00pfoeipoCtEBrgDvMkDCnUN7Rf2XdedkR2xHzNeB3mHOEV7ZgMxwdXYlt7FBA9rJLYOOhKuBTm5mxIFFNpvkKg1ZX9fL3ydKVoMGNPfyz+Mfg2wAyV2tZ7mOuVVu9NvVSTdnQL8CaHgM8IAoSN+K2Y5+ApzUBO8GNNFHYkC/IujKoEqOs3GqH4HofCDZ7OoHN6CPJ4NWA2mNArs7NzFpwaR9aP8BfSfokJYRRDBZp8BXNdnm0znEE9U7oJ8BeucRqQhXkIgR1a+iwal1NmdABzWXgXaCgumaIzWOXlJTyYW9BnQ3F/Ya0N1c2Cu/B+ndlNxRKXDHdKRB9VWbW8l1OAzodwadQd9ZU4EY+YjW3AjmD+hszY3bQKuhjtDod8Ms7tvhEPQb0E59Vecv0I4JRzBZ71wHZEOJV3rdqD6BtwG9yrkMdOVxgDhXCOlPQV2pJZoZ9BnQA/qDQP8BMnY2LxqzZqUAAAAASUVORK5CYII="></div><div class="qr-title">马上扫一扫<div class="qr-text">手机打开<br>随时查看</div></div></div><span style="font-size:14px;color:#5DC1A2;" class="iconfont"><span style="font-size:12px;color:#666;">手机打开</span></span></div></p>
+<div class="doc-desc-wrap" style="width: 964px;">
+</div>
+<hr>
+</div>
+<div class="bd doc-reader" style="position: relative" oncopy="return false">
+<span class="ico-wkmember-free-doc">
+<a href="https://wenku.baidu.com/cashier/browse/dispatch?doc_id=71b26b3eae45b307e87101f69e3143323968f5a8&amp;dqStatCode=31_23_86" target="_blank"></a>
+</span>
+<div class="high-quality-doc doc-character-tag">
+<span href="javascript:;"></span>
+</div>
+<div class="share-doc doc-character-tag">
+<span href="javascript:;">共享文档</span>
+<div class="tag-info hide">
+<i class="triangle-icon"></i>
+共享文档是百度文库用户免费上传的可与其他用户免费共享的文档，具体共享方式由上传人自由设定。<a href="https://wenku.baidu.com/portal/browse/help#help/29">了解文档类型</a>
+</div>
+</div>
+<div class="pro-doc doc-character-tag">
+<span href="javascript:;">专业文档</span>
+<div class="tag-info hide">
+<i class="triangle-icon"></i>
+专业文档是百度文库认证用户/机构上传的专业性文档，文库VIP用户或购买专业文档下载特权礼包的其他会员用户可用专业文档下载特权免费下载专业文档。<a href="https://wenku.baidu.com/portal/browse/help#help/29">了解文档类型</a>
+</div>
+</div>
+<span class="new-ico-wkmember-free-doc" style="display: inline; position: fixed; top: 80px; left: 348.5px;">
+<a href="javascript:;"></a>
+</span>
+<span class="pay-doc-discount-ico">
+<a href="javascript:;"></a>
+</span>
+<div id="reader-share-pop" class="ui-panel trg-tl" style="display:none; width:271px;" tabindex="-1" hidefocus="false">
+<div class="tips-wrape">
+<span class="trangle"></span>
+<div class="inner">
+<div class="hd">
+<span class="title">分享至：</span>
+<span class="act">
+<a href="###" class="ir close">×</a>
+</span>
+</div>
+<div class="bd">
+<div class="reader-share-pop-bd">
+<div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare reader-bdshare bdsharebuttonbox bdshare-button-style0-16" data-tag="share_1" data="{&quot;pic&quot;:&quot;https://edu-wenku.bdimg.com/icms_transform/img/iknow/wenku/erweima2001.jpg&quot;,&quot;text&quot;:&quot;我正在@百度文库 阅读【外贸销售合同】这篇文章，推荐给大家！用文库客户端可以免积分下载该文档，客户端下载地址：http://wenku.baidu.com/apps?fr=2001 想立即阅读该文档点这里：&quot;,&quot;url&quot;:&quot;https://wenku.baidu.com/view/71b26b3eae45b307e87101f69e3143323968f5a8.html&quot;}" data-bd-bind="1529720839398">
+<div class="share-icons clearfix reader-share-icons">
+<a class="bds_qzone bdshare-items logSend" data-cmd="qzone"></a>
+<a class="bds_tsina bdshare-items logSend" data-cmd="tsina"></a>
+<a class="bds_tqq bdshare-items logSend" data-cmd="tqq"></a>
+<a class="bds_renren bdshare-items logSend" data-cmd="renren"></a>
+<a class="bds_kaixin001 bdshare-items logSend" data-cmd="kaixin001"></a>
+<a class="bds_douban bdshare-items logSend" data-cmd="douban"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="reader-container" id="reader-container-1" style="width: 964px;">
+<div class="reader-container-inner" id="reader-container-inner-1">
+<div class="mod reader-page complex reader-page-1">
+<b class="top"><b class="tl"></b><b class="tr"></b></b>
+<div class="inner">
+
+<div class="bd" id="pageNo-1" data-page-no="1" data-mate-width="892.979" data-mate-height="1262.879" style="height: 1343.66px;" data-scale="0.70709782964164" data-render="1"><div class="reader-parent-87a3b767a26925c52cc5bf32 reader-parent " style="position: relative; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1);"><div class="reader-wrap87a3b767a26925c52cc5bf32" style="position:absolute;top:0;left:0;width:100%;height:100%;"><div class="reader-main-87a3b767a26925c52cc5bf32" style="position:relative;top:0;left:0;width:100%;height:100%;"><div class="reader-txt-layer" style="z-index:1"><div class="ie-fix"><p class="reader-word-layer reader-word-s1-0 reader-word-s1-2" style="width:1419px;height:353px;line-height:353px;top:982px;left:4079px;z-index:0;font-family:'黑体','87a3b767a26925c52cc5bf320010001','黑体';font-size:353px;false">销售合同</p><p class="reader-word-layer reader-word-s1-0 reader-word-s1-4" style="width:88px;height:353px;line-height:353px;top:982px;left:5500px;z-index:1;font-size:353px;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-4" style="width:2350px;height:276px;line-height:276px;top:1409px;left:3611px;z-index:2;font-size:256px;letter-spacing:0.22999999999999998px;false">SALES&#8194;CONTRACT</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:1505px;left:5966px;z-index:3;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-9" style="width:291px;height:144px;line-height:144px;top:1808px;left:764px;z-index:4;false">卖方
+</p><p class="reader-word-layer reader-word-s1-6" style="width:619px;height:155px;line-height:155px;top:2013px;left:764px;z-index:5;false">SELLER:</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:2013px;left:1384px;z-index:6;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:3945px;height:155px;line-height:155px;top:1816px;left:1751px;z-index:7;letter-spacing:-0.8200000000000001px;false">SHENZHEN&#8194;LANGKE&#8194;AUTOMATION&#8194;EQUIPMENT&#8194;CO.,&#8194;LTD.&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:985px;height:155px;line-height:155px;top:2009px;left:1751px;z-index:8;false">No.1BUILDING</p><p class="reader-word-layer reader-word-s1-11" style="width:2100px;height:155px;line-height:155px;top:2009px;left:2717px;z-index:9;letter-spacing:-0.59px;false">,&#8194;HENGGUANGYAO&#8194;INDUSTYR&#8194;</p><p class="reader-word-layer reader-word-s1-11 reader-word-s1-13" style="width:712px;height:155px;line-height:155px;top:2202px;left:1751px;z-index:10;font-family:'Times New Roman','87a3b767a26925c52cc5bf320040001','Times New Roman';false">PARK,BAN</p><p class="reader-word-layer reader-word-s1-7" style="width:48px;height:155px;line-height:155px;top:2202px;left:2464px;z-index:11;font-family:'Times New Roman','87a3b767a26925c52cc5bf320050001','Times New Roman';">’</p><p class="reader-word-layer reader-word-s1-11" style="width:1577px;height:155px;line-height:155px;top:2202px;left:2514px;z-index:12;false">AN,SHENZHEN&#8194;,CHINA&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:1297px;height:155px;line-height:155px;top:2395px;left:1751px;z-index:13;false">TEL:&#8194;0755-********&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:2395px;left:3084px;z-index:14;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-14" style="width:1306px;height:155px;line-height:155px;top:2395px;left:3158px;z-index:15;false">FAX:&#8194;0755-********&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:2589px;left:1751px;z-index:16;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-8" style="width:289px;height:144px;line-height:144px;top:1808px;left:6124px;z-index:17;false">编号</p><p class="reader-word-layer reader-word-s1-6 reader-word-s1-17" style="width:337px;height:144px;line-height:144px;top:1808px;left:6452px;z-index:18;font-weight:600;font-family:'Times New Roman Bold','87a3b767a26925c52cc5bf320020001','Times New Roman Bold';false">NO.:&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:1210px;height:144px;line-height:144px;top:1816px;left:7457px;z-index:19;false">LANGKE20170712&#8194;</p><p class="reader-word-layer reader-word-s1-8" style="width:289px;height:144px;line-height:144px;top:2001px;left:6124px;z-index:20;false">日期</p><p class="reader-word-layer reader-word-s1-6" style="width:474px;height:144px;line-height:144px;top:2001px;left:6452px;z-index:21;letter-spacing:-2.27px;false">DATE:&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:882px;height:144px;line-height:144px;top:2009px;left:7457px;z-index:22;false">JUN.&#8194;15,&#8194;2017&#8194;
+</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:144px;line-height:144px;top:2195px;left:6124px;z-index:23;false">地点</p><p class="reader-word-layer reader-word-s1-6" style="width:830px;height:144px;line-height:144px;top:2195px;left:6443px;z-index:24;letter-spacing:-0.6px;false">SIGNED&#8194;IN:&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:1331px;height:144px;line-height:144px;top:2202px;left:7457px;z-index:25;false">SHENZHEN,&#8194;CHINA&#8194;
+</p><p class="reader-word-layer reader-word-s1-9" style="width:291px;height:144px;line-height:144px;top:2774px;left:764px;z-index:26;false">买方</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:144px;line-height:144px;top:2774px;left:1056px;z-index:27;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-6" style="width:556px;height:155px;line-height:155px;top:2979px;left:764px;z-index:28;letter-spacing:0.21000000000000002px;false">BUYER:</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:2957px;left:1321px;z-index:29;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-15" style="width:1194px;height:155px;line-height:155px;top:2782px;left:1751px;z-index:30;false">ANTRIX&#8194;ASSOCIA</p><p class="reader-word-layer reader-word-s1-16" style="width:935px;height:155px;line-height:155px;top:2782px;left:2928px;z-index:31;false">TES&#8194;PVT,.LTD&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:4082px;height:155px;line-height:155px;top:2975px;left:1751px;z-index:32;letter-spacing:0.32px;false">14&#8194;SOONANGI&#8194;TOWER,BANASWADI&#8194;MAIN&#8194;ROAD,JAI&#8194;BHARA</p><p class="reader-word-layer reader-word-s1-11" style="width:123px;height:155px;line-height:155px;top:2975px;left:5816px;z-index:33;letter-spacing:-1.48px;false">T&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:2392px;height:155px;line-height:155px;top:3168px;left:1751px;z-index:34;false">NAGER,BANGALORE-560033,INDIA&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:1425px;height:155px;line-height:155px;top:3361px;left:1751px;z-index:35;false">TEL:&#8194;+91-80-41350132&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:3554px;left:1751px;z-index:36;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:2785px;left:6124px;z-index:37;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:2782px;left:7457px;z-index:38;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:2975px;left:6124px;z-index:39;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:2975px;left:7457px;z-index:40;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-10" style="width:2172px;height:144px;line-height:144px;top:3836px;left:764px;z-index:41;false">买卖双方同意以下条款达成交易：</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:144px;line-height:144px;top:3836px;left:2937px;z-index:42;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:7676px;height:155px;line-height:155px;top:4037px;left:764px;z-index:43;letter-spacing:-1.56px;false">This
+&#8194;contract&#8194;Is&#8194;made&#8194;by&#8194;and&#8194;agreed&#8194;between&#8194;the&#8194;BUYER&#8194;and&#8194;SELLER&#8194;,&#8194;in&#8194;
+accordance&#8194;with&#8194;the&#8194;terms&#8194;and&#8194;conditions&#8194;stipulated&#8194;below.&#8194;
+</p></div></div><div class="reader-pic-layer" style="z-index:2"><div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjbos.bdimg.com/v1/docconvert9565//wk/a41fb0b3e9f6d258a4d6717df80370e5/0.png?responseCacheControl=max-age%3D3888000&amp;responseExpires=Tue%2C%2007%20Aug%202018%2010%3A27%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-06-23T02%3A27%3A11Z%2F3600%2Fhost%2F018c282660ff1c514e1bb828a79a943b0c5d6d906cea6bef69ae9d4e4f3a015b&amp;x-bce-range=0-&amp;token=dcb3fea3708f31dd4161b81ee1034c68b8f0e6481ffa9adb3963b9da03049877&amp;expire=2018-06-23T03:27:11Z);background-position:0px 0px;width:768px;height:49px;z-index:80;left:94.46640000000002px;top:430.0304px;opacity:1;-moz-transform: scale(1.07,1.07);position:absolute;overflow:hidden;"></div></div></div><div class="reader-txt-layer" style="z-index:3"><div class="ie-fix"><p class="reader-word-layer reader-word-s1-6 reader-word-s1-20" style="width:145px;height:155px;line-height:155px;top:4379px;left:1840px;z-index:81;font-family:'Times New Roman Bold','87a3b767a26925c52cc5bf320020001','Times New Roman Bold';false">1.&#8194;</p><p class="reader-word-layer reader-word-s1-8" style="width:725px;height:155px;line-height:155px;top:4379px;left:2022px;z-index:82;letter-spacing:0.4px;false">品名及规格</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:4379px;left:2748px;z-index:83;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:1720px;height:155px;line-height:155px;top:4584px;left:1433px;z-index:84;false">Commodity&#8194;&amp;&#8194;Specification</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:4562px;left:3156px;z-index:85;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-22" style="width:145px;height:155px;line-height:155px;top:4379px;left:4438px;z-index:86;false">2.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:4379px;left:4619px;z-index:87;false">数量</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:4379px;left:4911px;z-index:88;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-6" style="width:552px;height:155px;line-height:155px;top:4584px;left:4395px;z-index:89;letter-spacing:-0.32px;false">Quantity</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:4562px;left:4951px;z-index:90;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-22" style="width:145px;height:155px;line-height:155px;top:4379px;left:5846px;z-index:91;false">3.&#8194;</p><p class="reader-word-layer reader-word-s1-8 reader-word-s1-23" style="width:1017px;height:155px;line-height:155px;top:4379px;left:6027px;z-index:92;font-family:'宋体','87a3b767a26925c52cc5bf320030001','宋体';false">单价及价格条款</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:4379px;left:7045px;z-index:93;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-6" style="width:1608px;height:155px;line-height:155px;top:4584px;left:5639px;z-index:94;letter-spacing:-1.33px;false">Unit&#8194;Price&#8194;&amp;&#8194;Trade&#8194;Terms</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:4562px;left:7252px;z-index:95;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-22" style="width:145px;height:155px;line-height:155px;top:4379px;left:7943px;z-index:96;false">4.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:4379px;left:8125px;z-index:97;false">金额</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:4379px;left:8417px;z-index:98;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-6" style="width:505px;height:155px;line-height:155px;top:4584px;left:7926px;z-index:99;letter-spacing:-0.26px;false">Amount</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:4562px;left:8434px;z-index:110;font-family:simsun;">&#8194;
+</p></div></div><div class="reader-pic-layer" style="z-index:4"><div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjbos.bdimg.com/v1/docconvert9565//wk/a41fb0b3e9f6d258a4d6717df80370e5/0.png?responseCacheControl=max-age%3D3888000&amp;responseExpires=Tue%2C%2007%20Aug%202018%2010%3A27%3A11%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-06-23T02%3A27%3A11Z%2F3600%2Fhost%2F018c282660ff1c514e1bb828a79a943b0c5d6d906cea6bef69ae9d4e4f3a015b&amp;x-bce-range=0-&amp;token=dcb3fea3708f31dd4161b81ee1034c68b8f0e6481ffa9adb3963b9da03049877&amp;expire=2018-06-23T03:27:11Z);background-position:0px -54px;width:768px;height:117px;z-index:133;left:94.46640000000002px;top:502.947px;opacity:1;-moz-transform: scale(1.07,1.07);position:absolute;overflow:hidden;"></div></div></div><div class="reader-txt-layer" style="z-index:5"><div class="ie-fix"><p class="reader-word-layer reader-word-s1-6" style="width:2116px;height:155px;line-height:155px;top:4839px;left:6690px;z-index:134;letter-spacing:-0.64px;false">FOB&#8194;SHENZHEN&#8194;PORT,CHINA&#8194;</p><p class="reader-word-layer reader-word-s1-21" style="width:3001px;height:155px;line-height:155px;top:5036px;left:811px;z-index:135;false">ONE&#8194;SET&#8194;FULL-AUTO&#8194;LED&#8194;SMT&#8194;MACHINE&#8194;*&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:327px;height:155px;line-height:155px;top:5229px;left:811px;z-index:136;letter-spacing:0.37px;false">2000&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:893px;height:155px;line-height:155px;top:5229px;left:1165px;z-index:137;letter-spacing:-0.4px;false">KILOGRAMS&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:501px;height:155px;line-height:155px;top:5229px;left:2088px;z-index:138;letter-spacing:-0.27px;false">GROSS&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:603px;height:155px;line-height:155px;top:5229px;left:2617px;z-index:139;letter-spacing:-0.56px;false">WEIGHT&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:212px;height:155px;line-height:155px;top:5229px;left:3248px;z-index:140;letter-spacing:-7.79px;false">AT&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:325px;height:155px;line-height:155px;top:5229px;left:3488px;z-index:141;false">USD&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:1200px;height:155px;line-height:155px;top:5422px;left:811px;z-index:142;letter-spacing:-0.55px;false">60000.00&#8194;PER&#8194;SET.&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:1210px;height:155px;line-height:155px;top:5615px;left:811px;z-index:143;false">LANGKE&#8194;BRAND.&#8194;
+</p><p class="reader-word-layer reader-word-s1-11 reader-word-s1-24" style="width:403px;height:155px;line-height:155px;top:5036px;left:4490px;z-index:144;font-family:'Times New Roman','87a3b767a26925c52cc5bf320040001','Times New Roman';false">1&#8194;SET&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:868px;height:155px;line-height:155px;top:5036px;left:6491px;z-index:145;false">USD60000.00&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:868px;height:155px;line-height:155px;top:5036px;left:7938px;z-index:156;false">USD60000.00&#8194;
+</p><p class="reader-word-layer reader-word-s1-6 reader-word-s1-13" style="width:401px;height:155px;line-height:155px;top:6082px;left:3412px;z-index:157;font-weight:600;font-family:'Times New Roman Bold','87a3b767a26925c52cc5bf320020001','Times New Roman Bold';false">Total:&#8194;</p><p class="reader-word-layer reader-word-s1-6" style="width:418px;height:155px;line-height:155px;top:6082px;left:4482px;z-index:158;false">1&#8194;SET&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:6078px;left:7324px;z-index:159;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-6" style="width:868px;height:155px;line-height:155px;top:6082px;left:7938px;z-index:170;false">USD60000.00&#8194;
+</p><p class="reader-word-layer reader-word-s1-25" style="width:144px;height:155px;line-height:155px;top:6271px;left:764px;z-index:171;false">5.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:6271px;left:992px;z-index:172;false">总值</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:6271px;left:1284px;z-index:173;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:697px;height:155px;line-height:155px;top:6476px;left:992px;z-index:174;letter-spacing:-2.88px;false">Total&#8194;Value</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:6455px;left:1691px;z-index:175;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:6665px;left:992px;z-index:176;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:2000px;height:155px;line-height:155px;top:6279px;left:2423px;z-index:177;letter-spacing:-0.94px;false">USD&#8194;SIXTY&#8194;THOUSAND&#8194;ONLY</p><p class="reader-word-layer reader-word-s1-11" style="width:73px;height:155px;line-height:155px;top:6279px;left:4405px;z-index:187;letter-spacing:0.72px;false">.&#8194;
+</p><p class="reader-word-layer reader-word-s1-25" style="width:144px;height:155px;line-height:155px;top:6851px;left:764px;z-index:188;false">6.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:6851px;left:992px;z-index:189;false">包装</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:6851px;left:1284px;z-index:190;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:496px;height:155px;line-height:155px;top:7056px;left:992px;z-index:191;letter-spacing:-0.31px;false">Packing</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:7034px;left:1491px;z-index:192;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:7245px;left:992px;z-index:193;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:1803px;height:155px;line-height:155px;top:6859px;left:2423px;z-index:194;letter-spacing:-0.51px;false">EXPORTED&#8194;WOODEN&#8194;BOX&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:7052px;left:2423px;z-index:195;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-25" style="width:144px;height:155px;line-height:155px;top:7430px;left:764px;z-index:196;false">7.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:7430px;left:992px;z-index:197;false">唛头</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:7430px;left:1284px;z-index:198;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:999px;height:155px;line-height:155px;top:7635px;left:992px;z-index:199;letter-spacing:-0.16px;false">Shipping&#8194;Marks</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:7614px;left:1995px;z-index:200;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:7824px;left:992px;z-index:201;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:430px;height:155px;line-height:155px;top:7438px;left:2423px;z-index:202;false">NITIN&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:1062px;height:155px;line-height:155px;top:7631px;left:2423px;z-index:203;letter-spacing:-0.42999999999999994px;false">Antrix&#8194;Associates&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:965px;height:155px;line-height:155px;top:7824px;left:2423px;z-index:204;false">Bangalore.India&#8194;</p><p class="reader-word-layer reader-word-s1-11 reader-word-s1-17" style="width:1204px;height:155px;line-height:155px;top:8017px;left:2423px;z-index:205;font-family:'Times New Roman','87a3b767a26925c52cc5bf320040001','Times New Roman';false">SMT&#8194;Machine&#8194;1&#8194;Set&#8194;
+</p><p class="reader-word-layer reader-word-s1-25" style="width:144px;height:155px;line-height:155px;top:8203px;left:764px;z-index:206;false">8.&#8194;</p><p class="reader-word-layer reader-word-s1-26" style="width:436px;height:155px;line-height:155px;top:8203px;left:992px;z-index:207;false">装运期</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:8203px;left:1429px;z-index:208;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-25" style="width:1106px;height:155px;line-height:155px;top:8408px;left:992px;z-index:209;false">Time&#8194;of&#8194;Shipment</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:8386px;left:2101px;z-index:210;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:8597px;left:992px;z-index:211;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:1707px;height:155px;line-height:155px;top:8211px;left:2423px;z-index:212;false">Not&#8194;Later&#8194;Than&#8194;Jun.16,&#8194;2017&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:8404px;left:2423px;z-index:213;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-25" style="width:144px;height:155px;line-height:155px;top:8782px;left:764px;z-index:214;false">9.&#8194;</p><p class="reader-word-layer reader-word-s1-26" style="width:436px;height:155px;line-height:155px;top:8782px;left:992px;z-index:215;false">装运港</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:8782px;left:1429px;z-index:216;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:979px;height:155px;line-height:155px;top:8987px;left:992px;z-index:217;letter-spacing:-0.14px;false">Port&#8194;of&#8194;Loading</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:8965px;left:1973px;z-index:218;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:9176px;left:992px;z-index:219;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-14" style="width:2145px;height:155px;line-height:155px;top:8790px;left:2423px;z-index:220;false">From&#8194;:&#8194;SHENZHEN&#8194;PORT,&#8194;CHINA&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:8983px;left:2423px;z-index:221;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-27" style="width:217px;height:155px;line-height:155px;top:9361px;left:764px;z-index:222;false">10.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:9361px;left:992px;z-index:223;false">保险</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:9361px;left:1284px;z-index:224;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:617px;height:155px;line-height:155px;top:9566px;left:992px;z-index:225;letter-spacing:-0.18px;false">Insurance</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:9545px;left:1612px;z-index:226;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:9755px;left:992px;z-index:227;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:2278px;height:155px;line-height:155px;top:9369px;left:2423px;z-index:228;letter-spacing:-0.35000000000000003px;false">TO&#8194;BE&#8194;COVERED&#8194;BY&#8194;THE&#8194;BUYER.&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:9562px;left:2423px;z-index:229;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:210px;height:155px;line-height:155px;top:9941px;left:764px;z-index:230;letter-spacing:-2.24px;false">11.&#8194;</p><p class="reader-word-layer reader-word-s1-8 reader-word-s1-20" style="width:581px;height:155px;line-height:155px;top:9941px;left:992px;z-index:231;font-family:'宋体','87a3b767a26925c52cc5bf320030001','宋体';false">付款方式</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:9941px;left:1574px;z-index:232;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:1126px;height:155px;line-height:155px;top:10146px;left:992px;z-index:233;letter-spacing:-0.96px;false">Terms&#8194;of&#8194;Payment</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:10124px;left:2122px;z-index:234;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:10335px;left:992px;z-index:235;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-21" style="width:6426px;height:155px;line-height:155px;top:9949px;left:2423px;z-index:236;false">The&#8194;Buyers&#8194;shall&#8194;pay&#8194;half&#8194;of&#8194;the&#8194;payment&#8194;for&#8194;good&#8194;when&#8194;place&#8194;the&#8194;order,and&#8194;pay&#8194;off&#8194;the&#8194;rest&#8194;of&#8194;the&#8194;payment&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:2299px;height:155px;line-height:155px;top:10142px;left:2423px;z-index:237;letter-spacing:-0.12px;false">after&#8194;the&#8194;exhibition&#8194;in&#8194;September,2017.&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:10335px;left:2423px;z-index:238;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-27" style="width:217px;height:155px;line-height:155px;top:10521px;left:764px;z-index:239;false">12.&#8194;</p><p class="reader-word-layer reader-word-s1-18" style="width:291px;height:155px;line-height:155px;top:10521px;left:992px;z-index:240;false">备注</p><p class="reader-word-layer reader-word-s1-6" style="width:36px;height:155px;line-height:155px;top:10521px;left:1284px;z-index:241;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:561px;height:155px;line-height:155px;top:10725px;left:982px;z-index:242;letter-spacing:-0.2px;false">Remarks</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:10704px;left:1547px;z-index:243;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:10915px;left:982px;z-index:244;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:36px;height:155px;line-height:155px;top:10528px;left:2423px;z-index:245;font-family:simsun;">&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:693px;height:155px;line-height:155px;top:11111px;left:2385px;z-index:246;letter-spacing:0.13px;false">The&#8194;Buyer&#8194;
+</p><p class="reader-word-layer reader-word-s1-6" style="width:668px;height:155px;line-height:155px;top:11111px;left:6510px;z-index:247;false">The&#8194;Seller&#8194;
+</p><p class="reader-word-layer reader-word-s1-15" style="width:1194px;height:155px;line-height:155px;top:11301px;left:1653px;z-index:248;false">ANTRIX&#8194;ASSOCIA</p><p class="reader-word-layer reader-word-s1-16" style="width:935px;height:155px;line-height:155px;top:11301px;left:2830px;z-index:249;false">TES&#8194;PVT,.LTD&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:3143px;height:155px;line-height:155px;top:11301px;left:5272px;z-index:250;letter-spacing:-1.05px;false">LANGKE&#8194;AUTOMATION&#8194;EQUIPMENT&#8194;CO.,&#8194;LTD.&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:663px;height:155px;line-height:155px;top:11494px;left:2400px;z-index:251;false">(signature)&#8194;
+</p><p class="reader-word-layer reader-word-s1-11" style="width:664px;height:155px;line-height:155px;top:11494px;left:6512px;z-index:252;false">(signature)&#8194;
+</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:11911px;left:1448px;z-index:265;font-family:simsun;">&#8194;</p><p class="reader-word-layer reader-word-s1-19" style="width:42px;height:182px;line-height:182px;top:12138px;left:1448px;z-index:266;font-family:simsun;">&#8194;
+</p></div></div></div></div></div></div>
+</div>
+<b class="bottom"><b class="bl"></b><b class="br"></b></b>
+</div>
+
+</div>
+<div id="sampling-area" style="display: block; position: absolute; top: -9999px; left: -9999px;">1234567890ABCDEFGHIJKLMNabcdefghijklmn!@#$%^&amp;&amp;*
+()_+.一三五七九贰肆陆扒拾，。青玉案元夕东风夜放花千树更吹落星如雨宝马雕车香满路凤箫声动玉壶光转一夜鱼龙舞蛾儿雪柳黄金缕笑语盈盈暗香去众里寻
+他千百度暮然回首那人却在灯火阑珊处 </div>
+
+<div class="mod pay-page-mod complex " id="doc_bottom_wrap">
+<b class="top"><b class="tl"></b><b class="tr"></b></b>
+<div class="inner">
+
+<div class="bd" id="bottom-download" data-scale="0.70709782964164" data-render="1">
+<div class="pay-page-inner reader-end-download">
+<p class="doc-bottom-text">阅读已结束，下载本文需要</p>
+<div class="doc-bottom-core"><div class="reader-to-cashier-vip"><div class="doc-ticket"><i></i>1下载券</div><div class="user-ticket">（您持有<span>0</span>下载券，积分不足无法兑换）</div><div class="btns-wrap"><div class="btn-join-to-vip-advance"><b class="iconfont icon-join-to-vip"></b>加入VIP免下载券下载</div></div><div class="rights-wrap"><div class="free-download"><i></i>赠送免券下载特权</div><div class="doc-10w"><i></i>10W篇文档免费专享</div><div class="discount"><i></i>部分付费文档8折起</div></div></div></div>
+<div class="wubai-wrap">
+<div class="hengxian"></div>
+<div class="wubai-title">
+<span class="wubai-icon"></span>
+<p>定制HR最喜欢的简历</p>
+</div>
+<a href="https://wenku.baidu.com/org/browse/jianlidingzhi" target="_blank" title="" class="wubai-rukou log-xsend" data-logxsend="[1, 100844]">我要定制简历</a>
+</div></div>
+</div>
+</div>
+<b class="bottom"><b class="bl"></b><b class="br"></b></b>
+</div>
+
+<div id="next_doc_box" class="">
+<a href="javascript:void(0)" class="log-xsend" data-logxsend="[1, 100574, {index:2}]">
+<span class="next_text">下一篇</span>
+<i class="iconfont"></i>
+</a>
+</div>
+<a class="ic reader-fullScreen xllDownloadLayerHit_left top-right-fullScreen" href="javascript:;" title="全屏显示" data-toolsbar-log="fullscreen" alog-action="htmltoolbar.fullscreen"></a></div>
+<div id="shareWrap-1" style="display:none;">
+<div id="shareMore-1" class="reader-share reader-tools-share" style="display: block;">
+<dl>
+<dt>把文档贴到Blog、BBS或个人站等：</dt>
+<dd class="reder-code-box">
+<input id="readerCode-1" onclick="this.select()" class="reader-code" value="&lt;object width=&quot;450&quot; height=&quot;500&quot; align=&quot;middle&quot; id=&quot;reader&quot; codebase=&quot;http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot;&gt;&lt;param value=&quot;window&quot; name=&quot;wmode&quot;&gt;&lt;param value=&quot;true&quot; name=&quot;allowfullscreen&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;param value=&quot;http://wenku.baidu.com/static/flash/apireader.swf?docurl=http://wenku.baidu.com/play&amp;amp;docid=71b26b3eae45b307e87101f69e3143323968f5a8&amp;amp;title=%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C&amp;amp;doctype=doc&amp;amp;fpn=5&amp;amp;npn=5&amp;amp;readertype=external&amp;catal=0&amp;amp;cdnurl=//wktxt.bdimg.com/play&quot; name=&quot;movie&quot;&gt;&lt;embed width=&quot;450&quot; align=&quot;middle&quot; height=&quot;500&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; name=&quot;reader&quot; src=&quot;http://wenku.baidu.com/static/flash/apireader.swf?docurl=http://wenku.baidu.com/play&amp;amp;docid=71b26b3eae45b307e87101f69e3143323968f5a8&amp;amp;title=%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C&amp;amp;doctype=doc&amp;amp;fpn=5&amp;amp;npn=5&amp;amp;readertype=external&amp;catal=0&amp;amp;cdnurl=//wktxt.bdimg.com/play&quot; wmode=&quot;window&quot; allowscriptaccess=&quot;always&quot; bgcolor=&quot;#FFFFFF&quot; ver=&quot;9.0.0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/object&gt;">
+<a id="copyCode-1" href="javascript:void(0);" class="cp_btn logSend" data-logsend="{&quot;send&quot;:[&quot;view&quot;,&quot;share&quot;,{&quot;sns&quot;:&quot;web_player&quot;}]}">复制</a>
+<span id="copyResult-1"></span>
+<a id="viewReader-1" class="pre" href="javascript:void(0);">预览</a>
+</dd>
+<dd>
+<input id="normalSize-1" name="reader-share" checked="checked" type="radio">
+<label for="normalSize-1">普通尺寸(450*500pix)</label>
+<input id="bigSize-1" class="big" name="reader-share" value="" type="radio">
+<label for="bigSize-1">较大尺寸(630*500pix)</label>
+</dd>
+</dl>
+</div>
+</div>
+<form name="downloadForm" action="/user/submit/download" method="post" target="runDown">
+<input name="ct" value="20008" type="hidden">
+<input name="doc_id" value="71b26b3eae45b307e87101f69e3143323968f5a8" type="hidden">
+<input name="retType" value="newResponse" type="hidden">
+<input name="sns_type" type="hidden">
+<input name="storage" value="1" type="hidden">
+<input name="useTicket" value="0" type="hidden">
+<input name="target_uticket_num" value="0" type="hidden">
+<input name="downloadToken" value="4171e41e2ad41d2bfc2dc701c956906b" type="hidden">
+<input name="sz" value="31232" type="hidden">
+<input name="v_code" value="0" type="hidden">
+<input name="v_input" value="0" type="hidden">
+<input name="req_vip_free_doc" value="0" type="hidden">
+</form>
+</div>
+<div class="ft" style="width: 964px;">
+<div class="union-ad-bottom" id="wkgg" style="display: none; border: 1px solid rgb(222, 222, 222);"></div>
+<div class="kgrecommend-wrap"></div>
+<div class="mod bottom-doc-list pt20 " id="bottom-doc-list-3">
+
+<div class="hd">
+<h4>你可能喜欢</h4>
+</div>
+<div class="bd stru-recom-new">
+<div class="tagList-wrap">
+<div class="tagList tabControl" alog-group="view.strurecom.tag.total">
+<textarea id="tagList-template-3" style="display:none">                
+&lt;%for (var i = 0, len = data.length; i &lt; len; i++) {%&gt;
+                    &lt;%var className = '';%&gt;
+                    &lt;%if (i === 0) {%&gt;
+                        &lt;%className = 'current';%&gt;
+                    &lt;%}%&gt;
+                    &lt;a href="javascript:;" 
+class="&lt;%=className%&gt; logSend log-xsend"
+                        
+title="&lt;%=util.encodeHTML((data[i]['tag_name']))%&gt;"
+                        
+data-logsend="{'send':['view','tag_link',{'from':'srs','tag_no':'&lt;%=(i+1)%&gt;','ply':'','doc_srs_strategy':'&lt;%=doc_srs_strategy%&gt;','doc_srs_tag':'&lt;%=doc_srs_tag%&gt;'}]}"
+
+                        alog-action="view.strurecom.tag.&lt;%=i%&gt;"
+                        data-logxsend="[1, 101465]"&gt;
+                        
+&lt;%=util.cutString(data[i]['tag_name'],10,'...')%&gt;
+                    &lt;/a&gt;
+                &lt;%}%&gt;
+                </textarea>
+</div>
+</div>
+<div class="tabContent tableList data c-gray9">
+<textarea id="tableList-template-3" style="display:none">
+                &lt;% for (var i = 0, len = data.length; i &lt; len; 
+i++) { %&gt;
+                    &lt;%var status = 'disabled';%&gt;
+                    &lt;% if (i == 0) {%&gt;
+                        &lt;%status = 'current';%&gt;
+                    &lt;%}%&gt;
+                    &lt;%var docList = 
+data[i]['related_doc_infos'];%&gt;
+                    &lt;div class="&lt;%=status%&gt;"&gt;
+                        &lt;div alog-group="view.strurecom.doc"&gt;
+                            &lt;div class="guess-u-like"&gt;
+                            &lt;%for (var j = 0, n = docList.length; j 
+&lt; n; j++) {%&gt;
+                                &lt;div class="txtL one-info-block"&gt;
+                                    &lt;div class="image-wrap"&gt;
+                                        &lt;a 
+href="/view/&lt;%=docList[j]['doc_id']%&gt;.html"
+                                            target="_blank" 
+class="logSend log-xsend fcClick"
+                                            
+data-logsend="{'send':['view','doc_link',{'from':'srs','tag_no':'&lt;%=(i+1)%&gt;','ply':'','doc_srs_strategy':'&lt;%=doc_srs_strategy%&gt;','doc_srs_tag':'&lt;%=doc_srs_tag%&gt;'}]}"
+
+                                            
+data-logxsend="[1,100029,{'index':'&lt;%=j%&gt;','click_doc_id':'&lt;%=docList[j]['doc_id']%&gt;'}]"
+
+                                            
+title="&lt;%=util.encodeHTML(docList[j].title)%&gt;"&gt;
+                                            &lt;%if 
+(docList[j]['cover_url']) {%&gt;
+                                                &lt;img 
+src="&lt;%=docList[j]['cover_url']%&gt;"&gt;
+                                            &lt;%} else if 
+(docType[docList[j]['doc_type']].toString() === 'ppt') {%&gt;
+                                                &lt;img 
+src="//wkstatic.bdimg.com/static/wkview/widget/stru_recom/image/default-image-ppt_f21179f.jpg"&gt;
+
+                                            &lt;%} else {%&gt;
+                                                &lt;img 
+src="//wkstatic.bdimg.com/static/wkview/widget/stru_recom/image/default-image_f16d940.jpg"&gt;
+
+                                            &lt;%}%&gt;
+                                        &lt;/a&gt;
+                                        &lt;b class="ic ic-type-icon 
+ic-&lt;%=docType[docList[j]['doc_type']].toString()%&gt;"&gt;&lt;/b&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="doc-info-box"&gt;
+                                        &lt;div class="doc-title"&gt;
+                                            &lt;a 
+href="/view/&lt;%=docList[j]['doc_id']%&gt;.html" target="_blank" 
+class="logSend log-xsend fcClick"
+                                                
+data-logsend="{'send':['view','doc_link',{'from':'srs','tag_no':'&lt;%=(i+1)%&gt;','ply':'','doc_srs_strategy':'&lt;%=doc_srs_strategy%&gt;','doc_srs_tag':'&lt;%=doc_srs_tag%&gt;'}]}"
+
+                                                
+data-logxsend="[1,100029,{'index':'&lt;%=j%&gt;','click_doc_id':'&lt;%=docList[j]['doc_id']%&gt;'}]"
+
+                                                
+title="&lt;%=util.encodeHTML(docList[j].title)%&gt;"&gt;
+                                                
+&lt;%=util.cutString(docList[j].title,25,'...')%&gt;
+                                            &lt;/a&gt;
+                                        &lt;/div&gt;
+                                        &lt;div 
+class="doc-other-info"&gt;
+                                            &lt;%if (docList[j] 
+&amp;&amp; docList[j]['qualityScore']) {%&gt;
+                                                &lt;span 
+class="doc-score"&gt;&lt;%=docList[j]['qualityScore']%&gt;&lt;/span&gt; 分
+                                            &lt;%} else {%&gt;
+                                                &lt;span 
+class="doc-score"&gt;0.0&lt;/span&gt; 分
+                                            &lt;%}%&gt;
+
+                                            &lt;%if (docList[j] 
+&amp;&amp; docList[j]['view_count']) {%&gt;
+                                                &lt;span 
+class="doc-view-count"&gt;&lt;%=docList[j]['view_count']%&gt;人阅读&lt;
+/span&gt;
+                                            &lt;%} else {%&gt;
+                                                &lt;span 
+class="doc-view-count"&gt;0人阅读&lt;/span&gt;
+                                            &lt;%}%&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;%}%&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div&gt;
+                            &lt;p class="list-more" colspan="4"&gt;
+                                &lt;a 
+href="//wenku.baidu.com/search?word=&lt;%=data[i]['tag_name']%&gt;&amp;tn=SE_huins0007_nhui0007"
+
+                                    target="_blank" class="logSend 
+log-xsend"
+                                    data-logxsend='[1, 100180]'
+                                    
+data-logsend="{'send':['view','more_link',{'from':'srs','tag_no':'&lt;%=(i+1)%&gt;','ply':'','doc_srs_strategy':'&lt;%=doc_srs_strategy%&gt;','doc_srs_tag':'&lt;%=doc_srs_tag%&gt;'}]}"&gt;
+
+                                    
+更多与“&lt;span&gt;&lt;%=data[i]['tag_name']%&gt;&lt;/span&gt;”相关的内容&gt;&
+gt;
+                                &lt;/a&gt;
+                            &lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;%}%&gt;
+            </textarea>
+</div>
+</div>
+</div>
+<div id="doc-comment" class="doc-comment s-comment">
+<h4>
+您的评论<span class="star-act">
+<b class="ct-star value-star ic-star-off"></b><b class="ct-star value-star ic-star-off"></b><b class="ct-star value-star ic-star-off"></b><b class="ct-star value-star ic-star-off"></b><b class="ct-star value-star ic-star-off"></b>
+</span>
+<span class="f-star"></span>
+<span class="tip">*感谢支持，给文档评个星吧！</span>
+</h4>
+<div class="post-comment-wrap clearfix">
+<div class="add-ct-tip">
+<div class="add-ct-wrap">
+<p style="padding:10px;"><textarea class="post-comment-ipt" placeholder="写点评论支持下文档贡献者~"></textarea></p>
+<p class="length-tip">240</p>
+</div>
+<a class="add-new-btn post-comment-btn" href="javascript:void(0);">发布评论</a>
+<div id="captcha-wrap" style="display:none;">
+<input id="v_input" placeholder="输入验证码" name="v_input">
+<img id="captcha">
+<a class="change-captcha" href="javascript:void(0);">换一换</a>
+<input id="v_code" name="v_code" type="hidden">
+</div>
+<p class="tip"></p>
+</div>
+</div>
+<div class="comment-wrap">
+<h4>
+用户评价<span class="ct-num"></span></h4>
+<p class="loading" style="display: none;">评论加载中...</p>
+<ul class="comment-list hide" id="comment-list" style="display: block; margin-top: -10px;">
+    
+        <li class="no-comment">暂无评论</li>
+    
+</ul>
+</div>
+</div>
+<div id="pager"><div class="ui-pager pager-center"><div class="pager"><div class="pager-inner"></div></div></div></div>
+<script type="text/template" id="comment-item-tpl">
+    <div class="ct-item-wrap">
+        <div class="clearfix ct-con-wrap">
+            <div class="ct-extra-into">
+                <p><%= create_time %></p>
+                <p>
+                    <% if ( "文库新人" == uname ) { %>
+                        <a href="javascript:void(0);" class="delete-btn">删除</a>
+                    <% } %>
+                    <a href="javascript:void(0);" class="reply-btn">回复 (<span class="ry-num">0</span>)</a>
+                </p>
+            </div>
+
+            <div class="ct-con">
+                <div class="avatar-wrap"><div><a href="<%= url %>" target="_blank"><img class="avatar" src="<%= avatar %>" /></a></div></div>
+                <div class="main-con">
+                    <p>
+                        <span class="ct-star" >
+                            <% var onNum = Math.ceil( star ); %>
+                            <% var offNum = 5 - onNum; %>
+                            <% for ( var i = 0; i < onNum; i++ ) { %>
+                                <b class="ic-star-score star-score-on"></b>
+                            <% } %>
+                            <% for ( var i = 0; i < offNum; i++ ) { %>
+                                <b class="ic-star-score star-score-off"></b>
+                            <% } %>
+                        </span>
+                        <a class="uname" href="<%= url %>" target="_blank"><%= tname %></a>
+
+                        <% if ( oInfo.org_name ) { %>
+                            <span class="bg-comment ic-over"></span>
+                        <% } else if ( title ) { %>
+                            <span class="bg-comment ic-ver"></span>
+                            <span class="title"><%= title %></span>
+                        <% } %>
+                    </p>
+                    <div class="ct-atc">
+                        <p><%- content %></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="reply-wrap">
+            <div class="bg-comment ic-arrow"></div>
+            <div class="post-reply clearfix">
+                <a class="add-new-btn post-reply-btn" href="javascript:void(0);">回复</a>
+                <input type="text" class="post-reply-ipt" />
+            </div>
+
+            <div class="info-tip clearfix">
+                <p class="error-tip"></p>
+                <p class="reply-num">共<%= reply_count %>条回复</p>
+            </div>
+
+            <ul class="reply-list">
+
+            </ul>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="comment-list-tpl">
+    <% if ( commentList.length > 0 ) { %>
+        <% _.each( commentList, function( item ) { %>
+            <li class="ct-item" data-reply-id="<%= item.reply_id %>" id="item-<%= item.reply_id %>">
+                <div class="ct-item-wrap">
+                    <div class="clearfix ct-con-wrap">
+                        <div class="ct-extra-into">
+                            <p><%= item.create_time %></p>
+                            <p>
+                                <% if ( "文库新人" == item.uname || item.is_uid_admin ) { %>
+                                    <a href="javascript:void(0);" class="delete-btn">删除</a>
+                                <% } %>
+                                <a href="javascript:void(0);" class="reply-btn">回复 (<span class="ry-num"><%= item.reply_count %></span>)</a>
+                            </p>
+                        </div>
+
+                        <div class="ct-con">
+                            <div class="avatar-wrap"><div><a href="<%= item.url %>" target="_blank"><img class="avatar" src="<%= item.avatar %>" /></a></div></div>
+                            <div class="main-con">
+                                <p>
+                                    <span class="ct-star" >
+                                        <% var onNum = Math.ceil( item.star ); %>
+                                        <% var offNum = 5 - onNum; %>
+                                        <% for ( var i = 0; i < onNum; i++ ) { %>
+                                            <b class="ic-star-score star-score-on"></b>
+                                        <% } %>
+                                        <% for ( var i = 0; i < offNum; i++ ) { %>
+                                            <b class="ic-star-score star-score-off"></b>
+                                        <% } %>
+                                    </span>
+                                    <a class="uname" href="<%= item.url %>" target="_blank"><%= item.tname %></a>
+
+                                    <% if ( item.oInfo.org_name ) { %>
+                                        <span class="bg-comment ic-over"></span>
+                                    <% } else if ( item.title ) { %>
+                                        <span class="bg-comment ic-ver"></span>
+                                        <span class="title"><%= item.title %></span>
+                                    <% } %>
+                                </p>
+                                <div class="ct-atc">
+                                    <p><%- item.content %></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="reply-wrap">
+                        <div class="bg-comment ic-arrow"></div>
+                        <div class="post-reply clearfix">
+                            <a class="add-new-btn post-reply-btn" href="javascript:void(0);">回复</a>
+                            <input type="text" class="post-reply-ipt" />
+                        </div>
+
+                        <div class="info-tip clearfix">
+                            <p class="error-tip"></p>
+                            <p class="reply-num">共<%= item.reply_count %>条回复</p>
+                        </div>
+
+                        <ul class="reply-list">
+
+                        </ul>
+                    </div>
+                </div>
+            </li>
+        <% } ); %>
+    <% } else { %>
+        <li class="no-comment">暂无评论</li>
+    <% } %>
+</script>
+<script type="text/template" id="reply-item-tpl">
+    <div class="ry-item-wrap">
+        <p class="date">
+            <%= create_time %><br/>
+            <% if ( "文库新人" == uname ) { %>
+                <a href="javascript:void(0);" class="delete-btn delete-reply-btn">删除</a>
+            <% } %>
+        </p>
+
+        <div class="reply-info">
+            <p>
+                <a class="uname" href="<%= url %>" target="_blank"><%= tname %></a>
+
+                <% if ( oInfo.org_name ) { %>
+                    <span class="bg-comment ic-over"></span>
+                <% } else if ( title ) { %>
+                    <span class="bg-comment ic-ver"></span>
+                    <span class="title"><%= title %></span>
+                <% } %>
+            </p>
+            <div class="ct-atc">
+                <p><%- content %></p>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="reply-list-tpl">
+    <% _.each( replyList, function( item, key ) { %>
+        <li class="ry-item clearfix <% if ( key == replyList.length - 1 ) { %> last <%}%>" data-reply-id="<%= item.reply_id %>" id="item-<%= item.reply_id %>">
+            <div class="ry-item-wrap">
+                <p class="date">
+                    <%= item.create_time %><br/>
+                    <% if ( "文库新人" == item.uname ) { %>
+                        <a href="javascript:void(0);" class="delete-btn delete-reply-btn">删除</a>
+                    <% } %>
+                </p>
+
+                <div class="reply-info">
+                    <p>
+                        <a class="uname" href="<%= item.url %>" target="_blank"><%= item.tname %></a>
+                        <% if ( item.oInfo.org_name ) { %>
+                            <span class="bg-comment ic-over"></span>
+                        <% } else if ( item.title ) { %>
+                            <span class="bg-comment ic-ver"></span>
+                            <span class="title"><%= item.title %></span>
+                        <% } %>
+                    </p>
+                    <div class="ct-atc">
+                        <p><%- item.content %></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+    <% } ); %>
+</script>
+<div id="ggbtm" style="overflow: hidden; width: 964px; display: none;"></div>
+</div>
+</div>
+<b class="bottom"><b class="bl"></b><b class="br"></b></b>
+</div>
+
+<div class="ys-ads-mask">
+</div>
+
+</div>
+
+
+<div class="aside aside-v3"></div>
+
+
+</div>
+</div>
+</div>
+<div id="ft">
+
+<div class="footer">
+<p>
+<span class="cr">&#169;2018&nbsp;Baidu</span>&nbsp;<span>|&nbsp;由&nbsp;百度云&nbsp;提供计算服务</span>&nbsp;|&nbsp;<a href="http://www.baidu.com/duty/" class="Bidu" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="https://wenku.baidu.com/portal/browse/help#help/24" class="Xieyi" target="_blank">文库协议</a>&nbsp;|&nbsp;<a href="https://jiaoyu.baidu.com/topic/bsplatform/brand_promotion" class="Xieyi" target="_blank">广告服务</a>&nbsp;|&nbsp;<a href="https://jiaoyu.baidu.com/topic/bsplatform/institutional_database" class="Xieyi" target="_blank">企业文库</a>&nbsp;|&nbsp;<a href="https://wenku.baidu.com/portal/browse/websitemap" class="Xieyi" target="_blank">网站地图</a>
+</p>
+</div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd8bfb560f8d03bbefc9bdecafc4a4bf6' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/h.js" type="text/javascript"></script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=39124"></script>
+<script type="text/javascript" id="bdshell_js" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/share.js"></script>
+<div class="ad-taishan-bar" style="background: rgb(3, 159, 234) url(&quot;https://edu-wenku.bdimg.com/v1/images/2018gaokaonews/1200-44-2-1528166379235.png&quot;) no-repeat scroll center center; display: block;">
+<a href="https://tiku.baidu.com/tikupc/graderecommend" target="_blank" class="log-xsend" data-logxsend="[1, 100968, {index: 1}]"></a>
+<div class="ad-bar-close"></div>
+</div>
+<div class="ad-taishan">
+<a href="###" target="_blank" class="log-xsend" data-logxsend="[1, 100968, {index: 2}]"></a>
+</div>
+
+
+<script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/uni_armorwidget_wrapper.js"></script>
+<script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/uni_login_wrapper.js"></script>
+<script type="text/javascript">var pageId='wenku-view';</script>
+
+
+
+
+
+
+<script>alog && alog('speed.set', 'drt', +new Date);</script>
+
+<script>
+    if (window.viewTime && window.viewTime.t) {
+        // body 渲染完成时间
+        window.viewTime.bt = new Date().getTime();
+    }
+    void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+<script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/mod_21fbee4.js"></script><script type="text/javascript">require.resourceMap({"res":{"wkview:widget\/doc_header_new\/doc_header_qrcode.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/doc_header_new\/doc_header_qrcode_431fcd5.js","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/js_core\/qrcode\/qrcode.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkview:widget\/ui\/html_view\/widget.js":{"pkg":"wkview:p3","deps":["wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/lib\/lang\/lang.js","wkcommon:widget\/ui\/lib\/array\/array.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkview:widget\/doc_bottom\/doc_bottom_text\/doc_bottom_text.js":{"pkg":"wkview:p0"},"wkapi:widget\/js\/dep\/jquery\/jquery.js":{"pkg":"wkapi:p1"},"wkview:widget\/ui\/view\/operate\/operate.js":{"pkg":"wkview:p1","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js"]},"wkview:widget\/doc_header_new\/index.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/doc_header_new\/index_1f1565b.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/js_core\/login\/login.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkview:widget\/doc_header_new\/doc_header_qrcode.js","wkcommon:widget\/ui\/lib\/string\/string.js","wkview:widget\/ui\/view\/doc_report\/doc_report.js"]},"wkcommon:widget\/dp_performance\/dp_First\/dp_First.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/reader\/config\/config.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/js_core\/mvp\/template\/template.js"]},"wkcommon:widget\/ui\/reader\/model\/doc\/model.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/mvp\/model\/model.js","wkcommon:widget\/ui\/js_core\/mvp\/template\/template.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkcommon:widget\/ui\/reader\/model\/model.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/model\/doc\/model.js"]},"wkcommon:widget\/ui\/reader\/view\/doc\/util.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js"]},"wkcommon:widget\/ui\/reader\/view\/doc\/render.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/reader\/view\/doc\/util.js"]},"wkcommon:widget\/ui\/reader\/view\/doc\/view.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/mvp\/view\/view.js","wkcommon:widget\/ui\/reader\/view\/doc\/render.js"]},"wkcommon:widget\/ui\/reader\/view\/view.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/view\/doc\/view.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader\/strategy\/doc\/util.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js"]},"wkcommon:widget\/ui\/reader\/strategy\/doc\/strategy.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/preload\/preload.js","wkcommon:widget\/ui\/reader\/strategy\/doc\/util.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/dp_performance\/dp_First\/dp_First.js"]},"wkcommon:widget\/ui\/reader\/strategy\/strategy.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/strategy\/doc\/strategy.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader\/presenter\/presenter.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/mvp\/presenter\/presenter.js","wkcommon:widget\/ui\/js_core\/mvp\/event\/event.js","wkcommon:widget\/ui\/reader\/config\/config.js","wkcommon:widget\/ui\/reader\/model\/model.js","wkcommon:widget\/ui\/reader\/view\/view.js","wkcommon:widget\/ui\/reader\/strategy\/strategy.js","wkcommon:widget\/ui\/reader_plugin\/reader_plugin.js"]},"wkcommon:widget\/ui\/reader\/reader.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader\/presenter\/presenter.js"]},"wkcommon:widget\/ui\/reader_plugin\/ZeroClipboard\/ZeroClipboard.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/reader_plugin\/qrcode.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/js_core\/qrcode\/qrcode.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader_plugin\/translate.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader_plugin\/baike.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/mvp\/template\/template.js","wkcommon:widget\/ui\/js_core\/util\/util.js"]},"wkcommon:widget\/ui\/reader_plugin\/copylimit\/copylimit.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/_dialog\/_dialog.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/reader_plugin\/copy.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/reader_plugin\/ZeroClipboard\/ZeroClipboard.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/reader_plugin\/qrcode.js","wkcommon:widget\/ui\/reader_plugin\/translate.js","wkcommon:widget\/ui\/reader_plugin\/baike.js","wkcommon:widget\/ui\/reader_plugin\/copylimit\/copylimit.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/reader_plugin\/log.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/match_card.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/lib\/browser\/browser.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/lib\/array\/array.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/match_card.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/getKeycard.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/sio\/sio.js","wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/js_core\/toolkit\/toolkit.js","wkcommon:widget\/lib\/doT\/doT.min.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/main.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/sio\/sio.js","wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/getKeycard.js"]},"wkcommon:widget\/ui\/reader_plugin\/videokeyword\/search.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/lib\/array\/array.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/browser\/browser.js"]},"wkcommon:widget\/ui\/reader_plugin\/videokeyword\/video_card\/videocard.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/js_core\/toolkit\/toolkit.js","wkcommon:widget\/lib\/doT\/doT.min.js"]},"wkcommon:widget\/ui\/reader_plugin\/videokeyword\/main.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/ui\/reader_plugin\/videokeyword\/search.js","wkcommon:widget\/ui\/js_core\/util\/util.js","wkcommon:widget\/ui\/lib\/sio\/sio.js","wkcommon:widget\/ui\/lib\/object\/object.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/inCharset\/inCharset.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/video_card\/videocard.js"]},"wkcommon:widget\/ui\/reader_plugin\/reader_plugin.js":{"pkg":"wkcommon:p10","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/reader_plugin\/copy.js","wkcommon:widget\/ui\/reader_plugin\/log.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/main.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/main.js"]},"wkcommon:widget\/ui\/reader_plugin\/keyword\/idList.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/reader_plugin\/keyword\/wordList.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/reader_plugin\/search.js":{"pkg":"wkcommon:p10"},"wkcommon:widget\/ui\/payCheck\/payCheck.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/payCheck\/payCheck_61061dc.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/js_core\/_dialog\/_dialog.js","wkcommon:widget\/ui\/js_core\/login\/login.js"]},"wkcommon:widget\/ui\/lib\/store\/store.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/store\/store_32a0d1e.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js"]},"wkview:widget\/ad\/viewSideDownAd\/viewSideDown.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ad\/viewSideDownAd\/viewSideDown_9f34452.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkview:widget\/html_view\/html_reader\/js\/autofixed.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkcommon:widget\/ui\/lib\/async_widget\/async_widget.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/async_widget\/async_widget_e8d6637.js","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkview:widget\/ui\/detectImgBlock\/conf.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ui\/detectImgBlock\/conf_bd82ddc.js"},"wkview:widget\/ui\/detectImgBlock\/hijack.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/ui\/detectImgBlock\/hijack_5dabab1.js","deps":["wkview:widget\/ui\/detectImgBlock\/conf.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcommon:widget\/ui\/lib\/lazyload\/lazyload.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/lazyload\/lazyload_ff4c82f.js"},"wkcommon:widget\/ui\/lib\/BigPipe\/BigPipe.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/ui\/lib\/BigPipe\/BigPipe_1626517.js","deps":["wkcommon:widget\/ui\/lib\/lazyload\/lazyload.js"]},"wkview:widget\/common_toc\/reader_html\/page_body\/main.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkview\/widget\/common_toc\/reader_html\/page_body\/main_f4c0a92.js","deps":["wkcommon:widget\/ui\/lib\/async_widget\/async_widget.js","wkcommon:widget\/ui\/lib\/browser\/browser.js","wkview:widget\/crmAd\/crmAd2.js","wkview:widget\/crm_multi\/crm_multi.js","wkview:widget\/ui\/detectImgBlock\/detectImgBlock.js","wkview:widget\/ui\/detectImgBlock\/hijack.js","wkcommon:widget\/ui\/lib\/BigPipe\/BigPipe.js","wkview:widget\/crmAd\/crmAd3.js","wkview:widget\/fengchao_right\/fengchao_right.js","wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]}},"pkg":{"wkcommon:p10":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/pkg\/pkg_wkcommon_htmlReader_d9b10b3.js","has":["wkcommon:widget\/dp_performance\/dp_First\/dp_First.js","wkcommon:widget\/ui\/reader\/config\/config.js","wkcommon:widget\/ui\/reader\/model\/doc\/model.js","wkcommon:widget\/ui\/reader\/model\/model.js","wkcommon:widget\/ui\/reader\/view\/doc\/util.js","wkcommon:widget\/ui\/reader\/view\/doc\/render.js","wkcommon:widget\/ui\/reader\/view\/doc\/view.js","wkcommon:widget\/ui\/reader\/view\/view.js","wkcommon:widget\/ui\/reader\/strategy\/doc\/util.js","wkcommon:widget\/ui\/reader\/strategy\/doc\/strategy.js","wkcommon:widget\/ui\/reader\/strategy\/strategy.js","wkcommon:widget\/ui\/reader\/presenter\/presenter.js","wkcommon:widget\/ui\/reader\/reader.js","wkcommon:widget\/ui\/reader_plugin\/ZeroClipboard\/ZeroClipboard.js","wkcommon:widget\/ui\/reader_plugin\/qrcode.js","wkcommon:widget\/ui\/reader_plugin\/translate.js","wkcommon:widget\/ui\/reader_plugin\/baike.js","wkcommon:widget\/ui\/reader_plugin\/copylimit\/copylimit.js","wkcommon:widget\/ui\/reader_plugin\/copy.js","wkcommon:widget\/ui\/reader_plugin\/log.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/match_card.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/search.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/match_card\/getKeycard.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/main.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/search.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/video_card\/videocard.js","wkcommon:widget\/ui\/reader_plugin\/videokeyword\/main.js","wkcommon:widget\/ui\/reader_plugin\/reader_plugin.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/idList.js","wkcommon:widget\/ui\/reader_plugin\/keyword\/wordList.js","wkcommon:widget\/ui\/reader_plugin\/search.js"]}}});</script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pkg_wkcommon_lib_67a6f6e.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/model_934932f.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/cashiercommon_1de6bfa.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/flashFactory_7ca31b3.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/xdomainrequest_adc6083.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/sug_6c7bcef.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/feedback_345ce50.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pkg_wkcommon_base_17d24be.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/sessionX_bf051b5.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/top_ads_banner_eac8215.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/page_tag_a7aff0b.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/viewcommon_3071437.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/htmlview_3b96e5d.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/detectImgBlock_b16dce0.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/hao123common_c703d7b.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/newviewppt_674874b.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/render_2051b36.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pkg_wkenterprise_base_57bafd2.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/raw_income_ea0cdb3.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/native_income_6af42f7.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/inCharset_0ee79e0.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/mediator_bcff269.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/toolsBar_0b41a15.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/download_cee00e6.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/pay_3712748.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/html_reader_newtools_3c747d0.js"></script><script type="text/javascript" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/html_view_newtools_2f3675d.js"></script><script type="text/javascript">
+!function(){            //service worker相关统计
+            require.async(['wkcommon:widget/ui/js_core/log/log.js'],function(Log){
+                try {
+                    function testMime (key, value) {
+                        var mimeTypes = navigator.mimeTypes;
+                        for (var i in mimeTypes) {
+                        if (mimeTypes[i][key] === value) {
+                            return true;
+                        }
+                        }
+                        return false;
+                    }
+                    if (navigator.userAgent.indexOf('Chrome') !== -1) {
+                        Log.xsend(1, 101033);
+                        if (navigator.mimeTypes) {
+                            if (testMime('type', 'application/vnd.chromium.remoting-viewer')) {
+                                Log.xsend(1, 101032);
+                            }
+                        }
+                    }
+                    if ('serviceWorker' in navigator && 'PushManager' in window) {
+                        Log.xsend(1, 101034);
+                    }
+                } catch (e) {
+
+                }
+            });
+        }();
+!function(){        require.async('wkview:widget/ui/nsTypeMap/nsTypeMap.js');
+        }();
+!function(){    var $ = require('wkcommon:widget/ui/lib/jquery/jquery.js');
+    var sessionX = require('wkcommon:widget/sessionX/sessionX.js');
+    var sessionXMgr = sessionX.sessionXMgr;
+    var urlParam = sessionXMgr.getUrlParam();
+    window.wkCommonLogParam = typeof window.wkCommonLogParam === 'object'
+        ? window.wkCommonLogParam : {};
+    $.extend(true, window.wkCommonLogParam, {
+        '_sessionx_url_param': JSON.stringify(urlParam)
+    });
+}();
+!function(){require.async(['wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/user_bar/user_bar.js'], function(Data, $){
+    Data.set('isPgcPop', '0');
+    Data.set('smallFlow',true);
+    $( '#reg' ).attr( 'href', 'https://passport.baidu.com/v2/?reg&tpl=do&u=' + encodeURIComponent( location.href ) );
+});
+}();
+!function(){    window.escapeSymbol=function(e){return String(e).replace(/[#%&+=\/\\\ \u3000\f\r\n\t]/g,function(e){return"%"+(256+e.charCodeAt()).toString(16).substring(1).toUpperCase()})},window.setHeadUrl=function(e){if(document.getElementById("kw").value){var t=new RegExp("[?]");if(!t.test(e.href)){var r=e.href;e.href=e.getAttribute("data-href"),e.setAttribute("data-href",r)}e.href=e.href.replace("?newmap=1&ie=utf-8&s=s%26wd%3D","?newmap=1&ie=utf-8&s=s&wd="),e.href=e.href.replace(new RegExp("("+e.getAttribute("wdfield")+"=)[^&]*"),"$1"+encodeURIComponent(document.getElementById("kw").value)).replace("?newmap=1&ie=utf-8&s=s&wd=","?newmap=1&ie=utf-8&s=s%26wd%3D"),e.href=e.href.replace(new RegExp("("+e.getAttribute("wdfield")+"=)[^&]*"),"$1"+window.escapeSymbol(document.getElementById("kw").value))
+}else{var t=new RegExp("[?]");if(t.test(e.href)){var r=e.href;e.href=e.getAttribute("data-href"),e.setAttribute("data-href",r)}}};;
+    }();
+!function(){    require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/header/search_box/search_box.js'], function(T, Data){
+
+    var hotword = T.json.parse('[{\x22content\x22:\x22\\u5927\\u5b66\\u7269\\u7406\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u5165\\u515a\\u7533\\u8bf7\x22,\x22isnew\x22:\x221\x22},{\x22content\x22:\x22ppt\\u6a21\\u677f\x22,\x22isnew\x22:\x221\x22},{\x22content\x22:\x22\\u804c\\u4e1a\\u751f\\u6daf\\u89c4\\u5212\\u4e66\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u4e2a\\u4eba\\u7b80\\u5386\\u6a21\\u677f\x22,\x22isnew\x22:\x221\x22},{\x22content\x22:\x22\\u6bdb\\u6982\\u590d\\u4e60\\u8d44\\u6599\x22,\x22isnew\x22:\x221\x22},{\x22content\x22:\x22\\u4e2d\\u8003\\u6ee1\\u5206\\u4f5c\\u6587\x22,\x22isnew\x22:\x220\x22}]');
+
+    Data.set('hotword', hotword);
+    });
+}();
+!function(){    require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/ui/js_core/login/login.js", "wkcommon:widget/ui/lib/jquery/jquery.js", "wkcommon:widget/ui/js_core/log/log.js"],function(e,n,i,o){e.dom.ready(function(){var t=(e.event,e.g);o.xsend(1,100753);var a=document.location.pathname,r={"nav-index":/^\/$/i,"nav-edu":/^\/edu/i,"nav-org":/^\/org\/index/i},u=(n.login,100);for(var c in r)if(r.hasOwnProperty(c)){var s=r[c];if(s.test&&s.test(a)){var d=t(c);d&&e.addClass(d,"current")}}!function(){var n=document.location.pathname,i=(e.dom.g("zone-menu"),e.dom.q("ui-sub-nav","hd","div")[0]),o=[/^\/edu\/index$/i,/^\/ppt\/index$/i,/^\/life\/index$/i,/^\/pro\/index$/i,/^\/form\/index$/i,/^\/topic$/i],t=function(){for(var e={isZonePage:!1,zoneType:""},i=0,t=o.length;t>i;i++){var a=o[i];
+a.test(n)&&(e.isZonePage=!0,e.zoneType=n)}return e}();if(t.isZonePage&&i)for(var a=i.getElementsByTagName("a"),r=0,u=a.length;u>r;r++){var c=a[r],s=c.getAttribute("href");(t.zoneType===s||document.location.href===s)&&e.dom.addClass(c.parentNode,"current")}}(),function(){function e(){a.hide(),t.removeClass("current")}function n(){a.show(),t.addClass("current")}var o="";if(!o){var t=i("#zone-menu"),a=i("#wk-all-cate"),r=null;t.mouseenter(function(){r&&clearTimeout(r),r=setTimeout(function(){n()
+},u)}).mouseleave(function(n){r&&clearTimeout(r),n.relatedTarget!=a[0]&&e()}),a.mouseenter(function(){n()}).mouseleave(function(){e()})}}(),function(n){var i=null;n("ul.main-nav li").on("mouseenter",function(){var e=n(this),o=e.find(".drop-sub-nav");o.length&&o.find(">a").length&&(i=setTimeout(function(){o.show(),e.addClass("current")},u))}),e.cookie.get("__join_jiaoyu_vip")?n(".havenew-ic").hide():(n(".havenew-ic").show(),n(".jiaoyu-vip").on("click",function(){n(".havenew-ic").hide(),e.cookie.set("__join_jiaoyu_vip",1,{path:"/"})
+})),n("ul.main-nav li").on("mouseleave",function(){i&&clearTimeout(i),n(this).find(".drop-sub-nav").hide(),n(this).removeClass("current")})}(i)})});;
+}();
+!function(){    require.async('wkview:widget/top_ads_banner/top_ads_banner.js',
+        function (topAdsBanner) { 
+            new topAdsBanner({
+                crumbs: '实用文档,表格\/模板,合同协议'
+            });
+        }
+    );
+}();
+!function(){			var tagArr = [];
+		require.async(['wkview:widget/doc_header_new/index.js'], function (Index) {
+		this.index = new Index({
+			id: '0',
+			veritype: '',
+			oid: '',
+			hasTag: !!'',
+			tagArr: tagArr
+		});
+	});
+}();
+!function(){    require.async(['wkview:widget/common_toc/common/page_tag/page_tag.js'], function (PageTag) {
+        this.pageTag = new PageTag();
+    });
+}();
+!function(){        require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/reader/reader.js', 'wkcommon:widget/ui/js_core/log/log.js'], function( T, Data, Player, log){
+            T.dom.ready( function() {
+                // 阅读器开始执行时间
+                log.xsend(1, 101170);
+                window.viewTime.s = new Date().getTime();
+                var el = T.dom.g('reader-container-1'),
+                    startPage = parseInt('1'),
+                    pageCount = parseInt('1'),
+                    pageRange = [startPage,Math.min(startPage + 49, pageCount)],
+                    needPlugins = true,
+                    WkInfo = Data.get('WkInfo');
+
+
+                if(WkInfo.DocInfo.isApi) {
+                    needPlugins = false;
+                }
+
+                window.player = Player.reader({
+                    type: 'doc',
+                    els: T.dom.query('.bd',el),
+                    doc_id: '71b26b3eae45b307e87101f69e3143323968f5a8',
+                    doc_id_update: '87a3b767a26925c52cc5bf32',
+                    pageCount: pageRange[1]- pageRange[0]+1 ,
+                    startPage : startPage,
+                    isLogin : +('1'),
+                    zoomLevel : 1,
+                    copyable : !parseInt('0'),
+                    pw:el.offsetWidth,
+                    ph:el.offsetHeight,
+                    container: el,
+                    readerVersion : '6',
+                    //loadAPI : config.loadAPI,
+                    loadingHTML : '<div class="xreader-loading-layer"></div>',
+                    errorHTML : '<div class="xreader-error-layer"></div>',
+                    needPlugins: needPlugins
+                });
+
+                /*
+                    ------------------------------
+                    性能监控代码：核心功能展现完成
+                    ------------------------------
+                */
+                log.send('view','load',{
+                    docId : '71b26b3eae45b307e87101f69e3143323968f5a8',
+                    success:1,
+                    docType : 'doc',
+                    ext : 'doc',
+                    fr : 'in',
+                    version : '6',
+                    cid1 : '4',
+                    cid2 : '203',
+                    cid3 : '75',
+                    cid4 : '0',
+                    ply : 'html'
+                });
+
+                var readerFromSetting = Data.get('WkInfo').readerFromSetting;
+                if(readerFromSetting){
+                    document.body.style.visibility = "";
+                }
+
+                window.player && window.player.create();
+
+                // --阅读进度--
+                require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkview:widget/ui/view/reader_pace/reader_pace.js'],function(T,rp){
+                    var bPage = '0',
+                        bOffset = '0',
+                        rPage = '0',
+                        rOffset = '0',
+                        sendCondition = ('0' == '1');
+                        EC = T.lang.eventCenter;
+
+                    if(sendCondition){
+                        EC.addEventListener('ReaderCreate.after',function(e,data){
+                            var reader = data.reader;
+                                reader.NS_IK_getPagethOnClose = function(){return reader.getPage();};
+                                reader.NS_IK_getPageOffset = function(){return 0;};
+                            var readerIns = {
+                                    getReader : function(){
+                                        return reader;
+                                    }
+                                };
+
+
+                            var readerPace = new rp.readerPace(readerIns);
+                            readerPace.sendPaceInRate();
+                            EC.removeEventListener('ReaderCreate.after','RP');
+                        },'RP');
+                    }
+                });
+
+                var  __init__ = function () {
+                    require.async(['wkview:widget/html_view_newToolsbar/html_reader/html_reader_newtools.js', 'wkview:widget/html_view/html_reader/js/endPageFcShow.js', 'wkview:widget/view_recom_thirdad/endPageGoldClueAd/endPageGoldClueAd.js'], function (Reader, Fc, Gc){
+                        // 判断屏幕大小大于1024则宽度为1075小于则980，zoom比例分别为1.1与1
+                        var zoomLv =  1,
+                            WkInfo = Data.get('WkInfo'),
+                            urlQueryWidth = T.url.getQueryValue(location.href, 'width');
+
+                        var reader = window.reader = new Reader.html_reader({
+                            el:'reader-container-1',
+                            doc_id : '71b26b3eae45b307e87101f69e3143323968f5a8',
+                            doc_id_update : '87a3b767a26925c52cc5bf32',
+                            //doc_id_update : '87a3b767a26925c52cc5bf32',
+                            htmlUrls: '{\x22ttf\x22:[{\x22pageIndex\x22:1,\x22param\x22:\x22&md5sum=a41fb0b3e9f6d258a4d6717df80370e5&range=0-&sign=27a7b7f150\x22}],\x22json\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjbos.bdimg.com\\\/v1\\\/docconvert9565\\\/\\\/wk\\\/a41fb0b3e9f6d258a4d6717df80370e5\\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Tue%2C%2007%20Aug%202018%2010%3A27%3A11%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-06-23T02%3A27%3A11Z%2F3600%2Fhost%2F50fcb36d2adfae03e5cba9028f572240fc5f3dc8cd5ca741719d70572fc4cc10&x-bce-range=0-&token=d36b07b34e53a4fc4dcc39af2e0fed9937b5a06a548c7f3a28ae53594226d4b2&expire=2018-06-23T03:27:11Z\x22}],\x22png\x22:[{\x22pageIndex\x22:1,\x22pageLoadUrl\x22:\x22https:\\\/\\\/wkbjbos.bdimg.com\\\/v1\\\/docconvert9565\\\/\\\/wk\\\/a41fb0b3e9f6d258a4d6717df80370e5\\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Tue%2C%2007%20Aug%202018%2010%3A27%3A11%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-06-23T02%3A27%3A11Z%2F3600%2Fhost%2F018c282660ff1c514e1bb828a79a943b0c5d6d906cea6bef69ae9d4e4f3a015b&x-bce-range=0-&token=dcb3fea3708f31dd4161b81ee1034c68b8f0e6481ffa9adb3963b9da03049877&expire=2018-06-23T03:27:11Z\x22}]}',
+                            type : Data.get('WkInfo').docType['1'],
+                            startPage : parseInt('1'),
+                            pageCount : parseInt('1'),
+                            totalPageNum : parseInt('1'),
+                            isPayMent : parseInt('0'),
+                            ispaided : parseInt(''),
+                            shareElId : 'shareMore-1',
+                            zoomLevel : zoomLv,
+                            reader : window.player,
+                            version : '6',
+                            bookmark : [+'0',+'0'],
+                            isPrivate : !!(''),
+                            isLogin : +('1'),
+                            uid : '1',
+                            toPage : +'1',
+                            payment : +"0",
+                            needPlugins: needPlugins
+                        });
+
+                        var ownCustomer = false;
+                        // 大会员免广告
+                                                    // 广告流量默认的配置
+                            var defaultAdConf = {
+                                zy: true,
+                                fc: true,
+                                wm: true,
+                                adswitch: '1'
+                            };
+                            var defaultAllConf = {
+                                adpos_11: defaultAdConf,
+                                adpos_12: defaultAdConf
+                            };
+                            var t = new Date().getTime();
+
+                            $(window).on('handleEndpageAd', function (e, data) {
+                                var adPos11 = data.adpos_11;
+                                if (adPos11 && adPos11.adswitch === '1') {
+                                    adPos11.zy && log.xsend(1, 101649, {index: 1});
+                                                                        var jobHunt = +'';
+                                    if (!jobHunt || !(adPos11.zy && jobHunt)) {
+                                        Fc.endPageFcShow();
+                                        Data.set('isEndPageLoadFcWmAd', 1);
+                                    }
+                                }
+                            });
+
+                            $.ajax({
+                                url: '/xpage/interface/getadmanageconf?merge=1&end_type=1&ad_pos=11,12&t=' + t,
+                                type: 'get',
+                            }).done(function (res) {
+                                if (res && res.status && res.status.code === 0) {
+                                    Data.set('admanageconf', res.data || defaultAllConf);
+                                    $.event.trigger('handleEndpageAd', res.data || defaultAllConf);
+                                    // Data.set('admanageconf', defaultAllConf);
+                                    // $.event.trigger('handleEndpageAd', defaultAllConf);
+                                }
+                            }).fail(function () {
+                                Data.set('admanageconf', defaultAllConf);
+                                $.event.trigger('handleEndpageAd', defaultAllConf);
+                            });
+
+                            
+                            Gc.endPageGoldClueAd();
+                                            });
+                };
+
+                if(T.browser.ie &&  T.browser.ie < 8 ){
+                   T.dom.ready(__init__);
+                }else{
+                    __init__();
+                }
+
+                // 文档质量3.0小流量下载按钮统计
+                T.lang.eventCenter.addEventListener('smallFlowDownBtn', function () {
+                    log.xsend(1, 101167);
+                })
+
+            });
+        });
+    }();
+!function(){    require.async(['wkview:widget/doc_bottom/doc_bottom.js'], function (DB) {
+        this.db = new DB({
+            isVip: 0        });
+    })
+}();
+!function(){    require.async(['wkview:widget/next_doc/next_doc.js'], function (ND) {
+        ND();
+    });
+}();
+!function(){// tianzheng01 愚人节活动接口 愚人节活动需要购买按钮弹出下载浮层 临时添加上下载的注册时间  活动过后 可以删除
+require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkview:widget/ui/view/down_doc/down_doc.js', 'wkcommon:widget/lib/fis/data/data.js'],function(T,Down,Data){
+
+    var down = Down.downDocCreate();
+    T.lang.eventCenter.addEventListener('download.doc',function(e,data){
+        data = data||{};
+        var from = data.from || false;
+        if(from==='payDialog'){
+            down.getFile();
+        }else{
+            //down.start(Data.get('WkInfo'));
+            down.start();
+        }
+    });
+
+});
+}();
+!function(){
+    require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkview:widget/ui/view/doc_share/doc_share.js', 'wkview:widget/ui/view/pay_org_vip/pay_org_vip.js', 'wkcommon:widget/ui/payCheck/payCheck.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/js_core/login/login.js', 'wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/js_core/util/util.js', 'wkview:widget/ui/util/util.js', 'wkview:widget/html_view_newToolsbar/html_reader/html_reader_newtools.js', 'wkcommon:widget/ui/js_core/login/login.js', 'wkcommon:widget/ui/js_core/dialogCashier/dialogCashier.js'],function(T, docShare,payOrgVip,Pay, Data, Login, log , util, viewUtil,Reader, Login, dialogCashier){
+
+        //起始页 by robben，给config用
+        Data.set('readerStartPage', parseInt('1'));
+
+        //绑定一个隐藏或显示购会员免费下载按钮事件，供pay.js使用
+        T.lang.eventCenter.addEventListener('pack.button.hide',function(){
+                        $('.pack-pay').css('display','inline-block');
+                    });
+
+        var readerVersion = 3;
+
+        T.dom.ready(function(){
+            // 工具栏改版小流量，被body添加特殊的累
+            $('body').addClass('newTools');
+
+                // tianzheng01  登陆浮层优化 立即加入VIP 按钮
+                var docId = '71b26b3eae45b307e87101f69e3143323968f5a8';
+
+                // tianzheng01 innerCashier enter
+                var WkInfo = Data.get('WkInfo');
+
+                $('.btn-login-joinvip-rightnow').on('click', function(){
+                    T.lang.eventCenter.addEventListener( 'Login.Success', function(e) {
+                        T.event.stop( e );
+                        var isDialogCashier = +Data.get("isDialogCashier");
+                        window.location.href = "/cashier/browse/dispatch?dqStatCode=31_8_9_97&from_doc=71b26b3eae45b307e87101f69e3143323968f5a8";
+                    });
+
+                    var isLogin = Data.get("WkInfo").PageInfo.isLogin;
+                    if (!isLogin) {
+                        log.xsend(1, 100349);
+                    }
+                    // 会员收银台去掉登录
+                    /* Login.login.verlogin(function() {
+                        log.xsend(1, 100349);
+                        var isDialogCashier = +Data.get("isDialogCashier");
+                        window.location.href = "/cashier/browse/dispatch?dqStatCode=31_8_9_97&from_doc=71b26b3eae45b307e87101f69e3143323968f5a8";
+                    },null,null,null,false);*/
+                    log.xsend(1, 100349);
+                    window.location.href = "/cashier/browse/dispatch?dqStatCode=31_8_9_97&from_doc=71b26b3eae45b307e87101f69e3143323968f5a8";
+                })
+
+                //分享
+                var share = docShare.shareToCreate({
+                    el         : T.dom.q('reader-tools-share')[0],
+                    view       : "viewReader-1",
+                    copy       : "copyCode-1",
+                    panel      : "panel-1",
+                    closePanel : "closePanel-1",
+                    toggleSize : ["normalSize-1", "bigSize-1"],
+                    codeText   : "readerCode-1",
+                    copyResult : "copyResult-1"
+                });
+
+                //显示更多分享
+                share.show();
+
+
+                //分享统计
+                var getShareSize = function(){
+                    var normal = T.dom.g('normalSize-1').checked;
+                    if(normal){
+                        return 'small';
+                    }
+                    return 'big';
+                };
+                T.event.on('viewReader-1','click',function(e){
+                    log.send('view','share',{
+                        'subtype':'sharepreview',
+                        'size' : getShareSize(),
+                        'pos':'top',
+                        'copyright' : 3,
+                        'readerVersion' : readerVersion
+                    });
+                });
+                T.event.on('copyCode-1','click',function(e){
+                    log.send('view','share',{
+                        'subtype':'sharecopy',
+                        'size' : getShareSize(),
+                        'pos':'top',
+                        'copyright' : 3,
+                        'readerVersion' : readerVersion
+                    });
+                });
+
+                function resizeBody(){
+                    var viewWidth = T.page.getViewWidth(),
+                        bdWidth = T.dom.query('#bd .body')[0].offsetWidth,
+                        page = T.dom.g('doc');
+                        if(bdWidth>viewWidth){
+                            page.style.width = bdWidth + 'px';
+                        }else{
+                            page.style.width = 'auto';
+                        }
+                        page = null;
+                }
+                T.lang.eventCenter.addEventListener('Reader.zoomChange',function(e){
+                    var docBodyEl = T.dom.query('#bd .body')[0],
+                        bdWrap = T.dom.query('#bd .bd-wrap')[0],
+                        crubmsWrap = T.dom.query('#bd .crubms-wrap');
+                        if(crubmsWrap.length > 1) {
+                            crubmsWrap = crubmsWrap[0];
+                            crubmsWrap.style.width = docBodyEl.offsetWidth + 'px';
+                        }
+                        bdWrap.style.minWidth = docBodyEl.offsetWidth + 'px';
+                        resizeBody();
+                });
+
+                T.lang.eventCenter.addEventListener('Reader.WindowResize',resizeBody);
+                T.lang.eventCenter.addEventListener('Reader.fullScreenResize',resizeBody);
+
+                //付费文档展现量统计
+                if(parseInt('0',10)){
+                    log.send('view','payview',{
+                        docId : '71b26b3eae45b307e87101f69e3143323968f5a8',
+                        docType : 'doc',
+                        ext : 'doc',
+                        fr : 'in',
+                        version : '6',
+                        cid1 : '4',
+                        cid2 : '203',
+                        cid3 : '75',
+                        cid4 : '0',
+                        ply : 'html',
+                        pn:'1'
+                    });
+                }
+
+                toolsBarLogItem ="",toolsBarLogMode ="";
+                var toolsBarLogFunc = util.debounce(function(){
+                        log.send('view','toolbarClick',{
+                                    area : 'toolbar',
+                                    mode : toolsBarLogMode,
+                                    item : toolsBarLogItem,
+                                    docType : 'doc',
+                                    ext : 'doc',
+                                    fr : 'in',
+                                    version : '6',
+                                    cid1 : '4',
+                                    cid2 : '203',
+                                    cid3 : '75',
+                                    cid4 : '0',
+                                    ply : 'html'
+                        });
+                    },1000);
+
+                T.lang.eventCenter.addEventListener('ReaderToolsBar.itemClick',function(e,data){
+                        var    isFullScreen = data.setting.isFullScreen;
+                            toolsBarLogItem = data.name;
+                        toolsBarLogMode = isFullScreen ? "fullscreen" : "normalscreen";
+                        if(toolsBarLogItem === "fullscreen"){
+                            toolsBarLogMode = isFullScreen ? "normalscreen" : "fullscreen";
+                            isFullScreen ? toolsBarLogItem = "fullscreen" : toolsBarLogItem = "normalscreen";
+                        }
+                        toolsBarLogFunc();
+
+                });
+
+                var currentPageLog = +"1",
+                    startReaderTime = (new Date()).getTime(),
+                    readerTime = 0,
+                    htmlreadLog = function(page,time){
+                        log.send('view','htmlread',{
+                                    docId : '71b26b3eae45b307e87101f69e3143323968f5a8',
+                                    docType : 'doc',
+                                    ext : 'doc',
+                                    page : page,
+                                    time : time/1000,
+                                    fr : 'in',
+                                    version : '6',
+                                    cid1 : '4',
+                                    cid2 : '203',
+                                    cid3 : '75',
+                                    cid4 : '0',
+                                    ply : 'html'
+                        });
+                    },
+                    browseLog = function(page){
+                        log.send('view','browse',{
+                                    docId : '71b26b3eae45b307e87101f69e3143323968f5a8',
+                                    docType : 'doc',
+                                    ext : 'doc',
+                                    page : page,
+                                    fr : 'in',
+                                    version : '6',
+                                    cid1 : '4',
+                                    cid2 : '203',
+                                    cid3 : '75',
+                                    cid4 : '0',
+                                    ply : 'html'
+                        });
+                    };
+                T.lang.eventCenter.addEventListener('Reader.scroll',function(e,data){
+                    var page = data.currentPage;
+                    if(page === currentPageLog){return;}
+                    var currentTime = (new Date()).getTime();
+                    if((currentTime-startReaderTime)>500){
+                        browseLog(currentPageLog);
+                    }
+                    currentPageLog = page;
+                    startReaderTime = currentTime;
+                });
+
+                // 阅读器内部调用统计方法
+                // 原viewlog.js中方法，由于在fis:data加载之前执行导致报错
+
+                (function() {
+                    T.lang.eventCenter.addEventListener('view-log', function(e, data) {
+                        var method = data.method || 'send',
+                            args = data.args || [],
+                            DocInfo = Data.get('WkInfo').DocInfo;
+
+                        if( (method === 'send' || method === 'nslog') && args.length > 2 ) {
+                            util.mix(args[2] || {}, {
+                                'cid1' : DocInfo.cid1,
+                                'cid2' : DocInfo.cid2,
+                                'cid3' : DocInfo.cid3,
+                                'cid4' : DocInfo.cid4,
+                                'docId' : DocInfo.docId,
+                                'doctype' : DocInfo.docType
+                            },  true);
+                        }
+
+                        log[method] && log[method].apply(this, args);
+                    });
+                })();
+
+            // 支付    pay todo:
+                            window.name="";
+                document.body.focus();
+
+                T.event.on(window,'onbeforeunload',function(e){
+                    var page = reader.getPage(),
+                        offset = 0;
+
+                        viewUtil.saveViewedPage('71b26b3eae45b307e87101f69e3143323968f5a8',page,offset);
+
+                });
+
+                T.cookie.remove('newMark',{path:'/view/'});
+
+                T.lang.eventCenter.addEventListener('do-login', function(e) {
+                    Login.login.verlogin(function() {
+                        location.reload();
+                    });
+                });
+            });
+    });
+}();
+!function(){    require.async(['wkview:widget/html_view/doc_banner/doc_banner.js'], function (DB) {
+        this.db = new DB({
+            id: '2',
+            isVip: 0        });
+    })
+}();
+!function(){	require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkview:widget/kg_recommend/util/config.js'], function ($, T, Data, config) {
+
+        // 在原来的view页面底部——你可能喜欢（stru_recom.tpl）模块没有数据就派发kgRecommendview
+        T.lang.eventCenter.addEventListener('kgRecommendview', kgRecommendviewRender);
+
+        function kgRecommendviewRender () {
+            // 全局变量
+            Data.set('docId', '71b26b3eae45b307e87101f69e3143323968f5a8');
+
+            // 请求总接口，判断是否有知识图谱相关推荐模块
+            var url = config.url[config.type['getrelinfo']];
+            var options = {
+                doc_id: '71b26b3eae45b307e87101f69e3143323968f5a8'
+            };
+            $.getJSON(url + '?callback=?', options).then(function (data) {
+                if (data.code === 0) {
+                    require.async(['wkview:widget/kg_recommend/kg_recommend.js'], function (kgRecommend) {
+                        // 入口文件
+                        new kgRecommend.main({
+                            'el': '.kgrecommend-wrap',
+                            'docId': '71b26b3eae45b307e87101f69e3143323968f5a8',
+                            'data': data
+                        });
+                    });
+                }
+            });
+        }
+	});
+}();
+!function(){    require.async(['wkview:widget/stru_recom/index.js'], function (Recom) {
+        this.recom = new Recom({
+			readerType: '',
+            recommendType: '',
+            uid: '3',
+            docId: '71b26b3eae45b307e87101f69e3143323968f5a8',
+            refer_query: ''
+        });
+    });
+}();
+!function(){    require.async('wkview:widget/comment/comment_default/comment_default.js');
+}();
+!function(){    require.async(['wkview:widget/ad/commonAd/commonAd.js'], function (page) {
+        page.init();
+    });
+}();
+!function(){	require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/ui/js_core/login/login.js', 'wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/lib/store/store.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/lib/jquery/jquery.js'], function (T, Login, log, Store, Data, $) {
+		log.xsend(1,100601);
+		var login = Login.login;
+		var islogin = $('.doc-upload').data('login');
+		if (islogin == true) {
+			$('.btn-upload').attr('href', '/new');
+			$('.btn-upload').attr('target', '_blank');
+		}
+		T.event.on('uploadDoc-2', 'click', function (e) {
+			login.verlogin(function () {}, null, null, {
+			    actionName: 'upload',
+				fromMod: 'upload'
+			});
+		});
+
+		$('.btn-upload-new').on('click', function () {
+			var WkInfo = Data.get('WkInfo') || {};
+			if (~~WkInfo.DocInfo.is_exam_link) {
+				log.xsend(1, 100718);
+			}
+		});
+	});
+}();
+!function(){    require.async(['wkcommon:widget/ui/js_core/log/log.js'],function(log){
+        log.xsend(1, 100621);
+        
+    });
+}();
+!function(){    require.async(['wkview:widget/ad/viewSideDownAd/viewSideDown.js'],function(viewSideDown){
+        // viewSideDown.init();
+    });
+}();
+!function(){    require.async(["wkcommon:widget/360tip/360tip.js"],function(e){var r=e.showTopTip,t={referer:""};new r(t).create()});;
+}();
+!function(){    var bds_config = {
+        bdPic: '//gss0.baidu.com/70cFsjip0QIZ8tyhnq/img/iknow/wenku/erweima2001.jpg',
+        snsKey: {
+            tsina: 2273341579,
+            tqq: 801199444
+        },
+        bdText: '我正在@百度文库 阅读【外贸销售合同】这篇文章，推荐给大家！用文库客户端可以免积分下载该文档，客户端下载地址：http://'
+            + location.host
+            + '/apps?fr=2001 想立即阅读该文档点这里：'
+    };
+    document.getElementById('bdshell_js').src = '//edu-wenku.bdimg.com/v1/pc/bdshare/static/api/js/share.js?cdnversion=' + new Date().getHours();
+    // 重写qzone分享事件
+    require.async(['wkcommon:widget/lib/tangram/base/base.js'], function (T) {
+        // 重写qzone分享事件
+        var qzones = T.q('sns_qzone');
+        if (qzones) {
+            T.array.each(qzones, function (item, i) {
+                T.event.on(item, 'mouseover', function () {
+                    T.ajax.post(
+                        '/user/interface/qqShareOption',
+                        'app=bind_status',
+                        function (xhr, responseText) {
+                            try {
+                                var errno = eval('(' + responseText + ')');
+                                // 如果已绑定
+                                if (errno.list.join(',').indexOf('qq') > -1) {
+                                    if (item.innerHTML.indexOf('分享到QQ空间') < 0) {
+                                        item.innerHTML = '';
+                                    }
+                                    qzones[i].onclick = function () {
+                                        window.open(
+                                            'http://'
+                                                + location.host
+                                                + '/user/browse/qqShare?url=' + T.string.encodeHTML(location.href),
+                                            'blank'
+                                        );
+                                    }
+                                }
+                            }
+                            catch (ex) {}
+                        }
+                    );
+                });
+            });
+        }
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkview:widget/fix_searchbar/fix_searchbar.js', 'wkcommon:widget/lib/fis/data/data.js'], function( $, FSB, Data) {
+        $( function() {
+            new FSB.fixSearchBar( {
+                evaluateBoxId: '#doc-evaluate-mod',
+                evaluateTagId: '#doc-main',
+                evaluatePreCl: '.reder-share-model'
+            } );
+            $('.top-down-load-container').addClass('view_change_test');
+        } );
+    } );
+}();
+!function(){    require.async(['wkview:widget/ad_taishan/ad_taishan.js'], function (adTaishan) {
+        T.lang.eventCenter.addEventListener('ReaderCreate.after', function () {
+            adTaishan.init();
+        });
+    });
+}();
+!function(){	require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/ui/js_core/util/util.js', 'wkcommon:widget/ui/js_core/eventCenter/eventCenter.js'], function (T, log, $, util, E) {
+		$.ajax({
+			url: '/doc/interface/gaokaozhenti?docid=71b26b3eae45b307e87101f69e3143323968f5a8',
+			success: function (json) {
+				if (json.data.flag) {
+					log.xsend(1, json.data.act_id);
+				}
+			}
+		});
+		// 阅读器统计
+		log.send('view', 'htmlview', {
+			docId: '71b26b3eae45b307e87101f69e3143323968f5a8',
+			docType: 'doc',
+			cid1: '4',
+			cid2: '203',
+			cid3: '75',
+			cid4: '0',
+			totalPageNum: '1',
+			pn: '1'
+		});
+
+		// 浏览历史记录请求
+					T.dom.ready(function () {
+				var url = '/browse/vw?doc_id=71b26b3eae45b307e87101f69e3143323968f5a8';
+				T.ajax.get(url);
+			});
+		
+		util.windowResize(function () {
+			resize();
+		});
+
+		setTimeout(function () {
+			resize();
+		}, 1000);
+		function resize() {
+			$('#html-reader-our-ad-1').css( 'width', $('.reader-container').css('width') );
+			$('#ggbtm').css('width', $('.reader-container').css('width') );
+		}
+
+	});
+}();
+!function(){    require.async(['wkview:widget/common_toc/reader_html/page_body/main.js'], function (PageBody) {
+        this.pageBody = new PageBody({
+            docId: '71b26b3eae45b307e87101f69e3143323968f5a8',
+            docTitle: '外贸销售合同',
+            flag: +'1',
+            needShowAd: +'1',
+            needShowAd2: +'1'
+        });
+    });
+}();
+!function(){    require.async(['wkcommon:widget/ui/js_core/log/log.js'], function (log) {
+        log.xsend(1, 100737);
+
+        var $professionalDoc = '' || 0;
+        var $smallFlowProfessionalDoc = '0' || 0;
+        if ($professionalDoc && $smallFlowProfessionalDoc && $smallFlowProfessionalDoc == 1) {
+            log.xsend(1, 101653);
+        }
+    });
+}();
+</script>
+<div id="docBubble" class="docBubble"><i class="triangle-t"></i><i title="关闭" class="close markSend">关闭</i><div class="tl"><div class="inner log-xsend" data-logxsend="[1,100002]"></div></div><div class="tr"></div><div class="bl"></div></div><div style="position: absolute; display: none; left: 305px; top: 109px; width: 534px;" class="tangram-suggestion-main fsb-suggestion-main" id="tangram-suggestion--TANGRAM$2-main" data-guid="TANGRAM$2"><div id="tangram-suggestion--TANGRAM$2" class="tangram-suggestion" style="position:relative; top:0px; left:0px"></div></div><div style="position: absolute; display: none; left: 305px; top: 109px; width: 534px;" class="tangram-suggestion-main fsb-suggestion-main" id="tangram-suggestion--TANGRAM$3-main" data-guid="TANGRAM$3"><div id="tangram-suggestion--TANGRAM$3" class="tangram-suggestion" style="position:relative; top:0px; left:0px"></div></div><div class="fix-searchbar-wrap" style="top: 44px;">
+    <div class="bg-opacity" style="top: 44px;"></div>
+    <div class="sb-con clearfix" style="width: 1192px;">
+        <div class="evaluate-wrap">
+            <div class="evaluate"></div>
+        </div>
+        <a href="https://wenku.baidu.com/" class="wk-logo bg-fsb"></a>
+        <div class="search-form-wrap">
+            <form action="/search" name="ftop" id="topSearchBox" method="get" class="fsb-search-form">
+<span class="s_ipt_wr s_ipt_wr-with535">
+<input id="kw" name="word" class="s_ipt" maxlength="256" tabindex="1" data-default="" autocomplete="off">
+<span class="s_ipt_plhd" id="kw-plhd">搜试试</span>
+<span class="hot-box">4</span>
+<span class="arrow-box"></span>
+</span><span class="s_btn_wr">
+<input id="sb" value="搜索文档" class="s_btn s_btn_wr_click" type="submit">
+</span><span class="s_tools"><a class="sp-xs-tips log-xsend" data-logxsend="[1, 100955, {&quot;index&quot;:1}]" href="https://wenku.baidu.com/task/browse/rewardbegin?fr=home" target="_blank">悬赏文档</a></span>
+<div class="g-sl" alog-group="switch.doctype">
+<label for="t_all"><input name="lm" value="0" class="type-check" id="t_all" checked="checked" type="radio">全部</label>
+<label for="t_doc"><input name="lm" value="1" class="type-check" id="t_doc" type="radio">DOC</label>
+<label for="t_ppt"><input name="lm" value="3" class="type-check" id="t_ppt" type="radio">PPT</label>
+<label for="t_txt"><input name="lm" value="5" class="type-check" id="t_txt" type="radio">TXT</label>
+<label for="t_pdf"><input name="lm" value="2" class="type-check" id="t_pdf" type="radio">PDF</label>
+<label for="t_xls"><input name="lm" value="4" class="type-check" id="t_xls" type="radio">XLS</label>
+<div style="clear:both"></div>
+</div>
+<input name="od" value="0" type="hidden">
+<input name="fr" value="top_home" type="hidden">
+<input name="ie" value="gbk" type="hidden">
+<input id="ext-spara" name="fr_ext" value="ceiling" type="hidden"></form>
+        <div class="search-form-holder"></div></div>
+        <a class="gk-2016-flow log-xsend" target="_blank" data-logxsend="[1, 100781, {‘index’: 1}]"></a>
+        <div class="qrHover">&nbsp;&nbsp;&nbsp;
+            <!--<div class="wrap">
+                <div class="qrcode"></div>
+                <div class="qr-text">
+                    手机打开<br>
+                    随时查看
+                </div>
+                <span class="icon-close"></span>
+            </div>-->
+            <div class="wrap-big">
+                <div class="qrcode"></div>
+                <div class="qr-title">马上扫一扫</div>
+                <div class="qr-text">
+                    手机打开<br>
+                    随时查看
+                </div>
+            </div>
+            <span class="open-in-phone">
+                <span style="font-size:14px;color:#5DC1A2;" class="iconfont"></span>
+                在手机打开
+            </span>
+            <div class="add-money-icon" style="display: block; left: -358px;"><div class="add-img"></div></div>
+            <span class="add-has-money-pay" style="display: block; left: -368px; line-height: 44px;"><span class="banner-text log-xsend" data-href="" style="white-space: nowrap;">缺钱了？最高可借20万</span><div class="hover-qrcode" data-href="" style="top: -5px; left: 26px;"><img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/_100-1527043395183.jpg"><div class="text">扫一扫,立即有钱花</div></div></span>
+        </div>
+        <div class="top-down-load-container view_change_test">
+            <a id="top-download-btn" class="top-download-btn ui-bz-btn-senior " href="javascript:void(0);">
+                <b class="ui-btn-p-16 ui-btn-btc">
+                    <i class="iconfont"></i>下载</b>
+            </a> 
+            <span class="top-download-price"> 
+                <span class="top-download-text">1&nbsp;下载券</span> 
+            </span> 
+            <span class="top-download-tip" style="display:none;"> 
+                <span class="text">做任务领下载券</span> 
+                <a href="https://wenku.baidu.com/task/browse/daily" target="_blank" class="btn">立即前往</a> 
+                <span class="adorn"></span> 
+            </span> 
+        </div> 
+        <div class="fix-searchbar-gaokao"></div>
+        <div class="tob-fc-bar">
+        </div>
+    </div> 
+    <div class="fix-searchbar-ad"> 
+        <a href="javascript:;" class="btn-fix-searchbar-close"></a> 
+        <a href="https://wenku.baidu.com/miti" class="fix-searchbar-img log-xsend" data-logxsend="[1, 100452]" target="_blank"> 
+            <img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/img_miti_topbar_400x50.png">
+        </a> 
+    </div>
+</div><div id="tip-gc" style="display:none;"></div><div id="reader-qrcode-tip" class="ui-panel trg-tl" tabindex="-1" style="left: -9000px; top: -9000px;"><div class="tips-wrap"><span class="trangle"></span><div class="inner"><div class="hd"><span class="title">扫一扫，发送到手机</span><span class="act"><a href="###" class="ir close">×</a></span></div><div class="bd"><div id="reader-qrcode-marker"></div><div id="reader-qrcode-msg" style="display:none">*已选择了<span id="reader-qrcode-wordnum"></span>字，最多支持70字</div></div></div></div></div><div id="reader-translate-tip" class="ui-panel trg-tl" tabindex="-1" style="left: -9000px; top: -9000px;"><div class="tips-wrap"><span class="trangle"></span><div class="inner"><div class="hd"><span class="title">以下结果由<img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/fanyi.png">提供：<span id="reader-translate-title"></span></span><span class="act"><a href="###" class="ir close">×</a></span></div><div class="bd"><div id="reader-translate-marker"></div></div><div class="ft"><a href="http://fanyi.baidu.com/" id="reader-fanyi-link" target="_blank">百度翻译</a></div></div></div></div><div id="reader-baike-tip" class="ui-panel trg-tl" tabindex="-1" style="left: -9000px; top: -9000px;"><div class="tips-wrap"><span class="trangle"></span><div class="inner"><div class="hd"><span class="title">百科词条：<span id="reader-baike-title"></span></span><span class="act"><a href="###" class="ir close">×</a></span></div><div class="bd"><div id="reader-baike-marker"></div></div><div class="ft"><a href="http://baike.baidu.com/" target="_blank">百度百科</a></div></div></div></div><div class="reader-tools-bar-wrap ugctest tools-bar-small"><div class="reader-tools-bar" style="margin: auto; width: 1200px;"><div class="reader-tools-bar-center clearfix"><div class="left"><a class="ic reader-fullScreen xllDownloadLayerHit_left" href="javascript:;" title="全屏显示" data-toolsbar-log="fullscreen" alog-action="htmltoolbar.fullscreen"></a><div class="reader-tools-zoom xllDownloadLayerHit_left"><a href="###" class="ic zoom-decrease" title="缩小" data-toolsbar-log="zoomout" alog-action="htmltoolbar.zoomout"></a><a href="###" class="ic zoom-add" title="放大" data-toolsbar-log="zoomin" alog-action="htmltoolbar.zoomin"></a></div><div class="reader-tools-zoom reader-tools-praise xllDownloadLayerHit_left"><span class="shuxian"></span><i class="praise-add-num">2</i><i class="praise-decrease-num">1</i><a href="javascript:;" class="ic zoom-decrease praise-add" title="点赞" data-toolsbar-log="zoomout" alog-action="htmltoolbar.zoomout"></a><a href="javascript:;" class="ic zoom-add praise-decrease" title="点踩" data-toolsbar-log="zoomin" alog-action="htmltoolbar.zoomin"></a></div><div class="reader-tools-btn-wrap" tabindex="-1" hidefocus="true"><a class="ic reader-favo reader-favo-new" href="###" data-toolsbar-log="collect" alog-action="htmltoolbar.favo"></a></div><div class="mod doc-evaluate" id="doc-evaluate-mod" style="display: block;"><div class="content" id="reader-evaluate-content-wrap" data-id="71b26b3eae45b307e87101f69e3143323968f5a8" data-value="-1" data-doc-value="0"><span class="evaluate-title">评价文档：</span><span id="total-star" class="star" alog-group="view.evaltotal"><b class="value-star total ic-star-t-off"></b><b class="value-star total ic-star-t-off"></b><b class="value-star total ic-star-t-off"></b><b class="value-star total ic-star-t-off"></b><b class="value-star total ic-star-t-off"></b></span><span class="value-tip" id="doc-evaluate-tips"></span></div><div class="value-pop"><span class="bot"></span><span class="top"></span><p></p></div></div><div class="reder-share-model bdshare_t bds_tools_32 get-codes-bdshare"><a href="javascript:;" class="ico-share"></a><div class="shareTitle">分享到：</div><a href="#" title="分享到QQ空间" class="share_lv1_btn qqzone logSend" data-logsend="{&quot;send&quot;:[&quot;view&quot;,&quot;share&quot;,{&quot;sns&quot;:&quot;mqqzone&quot;,&quot;from&quot;:&quot;html_view_toolbar&quot;}]}">QQ空间</a><a href="#" title="分享到新浪微博" class="share_lv1_btn sinaweibo bds_tsina logSend" data-logsend="{&quot;send&quot;:[&quot;view&quot;,&quot;share&quot;,{&quot;sns&quot;:&quot;msina&quot;,&quot;from&quot;:&quot;html_view_toolbar&quot;}]}">新浪微博</a><a href="#" title="分享到人人网" class="share_lv1_btn renren bds_renren logSend" id="renren">人人网</a><a href="#" title="分享到微信" class="share_lv1_btn share_lv1_btn_weixin weixin logSend" id="share_lv1_btn_weixin" data-logsend="{&quot;send&quot;:[&quot;view&quot;,&quot;share&quot;,{&quot;sns&quot;:&quot;mweixin&quot;,&quot;from&quot;:&quot;html_view_toolbar&quot;}]}">微信</a><div class="weixinTips" id="weixinTips"><div class="qrcode reader-weixin-share-qrcode" id="weixinQrcode"></div><p>扫二维码，快速分享到微信朋友圈</p></div></div></div><span id="share-tips" class="fenxiang"><span class="close fenxiang"></span></span><div class="center" style="width: 966px;"><div class="centerLeft"><div class="reader-tools-page xllDownloadLayerHit_left"><input class="page-input" data-toolsbar-log="jumppage" value="1" type="text"><span class="page-count">/1</span></div></div><div class="centerRight"><div class="reader-tools-btn-wrap-new free-hao123"><a class="ui-bz-btn free-hao123-inner" href="###"><b class="ui-btn-p-10 ui-btn-btc">免费下载通道</b></a>&nbsp;&nbsp;</div><div class="reader-tools-btn-wrap-new download-btn">    <span class="doc-ticket-show">1下载券</span>    <a class="reader-download ui-bz-btn-senior" href="###" data-toolsbar-log="download" alog-action="htmltoolbar.download">        <b class="ui-btn-btc">立即下载</b>    </a>    <a href="https://wenku.baidu.com/cashier/browse/dispatch?dqStatCode=31_8_171_174&amp;from_doc=71b26b3eae45b307e87101f69e3143323968f5a8" id="tip-notice-new" style="display: inline-block; visibility: inherit;" class="vip-free-auto btn-wkvip vip-enjoy"><div><p>VIP专享</p>免费下载</div></a><span id="edit-docPrice" style="display:none;"></span></div></div></div><div class="right" style="right: 356px;"><div class="reader-back2top-wrap" id="activity-tg" style="display: block;">
+<a href="javascript:;" class="has-money-ad"><span class="banner-text addcur" data-href="">立即<br>有钱花</span><div class="hover-qrcode" data-href=""><img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/_120-1527043395473.jpg"><div class="text">扫一扫，立即有钱花</div></div></a>
+
+<a href="javascript:;" class="vip-wrap novip side-a notvip-book" style="right: -1px;">
+热门<br>免费送</a>
+<a href="javascript:;" class="reader-download-app" style="right: -1px;">
+<span class="app-bg"></span>客户端</a>
+<a class="reader-feedback log-xsend help-feedback" title="新版反馈" tabindex="-1" hidefocus="true" data-toolsbar-log="feedback" alog-action="htmltoolbar.feedback" data-logxsend="[1, 100790]" style="cursor: pointer; right: -1px;">
+新版<br>反馈</a>
+<a class="reader-backToTop" href="###" title="回到顶部" tabindex="-1" hidefocus="true" data-toolsbar-log="gotop" alog-action="htmltoolbar.back2top" style="right: -1px;"><span class="bg-index s-ic top"></span></a>
+<div class="reader-app-qrcode-wrap">
+<img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/app-qrcode_20170308.png" width="130" height="130">
+<p>扫码下载文库APP</p>
+<p>随时随地浏览文档</p>
+</div>
+<div class="vip-container-wrap" style="display: none;">
+<div class="wrap-body">
+<div class="title">
+<span class="text">百度教育VIP专属资源,免费任性!</span>
+<a class="more log-xsend" href="https://wenku.baidu.com/user/browse/jiaoyuvipzone#recommend" target="_blank" data-logxsend="[1, 101182]">更多</a>
+<span class="close"></span></div>
+<div class="left-wrap">
+<img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/book_911f47e.png">
+</div>
+<div class="right-wrap">
+<div class="big">中国历史风云录</div>
+<div class="small">和教科书迥然不同的中国历史挽救你被洗脑的智商</div>
+<div class="btn">
+<a class="read log-xsend" target="_blank" style="width: 160px;" data-logxsend="[1, 101183]">加入VIP免费读全本</a>
+<div class="collect" style="display: none;">
+<i class="icon"></i>
+<span class="shoucang">收藏</span>
+<div class="collect-wrap">
+<span class="first">
+已收藏至百度阅读<a href="https://wenku.baidu.com/customer/mybook?item=collected" target="_blank" class="closet">我的书架</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="video-container-wrap" style="display: none;">
+</div>
+</div><div class="toolbar-fsm-wrap toolsbar-vip-wrap"><span class="toolbar-fsm-btn" id="vip-msg"><a href="https://wenku.baidu.com/usera/browse/newvipfreedoczone" target="_blank" id="tip-notice" class="a-new log-xsend" data-logxsend="[1, 100833]"></a></span><a class="fsm-close-btn" href="javascript:void(0);" title="关闭"></a></div></div></div></div></div><div id="reader-helper-el" class="ui-panel trg-tl" style="left: -9000px; top: -9000px; z-index: 9001;"><div class="tips-wrap"><span class="trangle"></span><div class="inner"><span id="reader-link-wrap" style="display:none;"><a href="###" target="_blank" id="reader-link-button" alog-action="htmlplugin.openlink">打开链接</a><span> | </span></span><a href="###" id="reader-copy-button" alog-action="htmlplugin.copy" style="z-index: 9003;">复制</a><span> | </span><a href="###" id="reader-search-button" target="_blank" alog-action="htmlplugin.search" class="log-xsend" data-logxsend="[1,100161]">搜索</a><span> | </span><a href="###" id="reader-translate-button" class="log-xsend" data-logxsend="[1, 100787]" alog-action="htmlplugin.translate">翻译</a><span> | </span><a href="###" id="reader-qrcode-button" class="log-xsend" data-logxsend="[1, 100786]">发送到手机</a></div></div></div><div id="reader-copy-success-tip" class="ui-panel trg-tl" tabindex="-1" style="left: -9000px; top: -9000px; z-index: 9002;"><div class="tips-wrap"><span class="trangle"></span><div class="inner"><div class="bd"><span class="tip-text"><b class="ic ic-radic"></b>文字已复制</span></div></div></div></div><div style="position: absolute; left: -8994px; top: -8989px; width: 48px; height: 32px; z-index: 9004;"><embed id="ZeroClipboardMovie_1" src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" name="ZeroClipboardMovie_1" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=48&amp;height=32" wmode="transparent" width="48" height="32" align="middle"></div><script src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/c.js"></script><div id="reader-wkvideo-card" style="display: none;"></div><div class="mod lastcell-dialog" style="position: fixed; z-index: 0; bottom: 0px; display: none;" id="Zuniqueid__12"><b class="top"><b class="tl"></b><b class="tr"></b></b><div class="inner"><div class="hd"></div><div class="bd"><div id="lastcell-dialog">
+    <a class="area log-xsend" data-logxsend="[1, 101281, {index: 11}]" href="https://eduad.baidu.com/click/wenku_post_json?p=DJtEIYL5gRMld3e7pnBCYs5WmljI4e0x-cFiR0uxnJ_knBUnGctyQ2tDNw4mMMqjEmkAlVb_0MCg5YNZI1crmSJLBkCqBPd10sTXw2UAWOlxW772D58ep8RRQ6lfwjS68YnGV7xJOOx1Ya_S5zqfX2DcedcwF8AOyxRcFVZqiqmrCfKgFXEvhIU58ofraMWg9JTEZCF2v8hLH3utyM6WkTfNPrOe76d7WRABJlsvhLcktDQLVDU6731-WsgnHwV54p-u1Y-gD_4vXdLQnlIpZgl0PihU_3-ILVr4IFGell0BmJXF65ji7N3yBPHRxvIw1_QOzikOQIgsopNL0Sz4Jvj7U7iORT-KjT7mmcwahVOfCu4RRParIjgl-FLZ7MjfM_8C4lFndP81ksVC1WKCiLOM80w4tT938rKzUwBaw7Xv1V2VKskd22zeSN8pipKedbEfKeBvWMFHTnGRcgm3ZL8l_D_YsQ_Ham8DxfML3R832Ri6vU3KbNyVXKDEsQxb2gLm3nrmGRhfL_j52I9JFecOjs5nPZQWdLXwtSV5HwueSkbUfVoOOpq59z4oq-LMwjBkJ11XNxwZTUX0Wg3PgLNwtCv9lFmThkJ3k82OkVfwxg6LqA8Zl8uXPg_6A74bRjQELpylW53xa7ytNIX2y3AeSN9gIQiqiYtQ_eeEKHGTx6AUpXWGVTngd73jnsknMGvEtfPCp3KgTgUMQ_MwmzQKQjQKGd01gWV65K1SLORmvXX04jRGZNsoDSskJeg4&amp;price=0&amp;lp=d7rBt8Jx7o2-h0QR3GQfF5lw55jOQQdRrzwhe3UTBmayWNMjp2Q_fDFBNptruz0H" target="_blank">
+        <img src="%E5%A4%96%E8%B4%B8%E9%94%80%E5%94%AE%E5%90%88%E5%90%8C_%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93_files/5b39055d455682959aa4bc990264e0f7.jpg">
+    </a>
+    <span class="close-dialog close-pop"></span>
+    <span class="icondialog">广告</span>
+</div></div></div><b class="top"><b class="tl"></b><b class="tr"></b></b></div></body></html>
